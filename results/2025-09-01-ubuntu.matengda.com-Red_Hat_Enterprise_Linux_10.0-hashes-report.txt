@@ -1,0 +1,32 @@
+Timestamp: 2025-09-01T13:51:22.664956
+Hostname: ubuntu.matengda.com
+File Path: /opt/Red Hat Enterprise Linux 10.0/rhel-10.0-x86_64-dvd.iso
+MD5     : 0a92b39f1714211f8dc1c3ed2eb719b2
+SHA1    : 28f80139c320a1b9b4f67e67058eadcbdd88d45a
+SHA256  : edce2dd6f8e1d1b2ff0b204f89b0659bc9e320d175beb7caad60712957a19608
+CRC32C  : 06684875
+----------------------------------------
+Timestamp: 2025-09-01T13:51:32.647636
+Hostname: ubuntu.matengda.com
+File Path: /opt/Red Hat Enterprise Linux 10.0/rhel-10.0-x86_64-wsl2.tar
+MD5     : 23f6956e2ab592a6cfa8f3d5ee9494f2
+SHA1    : c2abdafd821a97cf3d5548686f884d2e8aef0f0e
+SHA256  : d178d6b74c65f53e31c0cf25370e2e0fd19314d41476b6b7e798e52b60f5a88c
+CRC32C  : 609a89fd
+----------------------------------------
+Timestamp: 2025-09-01T13:51:54.070811
+Hostname: ubuntu.matengda.com
+File Path: /opt/Red Hat Enterprise Linux 10.0/rhel-10.0-aarch64-boot.iso
+MD5     : fd268cede2f92023fe4b990efe3ba7a9
+SHA1    : a66ed29aeca24f93208f75d9a8c62a8fa57ec41e
+SHA256  : 657dcfd91b2434bb3ee57f0b035c85d86a9f683ca6519c3785ec27cdf672f2e6
+CRC32C  : 968ed217
+----------------------------------------
+Timestamp: 2025-09-01T13:55:17.508896
+Hostname: ubuntu.matengda.com
+File Path: /opt/Red Hat Enterprise Linux 10.0/rhel-10.0-aarch64-dvd.iso
+MD5     : b75b7d31075e11b97f82f8783be840a4
+SHA1    : a6f3f723a5a3765c133588935a59a7ca566b5d58
+SHA256  : 5ccdd72c89830273dfcd5f57dc19084ea03ee7666d079b35330002ace0e1ce5e
+CRC32C  : 8f20017e
+----------------------------------------
