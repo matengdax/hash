@@ -1,0 +1,16 @@
+Timestamp: 2025-09-01T12:52:57.942689
+Hostname: bogon
+File Path: /Users/matengda/Downloads/Red Hat Enterprise Linux 7.9/rhel-server-7.9-x86_64-dvd.iso
+MD5     : 661775a3bd4760de6901d855ee7c9433
+SHA1    : 2982bd05a65b1ee8c799e44db72b9741e430f3ea
+SHA256  : e373d3efe1a6e3f6d6de105d32c2632ee661363d6fe0c24285379b85f99437cb
+CRC32C  : 189450a9
+----------------------------------------
+Timestamp: 2025-09-01T12:52:59.178780
+Hostname: bogon
+File Path: /Users/matengda/Downloads/Red Hat Enterprise Linux 7.9/rhel-server-7.9-x86_64-boot.iso
+MD5     : 03f39dad86cb3c891d36adb85e3d7218
+SHA1    : c6c26475097e4975a35299449d5e3eaa2143d825
+SHA256  : 7a4797c4a16e01a40eb2b83642e8d6aea92e2b3cadf3f933c8af9d50711189e8
+CRC32C  : 06b003cd
+----------------------------------------

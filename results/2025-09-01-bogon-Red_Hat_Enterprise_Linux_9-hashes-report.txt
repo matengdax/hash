@@ -1,0 +1,32 @@
+Timestamp: 2025-09-01T12:58:52.256696
+Hostname: bogon
+File Path: /Users/matengda/Downloads/Red Hat Enterprise Linux 9/rhel-baseos-9.0-x86_64-boot.iso
+MD5     : 6e3238edf464bb169e3930b5b4708c67
+SHA1    : 4df8c905458e6c7bbf3a1977b8be6a025e99fac8
+SHA256  : f3ca9b53122212ed98866ef60e4895cc762493ced765e2961458944ba7c0ced3
+CRC32C  : 772611c5
+----------------------------------------
+Timestamp: 2025-09-01T12:58:53.665258
+Hostname: bogon
+File Path: /Users/matengda/Downloads/Red Hat Enterprise Linux 9/rhel-baseos-9.0-aarch64-boot.iso
+MD5     : 849d7787626161b1efba3408a7821db7
+SHA1    : 14b9cc41a360d93864f5f4e48d72128d191a9f85
+SHA256  : e34e781d7357ccd9c913d3e1fa8a1f3cb702a42809a8694856c973f67076435c
+CRC32C  : 4fe09753
+----------------------------------------
+Timestamp: 2025-09-01T12:59:09.596651
+Hostname: bogon
+File Path: /Users/matengda/Downloads/Red Hat Enterprise Linux 9/rhel-baseos-9.0-x86_64-dvd.iso
+MD5     : 2c3fb85b07f158c21e5b996ba385272b
+SHA1    : 9616bf028f1475aa13517a869979f1e60402294a
+SHA256  : c6942e3ed65947ed48c30589d9c1a752e96c5b94ee8de1923331449fee162cc1
+CRC32C  : 5de403ec
+----------------------------------------
+Timestamp: 2025-09-01T12:59:22.343244
+Hostname: bogon
+File Path: /Users/matengda/Downloads/Red Hat Enterprise Linux 9/rhel-baseos-9.0-aarch64-dvd.iso
+MD5     : b921d9da4d6d976e3e3025b9044aedd6
+SHA1    : acd96c1f7519430571b97c4ebf9dea194ed6a11b
+SHA256  : 635cddcdf02000ab6ffc264d3cfda4c3031196f69ee0c1ad4178824ebff6baae
+CRC32C  : ad482d8f
+----------------------------------------
