@@ -1,0 +1,3240 @@
+Timestamp: 2025-09-03T22:58:50.035687
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-6.6_Technical_Notes-en-US.pdf
+MD5     : c9e94699cf5e26a52d627ad1dd6392bd
+SHA1    : cc229ecc9446784ffd4b8ca4ac8336e47143feb9
+SHA256  : 8cbb70d29df215ee0bd72798ce921e01d3679a701cf48ec2d75f0c70286e1fb8
+CRC32C  : 7dc637ce
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.056641
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-Deployment_Guide-en-US.pdf
+MD5     : 754fdcf6582065b5060e703a185d68d6
+SHA1    : fc3aae8719ef76b175b89dca4787d1dfb070cad7
+SHA256  : 8a984b768a3ba951825a56bf35dd66630dcd4e98ce0a44507eb0cf5214720c47
+CRC32C  : 47e4424b
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.057313
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-6.10_Technical_Notes-en-US.pdf
+MD5     : 936b7fd60a4806b03c1ea74c68c2ebb2
+SHA1    : 11f33d57b29b64910690ba285c689b3e4415bd7f
+SHA256  : 3821fb24a163839a11736bc4a49e7d4dee405be76af061de70f8622d113c2e75
+CRC32C  : 97ec4aad
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.058625
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-6.8_Release_Notes-en-US.pdf
+MD5     : 13008b19c4c4e0701410a9ac1622aa0d
+SHA1    : 579be2b65209e1076f08dc8242b555575f1ad6ca
+SHA256  : 8c34140d1f483b2154c8a3795c672595029502f64cf77dddbd8129bdcc12e5ff
+CRC32C  : 5ec749c6
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.059458
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-6.7_Release_Notes-en-US.pdf
+MD5     : 3eb99d2b5ee223f7881207f4b7ee0c18
+SHA1    : a3dd1d27b87dda3173a397f4f296bf0efb990334
+SHA256  : c82269b8f7acbdbae92040e5238db1969b5abb1993407fbd9b6e4953722d2ffe
+CRC32C  : 0591b1cc
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.059909
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-8-Upgrading_from_RHEL_6_to_RHEL_8-en-US.pdf
+MD5     : c6259a612c4c67c3ff20d8b0444ff781
+SHA1    : b802721ef25b2fb6bb930f8065e1c1454f052378
+SHA256  : 01ec11f598cc1d0b35d20bac50f4213ca22e55d579883a4c9be067aa4c785bd8
+CRC32C  : 3b4f571f
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.061549
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-Virtualization_Tuning_and_Optimization_Guide-en-US.pdf
+MD5     : f5c2631f3fa0deab92de2eef644d1eae
+SHA1    : bf35eb0f61bc4d7c21e99b1fc9a09f66032d030a
+SHA256  : c59b52ea9b44f042329166f9732dc4f0faec983c71056570eae4e45554272bf7
+CRC32C  : 4222ad70
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.064443
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-Virtualization_Getting_Started_Guide-en-US.pdf
+MD5     : f2834c338a975dcd300bdda8e1826edf
+SHA1    : f2d61d10d2e8b765900f0a96fecb386fbca74a83
+SHA256  : e4293445b5613758ccdc721add9d43c172a51a15972f45011e00338551172f82
+CRC32C  : a43d0083
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.065151
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/rhel_5_6_7_8_cheatsheet_a4_0519.pdf
+MD5     : bea80211e7fcaf1fb1c313cfa103cef1
+SHA1    : 60c7e1bcb843d1037b99fe8c7607183880525a2f
+SHA256  : 3d97975614a821055d6269801b4a608363a6db27a23b989addb152d106ede232
+CRC32C  : e313faee
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.065813
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/rhel_5_6_7_8_cheatsheet_24x36_0519.pdf
+MD5     : 09e8a8efa40eb6812533f9a076cd645b
+SHA1    : d9c1217cfe62677aceeb9e1f2cfdb0b5777f7c79
+SHA256  : da1578890bf1b6538b2b22e78bcf170e6124ca691a690e7407214ac85bd0f3f7
+CRC32C  : 77ca95e8
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.066543
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-Virtualization_Security_Guide-en-US.pdf
+MD5     : ebbc224c38e5899087a22ad906c13b21
+SHA1    : 1be77bc197c8c673870c4094dbfa2bfb74984305
+SHA256  : dd10b2c8ba306b891cc89febd3e2aa6b569babe5f2d621f7ef1815687612c94f
+CRC32C  : e47bed20
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.067093
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-6.3_Release_Notes-en-US.pdf
+MD5     : 10b5e907b0790a4bdc5a7c4e6ed3023b
+SHA1    : 0123833b6f499724bb527957cfced6a731931e1e
+SHA256  : 36b6c66181a0a974906f2e6ec7481f75a1a59129317f256396c90476adf35610
+CRC32C  : 3f5844f2
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.080923
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-Identity_Management_Guide-en-US.pdf
+MD5     : c287c526ea6a50e6c01f57f7273953ef
+SHA1    : c6ed2492e37a9f4917deff4ae97cbd503b114786
+SHA256  : e7ce60f8fb19c1c5fbac9c8c7a6a962ad67290b6df051803f5123b943d6c4764
+CRC32C  : 150b13af
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.083258
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-Fence_Configuration_Guide-en-US.pdf
+MD5     : b0f4992942ad614f486b9fd36a0d0bb8
+SHA1    : 6ed827fa00749300e03a1aec3855809a614d4aad
+SHA256  : 2d85bdff0b83951c087f8da054b33c81bfadc9956d27485cd2b6f43dfb9346bd
+CRC32C  : a06ca201
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.085097
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-Performance_Tuning_Guide-en-US.pdf
+MD5     : d5f3073c6de086945391787c50a5f8bb
+SHA1    : c8b6694777ff654ca0e04f4744614d3d668ed509
+SHA256  : aa2fbeabdd1ba377ab7d1f84689b4fdcfa446dfa9beb87141feb819151969dd7
+CRC32C  : 2f80e2ac
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.086476
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-6.9_Technical_Notes-en-US.pdf
+MD5     : fa04f20eb9ed5dfbc6773821dc7ae956
+SHA1    : e429d5b44585c97abcacb4144d23c338b9a6ba9c
+SHA256  : a2a4e31998dea5b3ad667e21c9a54d97e17056b001317875d7ed84f1632e60af
+CRC32C  : 6052d145
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.088435
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-Power_Management_Guide-en-US.pdf
+MD5     : 90e840ac61711bcea43a1363d4c400f6
+SHA1    : 3eee1ecedd318d15e733af525b38198831d84fab
+SHA256  : de214c9bfa5402ece91d5e30636757f648deb46cc807330d38a9a34d35fd3cb1
+CRC32C  : 0d4256d7
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.095761
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-6.1_Technical_Notes-en-US.pdf
+MD5     : 34b2c6e96f87216bb85d2b13dcedad5c
+SHA1    : 933410f82a2e8f6b0a1671e0c67c7ed6a5d997c5
+SHA256  : 680f2b41aef5e698c6e235e502a2fc9eaa7244546489f72ff8bed71187357984
+CRC32C  : ad08025b
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.097064
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-DM_Multipath-en-US.pdf
+MD5     : f12197af85511cad378c9a9dee7ecaf5
+SHA1    : a5ea08cf459ec77c71520303a9bdf943e2b01340
+SHA256  : bf0f143aceec51fdb3d896bf1dce6a6225b5e4a4e9e57d188a0967f2b9582c87
+CRC32C  : a655ede6
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.104913
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-6.4_Technical_Notes-en-US.pdf
+MD5     : 0f69d7180332f086e3e768a230a10f5e
+SHA1    : 64c736f04c3703581f1800c50d3904611ce70db3
+SHA256  : 6699701a60a7ebf3e788b45d64444bf69f515ad49a98dbbfa062a3d379b104d0
+CRC32C  : 199a3cb4
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.117006
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-Virtualization_Administration_Guide-en-US.pdf
+MD5     : 2dfe914c9d523a78778cbbd1fe055e22
+SHA1    : 6ab91ccc7b439152fbf98e8d57e8b21d4275f230
+SHA256  : 0b067ccc252657c37e8ed27674354ed384e06676833c86254a84b6cd110643b9
+CRC32C  : 0ff87972
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.119614
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-V2V_Guide-en-US.pdf
+MD5     : 043fda3e4e737445e3430d44998728ab
+SHA1    : b8d9c3c8c5ed181f508851fd6a70ebf506ca18bc
+SHA256  : 8209b3a0a13977c023b25025f9962d47de5f57f47113fc848f6d2a7c5baf34c7
+CRC32C  : 2adc97ea
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.121236
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-6.0_Release_Notes-en-US.pdf
+MD5     : 49532cb00d8d8b0d2fc79ca6c4cd8864
+SHA1    : a4aa3e586e8b7208013a0e72098e8ac3f50c4c93
+SHA256  : 9c673859738ab62cd0db91b1f31f986e4bac733d04c5f8a3c12d44e4f677e009
+CRC32C  : 6dd51f8f
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.122367
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-High_Availability_Add-On_Overview-en-US.pdf
+MD5     : fba052f0f8219a58303b7d7b05ca41fd
+SHA1    : 311d9a28c25b36f328cac883ab27993c726b27f9
+SHA256  : 433725a06e83651b1c4213ee9e00e15e0e70638c1c0e910dc83ed0a121eb3ade
+CRC32C  : 63aa2b04
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.125521
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-SystemTap_Tapset_Reference-en-US.pdf
+MD5     : 945eb8abc4d6089816c2a301c56111ba
+SHA1    : 8e8bf8d3814fd4e79dbd08ac4a8a1e39d252f61f
+SHA256  : 9618db3a1bd70f99f2903b6b32b5642a843a6ae1149089fddfe83a0ca2585589
+CRC32C  : 46789c75
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.126176
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/rhel_5_6_7_8_cheatsheet_11x17_0519.pdf
+MD5     : 87b56637aac4b78ca760f7f8b3108744
+SHA1    : 0e9be4cd465d0d1c4be7f1f1bc69de188530bbed
+SHA256  : f87a0011ee0db7433b91e4b123aa0c1f1cc1d0b30ec15ee66a6002b6bb4abf41
+CRC32C  : 8063a293
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.127910
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-Configuring_the_Red_Hat_High_Availability_Add-On_with_Pacemaker-en-US.pdf
+MD5     : bac11de1f5d84f7381cb8ce39f9aac77
+SHA1    : 29043a35b5423f73d0545287d726e84f98f2087f
+SHA256  : 858cdfd7b85839dfab360cba78a58b9f37832380d001cca771ed4d4d4efa2ebd
+CRC32C  : c2ef13b9
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.133047
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-Security_Guide-en-US.pdf
+MD5     : c94111000ca9e89f10d134ba8dc22b1c
+SHA1    : d96704e92a7f38e7caefeec7c03c2358b1ba8c51
+SHA256  : 423c612d973931af615a54162faf3b4173502ee1c94fe7b8dace1a8c5d1c18d7
+CRC32C  : 440a63cc
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.133801
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-6.4_Release_Notes-en-US.pdf
+MD5     : 448b7b32250f6f546f1cce0b6ff64106
+SHA1    : 6239528886999acbc97d9a2c917ead7005ed1068
+SHA256  : 75764a09cfed8347a4eb5db9e446fa03602f08ba06270cf8e91d3cbbf1fa4dfa
+CRC32C  : 7e6ed01c
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.141727
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-6.3_Technical_Notes-en-US.pdf
+MD5     : 9b5f72f8e411a02d530978ebbcbda7a5
+SHA1    : 3a31d5a99552ef2252bae69e84dd0128f62a32f5
+SHA256  : f193ac047b76377857181721fb681d5da7cdd6fe0ea2baff5485550bdfdd91da
+CRC32C  : bed52185
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.143173
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-SystemTap_Beginners_Guide-en-US.pdf
+MD5     : c749eef8d37e932d8b95cd69ffaffe06
+SHA1    : ded7c6b2e9deee789d8ce4fdf48c44be03318413
+SHA256  : f4ce0a39266e04bae6bf31dfa7594f5bc274d3b9db848b2f74946cda151d61a8
+CRC32C  : b30059b1
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.150362
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-6.2_Technical_Notes-en-US.pdf
+MD5     : a3978d2e0411afec2568e5eb3b109672
+SHA1    : c8c0d9b60c3fb98ac036a6e5d495c7560ac75879
+SHA256  : 3b11ae7fa7ea426474866a0b75e95d35dd2fb2687120caee2d4ad732b6a110b1
+CRC32C  : 0749c995
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.150940
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-6.10_Release_Notes-en-US.pdf
+MD5     : 5d6a86eb9f0f7a357f68bc02ae125fac
+SHA1    : a36da68a58288996c831d35d66787d02fd3e8364
+SHA256  : bf6d0c88ae406ba5a482e79f0cb5632cba6c2ee6de88c8678a01532375f23613
+CRC32C  : c1fcdde1
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.151874
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-Migration_Planning_Guide-en-US.pdf
+MD5     : 573fc2717bcfb174dcb6610edc982eda
+SHA1    : 9d614bcf1ab44fab27d45386b99cd455c965d9eb
+SHA256  : 192499c9e9be436d496183bf304b0cfef0b282672d2187b7e6e629b280bf5c4d
+CRC32C  : 32cb06aa
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.156546
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-Cluster_Administration-en-US.pdf
+MD5     : 2fea68df0dc8b373440d9b9e598f8797
+SHA1    : 5befdd6ecf3ce939c48a71e35547a025fd19d07b
+SHA256  : fdd12079b9e1ebd284af8576338c296dec0b944f14941fa8c95eb06aea35a2ba
+CRC32C  : df55e48b
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.158633
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Common administrative commands in Red Hat Enterprise Linux 5, 6, 7, and 8 - Red Hat Customer Portal.pdf
+MD5     : 9f853356291ff0e178ecdb7f2f77de49
+SHA1    : 360f02dd10f8b42fe5426484a8cd4607c5e75b05
+SHA256  : 538ca568f01d5c89fd1f25c1036092b9fee02208c2572220febc7d946ef2d815
+CRC32C  : 0a72c891
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.159321
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-6.2_Release_Notes-en-US.pdf
+MD5     : eb6a2bc81b531e4a0d28ea99b9baa5eb
+SHA1    : 4ab13d3db6f27348dc17669fdc51d15adee7a10d
+SHA256  : ec1a6e9b6f1a7c16ec7fa720a56073813f30bf622d6d415b34f530e21dc146f7
+CRC32C  : 866eb9a4
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.161058
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-Developer_Guide-en-US.pdf
+MD5     : 0a6ae6df6d46eedf510fdb49097534fe
+SHA1    : ee0d3ebf244429c20611bbc09de49bf32a131226
+SHA256  : abd4a87585ce89c180eb3d3fb5c0621de8e52be39951c823d97c17e351534a3a
+CRC32C  : c0562499
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.164146
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-Logical_Volume_Manager_Administration-en-US.pdf
+MD5     : d01040b8af741684eb504512eb41ade2
+SHA1    : 676699e04c3ebd4b0aa004ca98dc8f14725f715f
+SHA256  : 9314870c0e8a351b4af009742f30c4fa4f6ee8cb70d704fdf338267fe3de2990
+CRC32C  : a8c7d267
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.164569
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-6.6_Release_Notes-en-US.pdf
+MD5     : f1eeb895783dd99057cf98f6391649a2
+SHA1    : 80fe6c22157beed282e8bc9e597253e3b0ab9f98
+SHA256  : 43b975f1fe3c455751a44b864f16ce86cdc276a473ea81651183006ca9e30d19
+CRC32C  : c954fbb3
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.167141
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-Load_Balancer_Administration-en-US.pdf
+MD5     : 99faea842d137f2d539e3a4c1957716c
+SHA1    : 4d1b29cfb853d1856699862944463c1ac1618984
+SHA256  : 6b2b01c4a2cab0a5bfefa6a3dfcf3e599649aab48224697601213bcb5e9777ae
+CRC32C  : 298fbf60
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.172716
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-6.5_Technical_Notes-en-US.pdf
+MD5     : 91f45418e13bfe4c5d8db9dbed9f2085
+SHA1    : 12b3d64340a7affb799e8ee160a85697c3ee738d
+SHA256  : 0c66837cd55a5ec7567e0d95787de344d26630648e04309339d6b19e42e4dca2
+CRC32C  : 24b574b1
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.173596
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-6.9_Release_Notes-en-US.pdf
+MD5     : 17df150b2ff46a55836c0bb5ccb8c146
+SHA1    : 50eb92775c46865ed41e0f90160892f464aad993
+SHA256  : cb5895c5145da9ec88cf06a30924a7b410d0b45a01826b33767a1583febae2c2
+CRC32C  : 818cebea
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.176638
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-Managing_Smart_Cards-en-US.pdf
+MD5     : 326b5e946bbb6dba87954bf0ce3adf13
+SHA1    : aff0d7b411429eb33c4af427e6f4e7e1215493d3
+SHA256  : cc66715698395152c7492a4a1cff4ad6df92e5d64f6592dc69f23fe1a457e813
+CRC32C  : 20a38c96
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.198300
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-Installation_Guide-en-US.pdf
+MD5     : a29f36c89b54a10496a715a8c454a40c
+SHA1    : 4d533dec66a049e051916b651bf6d27372b9f9c4
+SHA256  : e4b56ebee58759b2cdd31dacff415550db065d20b398c59569eab01bd8bae850
+CRC32C  : eea4b581
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.200968
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-6.0_Technical_Notes-en-US.pdf
+MD5     : 45dcfb2a78c455f7fd9e38cd6cd7eac8
+SHA1    : 5f2c66b3e3d1bddb635ca1e054dea72a157e0681
+SHA256  : 7bea68a71d5d61d382dbcea3aa59afb8ef3cb57fad3dae60dac4eec832d6b78a
+CRC32C  : 68ca4213
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.201592
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-6.5_Release_Notes-en-US.pdf
+MD5     : 56fc1039f08651185065b8eb0e2db06e
+SHA1    : b777ac915189cfa0706838fd9afd393d678f50f7
+SHA256  : 27297f8d0209f68d45d95da0f6c571a59b1940318aad2232ac32ead3b3f108a9
+CRC32C  : c9b53995
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.203322
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-Resource_Management_Guide-en-US.pdf
+MD5     : d62234348b1c2951a13220e906c785e1
+SHA1    : bca437ea7300ec3f251cfa14c60c523b6126f9f6
+SHA256  : 564fe6f46573001ed1d6125e234b0cf8f43bb23290ead01bf4b37e4ac24d9069
+CRC32C  : 264ba3bd
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.204663
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-6.8_Technical_Notes-en-US.pdf
+MD5     : 54c7ad7092e7d5d7664c5d5c138405b2
+SHA1    : 231d7c9dd2ffe3f7c532fd72a06843f7494757e5
+SHA256  : 71443ebdcb292d0af4d7acaaa0a56d4171ecdb6c44c2f4d8cd8669af76ef341b
+CRC32C  : 2488da97
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.211723
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-Virtualization_Host_Configuration_and_Guest_Installation_Guide-en-US.pdf
+MD5     : 8cc4d7459149916abfa796e5816aca58
+SHA1    : 56f438a8b39a21ea224b2404e1404380ab754215
+SHA256  : 7d12c194caffdb46d733e92d900080202e072bfeeac34c64e99827f86aeef5ca
+CRC32C  : 4f12181f
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.215328
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-Storage_Administration_Guide-en-US.pdf
+MD5     : fd3619b6f1d951c49f1ec1a02f14c451
+SHA1    : a73e6a20fff36612d2fbdaf038c45905244d847f
+SHA256  : 03e822caa2b0b83ee1c7400c9f10fe4c3f0c61f64aded242ddc9e7346a414c29
+CRC32C  : c7399125
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.215806
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/rhel_5_6_7_8_cheatsheet_8.5x11_0519_0.pdf
+MD5     : 2f5864f6b3a2fe731b6c9d165497b5e6
+SHA1    : e700afcba5ea7a6360e47573d40e4909e9c6a9c2
+SHA256  : d39f783ed0edec99cac35b5aa6220d7bdbbbd2977c1b9a45c4dfa95eca381b76
+CRC32C  : b565e4e4
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.219756
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-Package_Manifest-en-US.pdf
+MD5     : b83d31748067a192cc0f83de89ed6923
+SHA1    : c6bdb699ff32042a53b1669cc888c4dc5af74222
+SHA256  : 017f846bd26b2ad2ffba28507efd53f7a065f8b2bb5eacd34618ecf34016c14c
+CRC32C  : 331450ea
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.220239
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-7-Upgrading_from_RHEL_6_to_RHEL_7-en-US.pdf
+MD5     : 214f3bdf5d6c110b45cd0cf42c3c54ea
+SHA1    : f450aa865dced788ced754209fb08ae8356b2730
+SHA256  : 6cb2938b666bff0d3ceea46e80a612a0778a7462bf0c12e3ee0f3821e05be807
+CRC32C  : b0ea6551
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.221400
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-Global_File_System_2-en-US.pdf
+MD5     : 2e675eb99f1a7d6a5b22c0caa4386ed4
+SHA1    : 5aeefdf66ba3b3c9647b7de117440d82fcec9830
+SHA256  : d2098e592911bf7184cdc45aee37a515bb0c55de91298ba5c7f393a7771e1130
+CRC32C  : 058cae7b
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.221663
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-6.1_Release_Notes-en-US.pdf
+MD5     : 89294c51c4806eda9402411f591d1b92
+SHA1    : 515835d5cca47616e8891d6bfb43ffa265a7b865
+SHA256  : 77cbc887ed9d76ecd795c6ddd4d4c8677052d0f1425e30498acc14207f53ac5a
+CRC32C  : 57ae6dbd
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.222986
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-Managing_Confined_Services-en-US.pdf
+MD5     : 50799c7846fad4129e09da97363a90fc
+SHA1    : c5ae3c4e692a51a0baf33d70246cc609d29f5e04
+SHA256  : e9b2487907cc45916da73c62fb6aeacf1aa09c6788b7a56a805e32db040eb14e
+CRC32C  : b6f20163
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.226241
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-6.7_Technical_Notes-en-US.pdf
+MD5     : 37cf0a27ef54def54a01a1e2d2d08cea
+SHA1    : 1ba3d6b1c08e442945cf6d8b42ef3419c5f300d3
+SHA256  : 7b8c4f5b0823e23491bd05935b4a26d24b6606fb98189ac5b064e9e0da814ede
+CRC32C  : 7fb0cff6
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.227609
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_6/Red_Hat_Enterprise_Linux-6-Security-Enhanced_Linux-en-US.pdf
+MD5     : a9496a768091853409a1035cf120ac2b
+SHA1    : abbb1464859b7996adfc3f003f596fb2682282c6
+SHA256  : 101431cfa746070f3541e3acb538053d5877efb7583de88ba74f313eae5f9acc
+CRC32C  : e0d6d0c0
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.228726
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Upgrading_from_RHEL_7_to_RHEL_8-en-US.pdf
+MD5     : d24d574e302b35c07467c9fe1fb444db
+SHA1    : 0730c7e4e0de3e7477ba1998ac1ead065970ba78
+SHA256  : 1009c7983848db1016b8709a62ca58f8c2275bbd6ef987499dcdb352d6db4bce
+CRC32C  : 7014e275
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.229116
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Managing_and_monitoring_security_updates-en-US.pdf
+MD5     : c1f6a46515487fd1c0578b6eec65a018
+SHA1    : 0f7dec8b291aec67b8aa582a26baaf87052efbe0
+SHA256  : b6d8b85022090e8da7fc1df96db2d2cb120f7d751b5a92d7ee76ea0c5af046ae
+CRC32C  : bd1a9286
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.229373
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Upgrading_from_RHEL_6_to_RHEL_8-en-US.pdf
+MD5     : c6259a612c4c67c3ff20d8b0444ff781
+SHA1    : b802721ef25b2fb6bb930f8065e1c1454f052378
+SHA256  : 01ec11f598cc1d0b35d20bac50f4213ca22e55d579883a4c9be067aa4c785bd8
+CRC32C  : 3b4f571f
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.229818
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Recording_sessions-en-US.pdf
+MD5     : 0aa66290373d07e506e61d0dce9f2184
+SHA1    : 964be9f500491966de4dce3885be973bfa604cba
+SHA256  : ad3124dabf5aebb878a92015fd990c6b755048a7578daf9fa2b8ad9961b1d478
+CRC32C  : abea9002
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.232010
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-8.6_Release_Notes-en-US.pdf
+MD5     : 7debcba10ef10adbc34abe56b5960475
+SHA1    : 216efe80710603a2c9c80d011372f5ec7b3ffbca
+SHA256  : 5fa51baf926e7a9c73bce97309fdaa4e09059cc88b52ce4c0d516bcd14175bd3
+CRC32C  : 0d71aca4
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.234480
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Building_running_and_managing_containers-en-US.pdf
+MD5     : 0acc7a25d339baf135be5efb7fcd234d
+SHA1    : f30810e1296327758b92004fc3e4ec48dd0f27f2
+SHA256  : 12b18e38077c2bd096a542ebd1444c3a6edc64dfe72ffb5e8d77b42451f5a3c3
+CRC32C  : 3f533ec9
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.236946
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Package_manifest-en-US.pdf
+MD5     : de0918ff8b2c2bdbfcf79f4e9970ff6b
+SHA1    : be3df2eac09eb74e60ad36071399874e3b89bc68
+SHA256  : 6f9e8c344db961f58ae990b2367423a33c44d52d0fb939e128f708d466bc1c71
+CRC32C  : 97e35c7b
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.239603
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Interactively_installing_RHEL_from_installation_media-en-US.pdf
+MD5     : 2840403c7a1aa9abd626a92534c4cf32
+SHA1    : 2b5caa23b4c80c516f64eebd552d5071ca851b4e
+SHA256  : 73bf7bc488e8b46855801915a707857f56dc206874b67a34da534e2ca4097d97
+CRC32C  : 4761d0a8
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.241288
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Composing_a_customized_RHEL_system_image-en-US.pdf
+MD5     : 0d4c292d858a601b1f4afb1523780777
+SHA1    : f9ee5a7641c7da9bae224a04c8d6e8bbc312afad
+SHA256  : 9a6ec1716760e962ee3da2e6c10a2f2f6b36ed184b564548582a62e6c6d12b86
+CRC32C  : 0f9ee4d0
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.245428
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Interactively_installing_RHEL_over_the_network-en-US.pdf
+MD5     : 83e592928ab8cf3c37e5df509cadec0b
+SHA1    : c2b10642b4c1640c974ebacc5d196086ae722222
+SHA256  : 997d86e948bbd39af2f210f66979cb3c9e7d21a971af526d6e921e973de0c658
+CRC32C  : 19cf7262
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.248642
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-8.9_Release_Notes-en-US.pdf
+MD5     : d7dea0d7e273a39b7fdbfd1a8f7a1bb3
+SHA1    : 4385626bbed498ede359f624dbe965bbe8bda1b7
+SHA256  : f69df6faf7d1c90d883301d5373cdb8bd19a23022c1db7ff993d13ca9f126059
+CRC32C  : c86b48e6
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.249485
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Deploying_RHEL_8_on_Google_Cloud_Platform-en-US.pdf
+MD5     : 823befea8f338e3adce02373de29d3e8
+SHA1    : c18b81b853524ae9e9985b8d46d6a89fe5bfcc8f
+SHA256  : 6d54332fea03463cd0d7e6062a46bbdccc48ce12d6033999e705e8e0fde293c8
+CRC32C  : 02b21998
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.250836
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Integrating_RHEL_systems_directly_with_Windows_Active_Directory-en-US (1).pdf
+MD5     : 7482905a113a66fc9ceae79f25f637e5
+SHA1    : e763369e49e736e65d5d7e2fb97d38b2eed9d1d5
+SHA256  : 13349711b08cb03b807d2f0fe112b82673aa5fc66800539d7f1472e91ec25154
+CRC32C  : 984fef38
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.252227
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Deduplicating_and_compressing_logical_volumes_on_RHEL-en-US.pdf
+MD5     : a766d11224e55dcb4ebdd2ff61bb9535
+SHA1    : a85fda0afa919e9c43a31ce6215137dcba6891bc
+SHA256  : a4960e8db5304f65af2d7e47515730f4986437676f50deca1e8cba9bd8576b40
+CRC32C  : 07f032bf
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.255860
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Managing_monitoring_and_updating_the_kernel-en-US.pdf
+MD5     : d31c39b89af6efa9000a3262f6dfe8d5
+SHA1    : 8949bc456f2347c9b3fe58f85409039b77cd7b6b
+SHA256  : ea645385f0eb427fa71a9bdcab423682997e1e27cf9324b3e02c1f0e358f71d2
+CRC32C  : d2f41b95
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.257205
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Managing_smart_card_authentication-en-US.pdf
+MD5     : 5dd63546afc210d0e8fcc45f1ece2526
+SHA1    : ab646aed5d4ee7729a75eadb6e5dec952ca3fe2d
+SHA256  : cafdcdda3f68f124e88ea51ad5042b1aa665f3f0e505f2a8e245002594b6d3d3
+CRC32C  : d002495b
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.263781
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Using_Ansible_to_install_and_manage_Identity_Management-en-US.pdf
+MD5     : 99776ef60aca4a5f68915d1fc2976d07
+SHA1    : 46d95872e272bd6b95c222132127bea548c34fa7
+SHA256  : 2a1940485727229ab0bf185873025e7a9dbadfd9fb863d293e8409c1aca78a88
+CRC32C  : 64ca0031
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.267235
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Configuring_and_managing_high_availability_clusters-en-US.pdf
+MD5     : 8f9bc0ffd32fa7fe4e873a65b4f229ae
+SHA1    : c6a709dac10ee2577240bd3d11a9e3e29b05ffd3
+SHA256  : 9b6067612d7977cbf9ac3cf06e92a1aefb3e56fe5077e483a96477a71f3b1202
+CRC32C  : 5996a816
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.271239
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Configuring_authentication_and_authorization_in_RHEL-en-US.pdf
+MD5     : b6938eff618b897ff40cd955706b1f30
+SHA1    : d6de00699677e84c0768cc36ec72662833b3f87d
+SHA256  : b38d00f7a82c8efd1730e2f049442fd65c545a8fae45ca19d2b675fc47cffa1b
+CRC32C  : 1a797cf2
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.276711
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Installing_Identity_Management-en-US.pdf
+MD5     : ef736f87e87263a15bd50740c2812af4
+SHA1    : 8354c57833ab92c610417332938c353504446286
+SHA256  : 5d920f7ab52d8e2aeb5f79c4edab38334242be621ba964b6183863557f12891e
+CRC32C  : 94b0d498
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.278813
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-8.2_Release_Notes-en-US.pdf
+MD5     : 97dc4b0d5f8c90bb930c46d3d19d9c32
+SHA1    : 53a9cf92f3ce02e0346793fe0f386fe08b275381
+SHA256  : f579d040e3368949afc71cf50fda99e581a97824e739cdfea0a85ff100cf1236
+CRC32C  : fe1ac3ce
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.282856
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Managing_storage_devices-en-US.pdf
+MD5     : ca3a14a81505bc9d764d580ffd90b61d
+SHA1    : 522d6cd8178c0fc6e6579a2fa1b814f59784be28
+SHA256  : d62cb1e66ef6e650ce768c4ee4ddadb8afd58d53bdeecc29456a7b8885d0e898
+CRC32C  : 52748d01
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.284058
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Tuning_performance_in_Identity_Management-en-US.pdf
+MD5     : c6374d1461ac9d81342499278752d2b4
+SHA1    : fd64502aace7f59dd33da62faa762e97a3f84350
+SHA256  : faf7926d3777aa7590386d412d382b6cd8413a1301cc8ee14aa732cc438feb15
+CRC32C  : ccc338c2
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.285882
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-8.1_Release_Notes-en-US.pdf
+MD5     : 027a840d9a33a4ae12b51b24ce6459ca
+SHA1    : f6202603f6d50c4bc547bcc1dc763cfb900c6995
+SHA256  : a536bd38f70f7e659f468e187cc056ed7de9175166951b1628519613a0187bd1
+CRC32C  : f7930539
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.289144
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-8.10_Release_Notes-en-US.pdf
+MD5     : 1b2f8ed9d2bcceeb4be0255156712416
+SHA1    : 3585fb8b1e60a6adc4bd1deb03adf3724725bdaf
+SHA256  : d6facc59572a903bf05d95ab8aa2b3f0472a359aca93a01afbe467c274fc0280
+CRC32C  : f2bdc9c8
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.298093
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Configuring_and_managing_virtualization-en-US.pdf
+MD5     : a4c4f693f648f4c2c72766599d8d1fc6
+SHA1    : 24de8dfa9b761c2208d84081817b8a4534382cda
+SHA256  : e712dadd5c777a19c6acb6c5ab9ef1c0a2ad1b0d9f982d7b74c23ae01b48ad1d
+CRC32C  : 9a1b402f
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.301438
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Working_with_DNS_in_Identity_Management-en-US.pdf
+MD5     : 9ce75e8f22ffd82ff5fe877f4c489274
+SHA1    : 2426774ae0764ec256b6c2475cc0abbf2614039c
+SHA256  : 07857b2412f3693cc91932b09a853de6f2787526276fb1f6c875011011f5aa97
+CRC32C  : fa204a8e
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.302306
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Managing_networking_infrastructure_services-en-US.pdf
+MD5     : 93cc37bdb483080e5af47b02bf16ec12
+SHA1    : 15058e598e57b4bd5ac687fc53a593a2b3c40d48
+SHA256  : 7c82da466e9122df4aecefc17aecd0c92547d623edb7de5dbd7668e183fabed0
+CRC32C  : 242e3934
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.305332
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Automatically_installing_RHEL-en-US.pdf
+MD5     : 518a3333bbf28c030204e1e0b2cbc8e9
+SHA1    : ecf4535f93b049f72d0649d99235d01a5076c51e
+SHA256  : adfefa1232d9595a415aa1979ce74cbbd04252751943179bbde4897ca21b6b92
+CRC32C  : 606253c3
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.307196
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Planning_Identity_Management-en-US.pdf
+MD5     : ff480e99388301166e13c049ced2228a
+SHA1    : 1bcd1ae9bf833f654a61359ed0b7497230b8d1f1
+SHA256  : 9ec8e3f0aaa6835edaad9e2350f9c9fc67b104b996a058c0400c83f6d77028de
+CRC32C  : 02df0b58
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.310106
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-8.5_Release_Notes-en-US.pdf
+MD5     : 4e09376e6b9337ec6a3468557eed4291
+SHA1    : 1a46bb3af5d9fad5dfe1b33fbc4f0a943fbc4b4d
+SHA256  : df1a6a6041009805ac93f5110e1638124e1fe6913df59a3e768580bd16ab1bf4
+CRC32C  : 7767996d
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.313621
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Managing_file_systems-en-US.pdf
+MD5     : 04c3e344303e889d30b21bb3d163a018
+SHA1    : b971bc0c49e423bd01bdd56b5a56bc96efe0e721
+SHA256  : d7e953ea18a8e09c1aeb60b959c556139db3264965a7ee27cb35a49eabb77f26
+CRC32C  : c02c8068
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.314546
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Installing_managing_and_removing_user-space_components-en-US.pdf
+MD5     : 7591189be20f84fcdd22d78bb24a565f
+SHA1    : a98c18c65eeb58e67f48bb7a76cdf822cd83f944
+SHA256  : 73168e80264541a14c117a31c7134ec54fda34d1171c51a022a6f1cf8c5681ef
+CRC32C  : 416a0b5d
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.315454
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Preparing_for_disaster_recovery_with_Identity_Management-en-US.pdf
+MD5     : b3e26873bcb7dc82281f153996b57587
+SHA1    : ca065dca92e972756f5ff4d01fad25ae958f2cdb
+SHA256  : fbc64934da96240056c4c7f5ed3f3f304439f539ac01420f636622ed346b39cf
+CRC32C  : 3300f6dc
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.319670
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Managing_certificates_in_IdM-en-US.pdf
+MD5     : a6052cce8ca2721f8eeada97add99a53
+SHA1    : 2c56d10b352923db3da47a4f8c3fa625432d3f72
+SHA256  : 3ff7c0af08aad7f8d6abc0aa426497c574fc0797862c1f07ad93e02e47082a7c
+CRC32C  : 791414d5
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.320477
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Generating_sos_reports_for_technical_support-en-US.pdf
+MD5     : 82eda497202b737070c9a8a2e381c5f8
+SHA1    : 97ec5a45291162918347cdc4c5ad34ac7bc70909
+SHA256  : c5cfeee7112f67c16d8158a83d298cc8eb77f918eac10fd343ff69635c874cfb
+CRC32C  : 5721bb81
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.321314
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Integrating_RHEL_systems_directly_with_Windows_Active_Directory-en-US.pdf
+MD5     : 7482905a113a66fc9ceae79f25f637e5
+SHA1    : e763369e49e736e65d5d7e2fb97d38b2eed9d1d5
+SHA256  : 13349711b08cb03b807d2f0fe112b82673aa5fc66800539d7f1472e91ec25154
+CRC32C  : 984fef38
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.328231
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Managing_IdM_users_groups_hosts_and_access_control_rules-en-US.pdf
+MD5     : 5ecce120dd366eda01181c765b092e1e
+SHA1    : 2fa38bacd041ff54229d2a9a42fbcb78a4d96c55
+SHA256  : 19baad16ad5c8fa867cbb9f88c94c33ab003eded6899c13d9da72f4875692bd4
+CRC32C  : 552b13c5
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.330564
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Deduplicating_and_compressing_storage-en-US.pdf
+MD5     : 2c4ab963f8344c1156a3b786f48664ef
+SHA1    : feabfe605f7ee8a885e94c1f18e66ffded28f911
+SHA256  : 62d0ce3fc036aa5ac1e39a56e986de34f7f01bd24b4b58bbb5615c5c27b9e6f0
+CRC32C  : 26e21b28
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.331673
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Deploying_RHEL_8_on_Microsoft_Azure-en-US.pdf
+MD5     : 39e137db6f97dbceb112776568c5dbca
+SHA1    : 390bf91737c3016f2aa45f4097614e7a3d122489
+SHA256  : 4661e8fdb5126a30666324630eb103ea48328007497ba6e36816ddf1c51532fa
+CRC32C  : c00a6792
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.333429
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Developing_C_and_CPP_applications_in_RHEL_8-en-US.pdf
+MD5     : 5ffe344d319782afc60d6a33b22e705f
+SHA1    : 7004490c5c74f6250ca7082205aaecad2e912749
+SHA256  : 1ae7d29b120d6951ae7a8c96a75f925a506168d4f3587de540f2e58bcf31844b
+CRC32C  : 272451d7
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.334733
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Configuring_GFS2_file_systems-en-US.pdf
+MD5     : f39d0ff7d5140a2bce0636ecb384bf8d
+SHA1    : 7e0743377c5ce2d2d0925dc1331ed4ca238daaff
+SHA256  : 01c74056f93bfd8a7d109d7a61cd7cbbab732edaa3fbebad7539333637290154
+CRC32C  : ec0af8aa
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.337893
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-8.3_Release_Notes-en-US.pdf
+MD5     : d87c86a060129b0030c86f0b5b48a983
+SHA1    : 97f470eb56c140ad7644580e1b52733301fd7c48
+SHA256  : bbb4c9e2ed3c44c0fff97d2edc605794e153bdb34f6a16df8b3e7e61afdffa1b
+CRC32C  : b9cc290b
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.341101
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Securing_networks-en-US.pdf
+MD5     : 5dbb874ebf9f6581747d72572b18f85f
+SHA1    : 285bb8d8853843ce1fe155017f104c6b003671f0
+SHA256  : d1ea2f08b9b330f41a9acf7681a93ca5aa507a085dcf8dd50a5b206866d2554d
+CRC32C  : 16b918ba
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.344716
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Configuring_basic_system_settings-en-US.pdf
+MD5     : d156025cb9ebfa3a2512e7b0bed32b91
+SHA1    : 0d80b70c30a623d8c7b84921d2dc1a8c10be40dc
+SHA256  : 929651e83d2f2fd9678dd5c279a225a858b472d9fa8f6c1a8de3aeee2fdccd42
+CRC32C  : 60504d53
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.347064
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Accessing_Identity_Management_services-en-US.pdf
+MD5     : 0962f42d70d7a2187bbadecdc0468a2a
+SHA1    : e20c7438a9c3ee0b209a191d07590f73d2db273b
+SHA256  : f89270c0dfd57f8b02dbd1c22d0002f543b079a99dd2be495960ca67bdc511b8
+CRC32C  : 6154e27c
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.347514
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Configuring_a_Red_Hat_High_Availability_cluster_on_Red_Hat_OpenStack_Platform-en-US.pdf
+MD5     : ca2837528771a7020d88e10e232fe908
+SHA1    : 57abed4b68b98801c52aae3de9f5ae83a7c065d4
+SHA256  : 55087a65012c4cba87765f8bfcb4724408f3c34d50f0023d10a049bc8b7d1f44
+CRC32C  : 46b3408c
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.350191
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Configuring_and_managing_logical_volumes-en-US.pdf
+MD5     : bdb307822417088ea63b8b3defce30d2
+SHA1    : b8417e5c4d17dfa42c4fd40923950a30ab300a70
+SHA256  : c880524412275b9697194b5c83c579c75312e6836a048db60c57143f84c44208
+CRC32C  : 23a0f438
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.353393
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-8.8_Release_Notes-en-US.pdf
+MD5     : d156ea38c0c8180eeaf43c0e5e2bd611
+SHA1    : abf77fa61c4164ebb9f351391417bfb8b0193411
+SHA256  : 5b39a737fdb2011eb89aa8a5e7ed4e3f97707cb00408d0cc947e50d5851d65b6
+CRC32C  : 00099473
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.354701
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Configuring_device_mapper_multipath-en-US.pdf
+MD5     : 4fc679628edfab8755c899eaee305a94
+SHA1    : a06e1412049a9540d8d4dde7f14c7dcf78d8941e
+SHA256  : baa62bd78eb0f2dabd9622560baab0ff5f2aa8b67c60d3e6a048bc3a50e809c5
+CRC32C  : 777da81d
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.358300
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-8.7_Release_Notes-en-US.pdf
+MD5     : bf06ac01138af023ec16028eb62fbc57
+SHA1    : 7b282cb5894e0e1c8da9c7847d9b64ea79022180
+SHA256  : 48789e26114afaceade0d8b189d4cac689d110717f910868d1764fa60066b828
+CRC32C  : a0dc3a46
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.359063
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Performing_disaster_recovery_with_Identity_Management-en-US.pdf
+MD5     : f8753b08c470d47bd5d87901f0bc6d3e
+SHA1    : 3d24267b766399be1624c261a378e9a28d542fc3
+SHA256  : ceca98761e93b300a53b5b704a623c30d10ac1b88e4072e3167aedc4659c9cdb
+CRC32C  : b6e5ea19
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.362983
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Automating_system_administration_by_using_RHEL_system_roles-en-US.pdf
+MD5     : 3312f394a7d165b2afb1d1e650337ee2
+SHA1    : 48dbe6e90cb7aff5d00695d3316c728ecaa26bb0
+SHA256  : 2c6290e7b4dd82380ee74ad54f478badcf678b3948312fd82e2e7de9cf7948ba
+CRC32C  : a35506b9
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.363609
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Configuring_InfiniBand_and_RDMA_networks-en-US.pdf
+MD5     : 9cdae6558d6e1af524e328b5430b44c0
+SHA1    : a436c4b014e377132a6b81d2d7b57821602a09e4
+SHA256  : 593a7a46bae36756498e44438cdf18d802a0985fecaf6435227e73ad392285e9
+CRC32C  : e751aff1
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.372943
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Monitoring_and_managing_system_status_and_performance-en-US.pdf
+MD5     : 0f0e888eaf495e1bb2a42fe04bfc5106
+SHA1    : fe86460796d199643bcac131401d1280c59c56df
+SHA256  : c5fbad89d3c3df682c18fca61efed80bfbb80f77f6239d5f145f13d538992fb1
+CRC32C  : 3b90b0f1
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.373616
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Working_with_vaults_in_Identity_Management-en-US.pdf
+MD5     : 086abc03d1f476aa8e6ea00faaaf81c2
+SHA1    : 7aa5a917620725182716cfbe6bfc186e534003f8
+SHA256  : 65a7aa4f2927c99e418b801f57a9b6f1e60224ec3be0d52e270632b2764ef5f4
+CRC32C  : db0a03dc
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.377243
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Security_hardening-en-US.pdf
+MD5     : 3b20995e790f194a52c566ef6b21c97e
+SHA1    : fdbe3d704ee8cd7122089e878b0331901a94c01e
+SHA256  : 08ad9fabb4aff336295991e6332c2db660002a4e54f9e3ce57740aea92e5abd6
+CRC32C  : 431fa475
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.395049
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Configuring_and_managing_Identity_Management-en-US.pdf
+MD5     : c3d5ab00aa28730ba9538483a7e198b1
+SHA1    : 3ae51f6e74f6b64567367d8706e24107eff13382
+SHA256  : a9e26b04e57fc45a10aeb6225b9b7c10c1c41bf878c8faffebe4662ec163db02
+CRC32C  : 38dee0f0
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.397759
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Managing_systems_using_the_RHEL_8_web_console-en-US.pdf
+MD5     : 546e7e7b962b96549d8c1736cc17424f
+SHA1    : 69c4e6fdef41bf1157838258de4237aef87f40e0
+SHA256  : f24d4483ec99b2e6eddfb98ba79a185e3343c7d1fe72b81b420b4e580780c44f
+CRC32C  : 8eb105cd
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.402060
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Considerations_in_adopting_RHEL_8-en-US.pdf
+MD5     : 73d7bc6e135c51044b99bdfe6932df0b
+SHA1    : 0e211ad6f8494361236c8892b05dd411fca74475
+SHA256  : f2ab4bdc50813ae7cba7d441b2b04a902dd472c156d6faf697b1e7a931b6b428
+CRC32C  : 1f8ffc80
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.403129
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Customizing_Anaconda-en-US.pdf
+MD5     : 552e48b173334626e41a4aab3d1bc621
+SHA1    : 9e49df46595550edb71865d1361cb7b754a9accc
+SHA256  : 5084346d1b1f7bd53f77f0128ce7d438b895da65657ea9379cf0942ee285f8da
+CRC32C  : b4250f30
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.404700
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Using_SELinux-en-US.pdf
+MD5     : 4709352d97fb3535dd17d77143b95d3a
+SHA1    : 848c48b596dbec4fbef2e9efde04962819ba2c6a
+SHA256  : 1a853817283cf2a651d3ee84c7d837d9ef1f2056ed03ced6b7b8edcf0ddc76dd
+CRC32C  : d14caf21
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.406097
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red Hat Enterprise Linux for SAP offerings on Amazon Web Services FAQ - Red Hat Customer Portal.pdf
+MD5     : 4b043ac7016c7b9f0680f428672a8745
+SHA1    : 5b315f4af529e664c8025cedae532815c93ca35c
+SHA256  : e82baab3dcae3b6bf7339609c71742e1ea2215582d51a261a8bcb6e94b6f4fae
+CRC32C  : d7816d21
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.414189
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Using_the_desktop_environment_in_RHEL_8-en-US.pdf
+MD5     : 6a7f01a4136d19c0850ddeca8a2e9fd3
+SHA1    : 50f7910841436c4e4f05a95bdc6bbb9b840cd175
+SHA256  : ddb0a8f6a0ed4a1f24cc1cec94e041ab1a90878a840110dd8aa6161d60e63c75
+CRC32C  : 1901ac6f
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.415155
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Deploying_RHEL_8_on_Amazon_Web_Services-en-US.pdf
+MD5     : d26d2b84976f1a1aa474a16d67c6f108
+SHA1    : 2103b4994e570511a5c4310b2624dedfb84cc7fe
+SHA256  : 92f221521957f6ec56a092bce73577617ee9eb769033d74e8210a17c03b5e1c5
+CRC32C  : cc2fd94a
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.417901
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-8.4_Release_Notes-en-US.pdf
+MD5     : 082c736f0967aa980ce65fdb457e3da3
+SHA1    : df436810111e9cb7126b70cca99b80b3000ba0ab
+SHA256  : b65e0c114658020d0916a162848eebd19b02da435bc8ea0f3a6bb35f708162f4
+CRC32C  : 85773ffc
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.418600
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Using_systemd_unit_files_to_customize_and_optimize_your_system-en-US.pdf
+MD5     : 1f77a68d082d153d44858b7d332e9ecf
+SHA1    : 8d1c4de52d21468561d1cc6de925504c06743afc
+SHA256  : a7389cdb78f9a788adceff2f2294942b490925b3d86a06140419d5993b9dd90e
+CRC32C  : 5c171bf0
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.419473
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Creating_customized_images_by_using_Insights_image_builder-en-US.pdf
+MD5     : 8cc257c045eb93a98424da2ca680f5ff
+SHA1    : d426f09b036bc61fe6c3fcf7d0972cbe9c7f120f
+SHA256  : 26b8c5d64ba38ac1a29e50a548c2fb3313f5f844e7c9a687190aa0d0aafe80b7
+CRC32C  : ed4a9bc3
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.424294
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Deploying_different_types_of_servers-en-US.pdf
+MD5     : ce1f50a47b989b548be8c518452cc005
+SHA1    : 55602f68c4c0d168e11b10eda321a6c7dd87a130
+SHA256  : e1e9cd2145a3c4a078f903d8d7818155d90fe388d38ad8bce89f44f1d6b002bf
+CRC32C  : bb1ef0fe
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.427503
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Composing_installing_and_managing_RHEL_for_Edge_images-en-US.pdf
+MD5     : a81a1e41f916359723157bf775166e01
+SHA1    : 2cb626515e1dbed7cbcc17cff960b079674badd6
+SHA256  : 48e501d3c03f45be2b90edbbda15b18cad800d9c590151303d2b7db3e4bc7efd
+CRC32C  : 59ca65f6
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.428931
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Packaging_and_distributing_software-en-US.pdf
+MD5     : 52ae93e2ed7d491e6d35d2e41076ecdc
+SHA1    : 070ef3e87ae68178ab548ee9b072eb5970fc732d
+SHA256  : 24fa5d08070b53169f10ebd1b3db37ff04572f4febf284efffef901f416b6639
+CRC32C  : a8b2a37f
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.429840
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Configuring_and_managing_cloud-init_for_RHEL_8-en-US.pdf
+MD5     : 4b70576e0149e12d5584338a9cd8f35c
+SHA1    : 8f7de542575154fe3faaaa9df74b125e6fb8bda0
+SHA256  : 07c7073cd61ac9ef72527b9b4aa0ceda41e308499a3d45c6b0393ffbf8b1d822
+CRC32C  : 345b5d6e
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.431017
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Migrating_to_Identity_Management_on_RHEL_8-en-US.pdf
+MD5     : 47565d626655ba5c0fde9d1351ddba48
+SHA1    : dad25e8fbf648d8664b5765c89495c2c865af356
+SHA256  : 505d3bc40772fa231611aa2f482dc9bd338beb3ab9ab8f230d9e7f3acea447c7
+CRC32C  : 7df4a807
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.433151
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-8.0_Release_Notes-en-US.pdf
+MD5     : 83bbc8cf4be199fc4e40b4b22ed920a8
+SHA1    : 5df4d8b46d52df352150b98c07abd7e525df913a
+SHA256  : f6951ac26f10969cb57e62f0dd295dc45ed19dc0e3c048ce4960bbf11890163e
+CRC32C  : 86b7ff88
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.433836
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Converting_from_a_Linux_distribution_to_RHEL_using_the_Convert2RHEL_utility-en-US.pdf
+MD5     : a769b5f177b216f4fea904f4cb37a123
+SHA1    : f2a3ea78ec43c4b395a286289c3d1754030f82dc
+SHA256  : 2d128fdf208e360d38c4d466c796dad6f3cef0287b8c8e81613f90673f65049a
+CRC32C  : bb44c23d
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.434451
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Using_IdM_Healthcheck_to_monitor_your_IdM_environment-en-US.pdf
+MD5     : 819441761a69b8a589aba647ca66d2ca
+SHA1    : 093c31293ef17453e16a44c4fcf77ec60e34c5f3
+SHA256  : 9ade2a95c66dfdd2df5dd9a689d176e5be7d0e382696c67a6445a998c2abb8b0
+CRC32C  : 24babf6b
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.442911
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_8/Red_Hat_Enterprise_Linux-8-Configuring_and_managing_networking-en-US.pdf
+MD5     : 9617c7b277c15388ef4341ff52dbc2d3
+SHA1    : f7ee7f45db75f23b168a85989ba0bc92edb2d10f
+SHA256  : 2d0a9d9a56c3ef4ca98be74a4a9e68c1641bf36500d4d40b662ae2c8413b3aea
+CRC32C  : df952a69
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.444876
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Developing_C_and_CPP_applications_in_RHEL_9-en-US.pdf
+MD5     : fee6f8a9d7e07e82bb08f918f74efbad
+SHA1    : 39dc68b341633be0aa75fd85245e63a562697341
+SHA256  : 3b4b964ce16dbbf0398523818e38e534dce1a9aca1610db78762134fe497e8b7
+CRC32C  : 090f2434
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.445759
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Configuring_and_using_a_CUPS_printing_server-en-US.pdf
+MD5     : 36fe32ccec07a18d531d2858cb008a73
+SHA1    : b06bc59645ffc28258da99842683478b37020e81
+SHA256  : 1e0f01d747c73bc7e9ae9b5e54542c108da943a91fdb32a26a6fedf391784442
+CRC32C  : e0cec0ce
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.446476
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Working_with_vaults_in_Identity_Management-en-US.pdf
+MD5     : f57bec261fbc611c02e05fc2dafe24d8
+SHA1    : 3d2b08f6daa65fd6352ccbe7f4294fccac7d27af
+SHA256  : b4e9b169d7e85ac6aef7a0c06bb3dfd948ff473aa74feebe9c8b706951a3ef0c
+CRC32C  : 857f3a88
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.449281
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Configuring_and_managing_logical_volumes-en-US.pdf
+MD5     : 5f500677d97f1fb9e7e6e83343ee3719
+SHA1    : f568cf7448687a1976a332c2cf158d45aa2a42be
+SHA256  : 28bf4e7f66d6ee43d03a1093017025ed9a7b44786040672cad51da70927c1e6f
+CRC32C  : b34b976c
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.449886
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Interacting_with_the_command-line_assistant_powered_by_RHEL_Lightspeed-en-US.pdf
+MD5     : 8ebc6bb39f44cbccc20251108c7f6181
+SHA1    : 6857dc568fce01a8659e7316fbb5ab011579f9fe
+SHA256  : 2df244a4e4a139fcfd54ac73905427128b437c366ceec41d9f6b2192f8ead506
+CRC32C  : f1b6c5f7
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.452408
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Accessing_Identity_Management_services-en-US.pdf
+MD5     : 14c7ae7e9b4b2a0a3157546d5be4b7d7
+SHA1    : cc2e4967d5a20bea88cc707a3e11ec53b6c33f4e
+SHA256  : 5568649bdde1e0339bba560dcd48893251b8ff4b581fde588c3dc27156d1d4cf
+CRC32C  : b6a60b29
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.453834
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Managing_replication_in_Identity_Management-en-US.pdf
+MD5     : 83eac4fa24896044f00c410644ddf0d4
+SHA1    : 65e18a35915a20cd6ffcb80163ee548b89463c4c
+SHA256  : 11e1c9dc3aded50906fffc06cf1e692ec7ec89f5f7dd97d10df066d44af2004e
+CRC32C  : 167d11f0
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.455889
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Customizing_the_GNOME_desktop_environment-en-US.pdf
+MD5     : 255bea38299323adbc5a9e9a44fd8c9f
+SHA1    : 30a4b9c91d0e3ac77da029f81d6b09a68577cf6d
+SHA256  : cb52a251a4a10cd60f094c42cfdcab56a82f70465d2c5d43564a439bef31c83b
+CRC32C  : cc639cd5
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.457262
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Performing_disaster_recovery_with_Identity_Management-en-US.pdf
+MD5     : 5c3e9228036d4da6e874cc6a1b11b2bf
+SHA1    : a845e7396bf30359718f480804d4e85069e764be
+SHA256  : 64d835c188d2f8bd4ef69236e6d004a4ccb282ef2d5fef6a6efabd2f1bd08d6e
+CRC32C  : 2ea9efa8
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.458071
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Deploying_web_servers_and_reverse_proxies-en-US.pdf
+MD5     : a4de3b713dcba5477598c883ceff517a
+SHA1    : d906bdc77e752add87af5230539f640b3d593a39
+SHA256  : e9016a0670f61e93ced65a1e7db6da463b556afac7fa68316acc9eac32ad7690
+CRC32C  : 384c1673
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.458739
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Getting_the_most_from_your_Support_experience-en-US.pdf
+MD5     : ce99e4e08fb46abd82c34ad35208a08c
+SHA1    : 1bfc4ecf6ac43f90ef591de267ff089ae84d57eb
+SHA256  : a1f3d06c82d6f06faa2465bbea4b00d52ef4172365602617d54dd00b805eb228
+CRC32C  : ba8c0b07
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.468257
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Monitoring_and_managing_system_status_and_performance-en-US.pdf
+MD5     : c6c14d0f49bc079e082688a33f4480a2
+SHA1    : 67664748d28054f631399862c6be3089193976a0
+SHA256  : 584736cbd41bd0893dabd06c6c0391b90a808b287a9c26d8126b990cc1133bdf
+CRC32C  : d107b5f2
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.471954
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-9.3_Release_Notes-en-US.pdf
+MD5     : 9224db4bd448dc91413cbda248c8f473
+SHA1    : 13faa3ce1d3d8c5fcf4f16bd84c4ff4035509c69
+SHA256  : 6fc0408c0a314f5b39de8d45db0e35d0a0783568f8e48df1bddae7ee964df06e
+CRC32C  : 452483a5
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.476798
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Security_hardening-en-US.pdf
+MD5     : 5aafbd5282d5b5a096c22219fcec0525
+SHA1    : 111985ad11d9930d3456982bcd745fa34db46972
+SHA256  : 32d4a65ef221d7922e965931da28cb4e5857dbc579e337790034840ae638f035
+CRC32C  : a07914a2
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.477431
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Configuring_InfiniBand_and_RDMA_networks-en-US.pdf
+MD5     : 8f8a21538824c37655b7dd3f40082735
+SHA1    : d264745d90fd8a18deadcf2478103184500ce121
+SHA256  : 295d9cd0356b3c04204da2d3f4d4344d218dcc88620a4dd107731f4ee964d91b
+CRC32C  : eac0371e
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.478843
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Upgrading_from_RHEL_8_to_RHEL_9-en-US.pdf
+MD5     : 07e846042ad3591c9d6fe7f05c4ed4ed
+SHA1    : 0b0444ecf74b25147f4f52762a264593df8cad7b
+SHA256  : 41c38b6287a9a127e85588fac13ca73768906376105c238127f412529a5cdcd4
+CRC32C  : 55294e14
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.480659
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Configuring_firewalls_and_packet_filters-en-US.pdf
+MD5     : a5bbcdc1a57593aef357b56410d6068d
+SHA1    : d611942bd1688499fc4c2b49cc27563419d670e0
+SHA256  : e53de217c0bc97015bee15af3f150a8a4a57e052d937a7458471852e3945792d
+CRC32C  : 943ffb45
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.484398
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Administering_the_system_using_the_GNOME_desktop_environment-en-US.pdf
+MD5     : 542acde7425cbd0660af7588b588db11
+SHA1    : 4cacc26b5901cde179da8bb64fd18ca0e1df02e9
+SHA256  : ad40af505d3cb440e323918c5a045fd1e5dbd2c184115a4007f1d21a7d5f6a18
+CRC32C  : 0ddf6b43
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.488799
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Automating_system_administration_by_using_RHEL_system_roles-en-US.pdf
+MD5     : ebf39bb9b70b028ccf903afd25c5f512
+SHA1    : 95e63ec126ac6a3c4985a1cf13ec6e7cea86fc03
+SHA256  : 73c258096fe0e534530b498047848ccf2ccf55ff11c2c53e67bbb889ff935665
+CRC32C  : c473a890
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.492350
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Composing_installing_and_managing_RHEL_for_Edge_images-en-US.pdf
+MD5     : b172b32fa7ce241315ae1bb70f707d2a
+SHA1    : 6713ad24d0eeb7d157b74a3ed6d470d871dfd90a
+SHA256  : 263b41cbc268a2e47dbe9d002d3fcfcdd9efa178a33dacab910165f4edd040a8
+CRC32C  : b35ab810
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.495448
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Considerations_in_adopting_RHEL_9-en-US.pdf
+MD5     : e5aa69e3b63fb65bbaa2945ca4f33806
+SHA1    : 428b6592ca2555e5c1a577f271423a6e9b27671b
+SHA256  : 5f82aa1564f8d99dec5968ca37a543971257b9ade935e9e5eeacba734a1a788e
+CRC32C  : a3f3adde
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.499000
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Configuring_basic_system_settings-en-US.pdf
+MD5     : 8504ae2f6ac4c92c63e1716a5618ab82
+SHA1    : 059f7c25aa31f44c563c9584d18e1e3da2dfdff4
+SHA256  : 8775fde922e4c032ced06e186a672c773166de14bac8e55cc8a76fce4dd3be14
+CRC32C  : 673b436e
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.499850
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Using_external_Red_Hat_utilities_with_Identity_Management-en-US.pdf
+MD5     : d5c89cb8e9e293dee76a9795aa9f7e68
+SHA1    : 672d45b9604be11ef3996d1822067e2b5b00c468
+SHA256  : 1cc6db7df9050ae572f78d91beed729e44e48b04c3625318430cba74909dd051
+CRC32C  : 15f55ba4
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.501035
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Deploying_RHEL_9_on_Microsoft_Azure-en-US.pdf
+MD5     : 1e6112469076f3aee36a1f52c4cd459a
+SHA1    : 0c387d35087a6f50432b6117e4cb8c18b3c6416a
+SHA256  : 9abea12f1590a813f5881c37bbd7597f12e273b202729fb19dcd5e3d2efdc058
+CRC32C  : 420260c6
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.503979
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Automatically_installing_RHEL-en-US.pdf
+MD5     : 4374b3cdc94d5d63c8789d82066ca720
+SHA1    : 89196e1a8501b6280231ed17bd06bb617b8adf85
+SHA256  : d3418283f77a8f46c08c7bb2e6040882058ceb582feada9b9614e721cd4e66ee
+CRC32C  : 499d9db2
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.504808
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Integrating_RHEL_systems_directly_with_Windows_Active_Directory-en-US.pdf
+MD5     : 8e1730f8f3d0b8295547912001443986
+SHA1    : 4e059ab6b4892d10a44a6af8b8ce3a1cc663f1ba
+SHA256  : dd4c0fc9f1d0092b09fbfabaab67e27e96d28b42caa4579acd54de946053d11f
+CRC32C  : bcc69f9d
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.505995
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Tuning_performance_in_Identity_Management-en-US.pdf
+MD5     : 7fd65d93787e484369f72a0646e88194
+SHA1    : 5e65922485d7c68341c0742b36974b90140cc518
+SHA256  : 67b2c7285492a46d18aca4d94d35d1d6c239597063dbf43ed00e03cfb03b0a34
+CRC32C  : ab6c1165
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.515252
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Configuring_and_managing_virtualization-en-US.pdf
+MD5     : 4452b582a398923290806a135aea8d14
+SHA1    : 022b8bf7d3cb4b300050fff80aed9482184d289a
+SHA256  : e6cbd4ff2f8b8229c3f9cbf60d631a6c23c4134917671c6014e0d15ee5e68e9d
+CRC32C  : 38041aeb
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.518614
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Working_with_DNS_in_Identity_Management-en-US.pdf
+MD5     : f821eee5c57b2572dc89ee5f04e392a7
+SHA1    : 0b02f914a5489c2c2b53216ab8b9fd0d1c12ed1e
+SHA256  : 75ff74216b2fa91fc434dc339792ef024c9123d4e29c75c031935b1d428a0f9d
+CRC32C  : 113884eb
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.519068
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Configuring_a_Red_Hat_High_Availability_cluster_on_Red_Hat_OpenStack_Platform-en-US.pdf
+MD5     : 38b4c2acff50dfaccb284edc7f5eec1a
+SHA1    : ad43044cf0c2d8b9632edd27e778acb0e5f0e500
+SHA256  : 1c16f07ce5acacc60ff3f1719b96c4b465ba089cc45b940d141271dda639ed9e
+CRC32C  : 05cdf6dd
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.520467
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Configuring_and_using_database_servers-en-US.pdf
+MD5     : a0498542f935af1cc5235a97c415e2ff
+SHA1    : 4a999955296034b3067bee735f7f3158a913f4f1
+SHA256  : 3850a5e18957de82dfa46e6154b62518f9a8023a60516441bc07bf9ec11a1fa4
+CRC32C  : 4bb8565a
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.523214
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-9.0_Release_Notes-en-US.pdf
+MD5     : 7745d9b219e967a4fa1a7333199979ad
+SHA1    : b7fbbf761533797190221dba3159ae6d6472194b
+SHA256  : 2f8710003b2e7d43f4cce48aae6fad662171d705335c7a461a361173972e8c1f
+CRC32C  : 4e2870da
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.524238
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Migrating_to_Identity_Management_on_RHEL_9-en-US.pdf
+MD5     : fd4f2e2c53e2bb462ec08212e278eefa
+SHA1    : d3903ee84c7718491e86900d0b986f640059024a
+SHA256  : 6499c25c611d470ce4ad65302bff834ebb94cfceab438b570e32aa44269a601e
+CRC32C  : 8cff0f96
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.524843
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Using_IdM_Healthcheck_to_monitor_your_IdM_environment-en-US.pdf
+MD5     : 0f7db998275c50e573ee95bcec6ddd16
+SHA1    : 95f87162ca64396d7b1f79979cd548db79f9aa28
+SHA256  : 94e55973118760962d9d286a2c17232c12b1d41263a6046bbfe609f56c1c065a
+CRC32C  : 077ab37b
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.525296
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Using_IdM_API-en-US.pdf
+MD5     : 6f910c6754d426fa3a5e962be5ef70df
+SHA1    : 3f66a2586f94cbfe2b894c484cb884c95d76dc25
+SHA256  : a1548563f818ba4b6ba504be6e3c7592c3486aeb8dbfc8aa77c6675432ebcd81
+CRC32C  : a0263ad2
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.526840
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Using_SELinux-en-US.pdf
+MD5     : b06277c59a3d8c78032e5769bfe63398
+SHA1    : ba10b983e69849281a84706b6b1183bc927b0f7f
+SHA256  : 64e33a589bfed16698a9371d1c00ffd4278b67bde4f7aeff1660cd573b27e7d0
+CRC32C  : 8b5fe6ee
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.533516
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Using_Ansible_to_install_and_manage_Identity_Management-en-US.pdf
+MD5     : b3315a4ebc2d018bb9ef2bd52f564f4c
+SHA1    : c404685df3ae3db679d77ca5620a4b633479f14b
+SHA256  : ab8dd28e5cffea605ca81a962758f161d3bea4102201954adb4e535785ae249b
+CRC32C  : aaf838b3
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.534378
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Deploying_mail_servers-en-US.pdf
+MD5     : c6b731cddb60f044820c6bd83bf4a114
+SHA1    : e07bb17b8cdb880e2d0705c6fd7e6e6f11d6c0ed
+SHA256  : 6e953bdf83f40879de3aa87525c788743a311735ffb2aae919d68c96149d0810
+CRC32C  : b896745d
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.535586
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Deploying_RHEL_9_on_Amazon_Web_Services-en-US.pdf
+MD5     : 1b4b7bd60c7bf69642d5b7bcf8617e20
+SHA1    : 6e109fc681122c7d69af40c96b7abfe79fc052ad
+SHA256  : b0a884014ecce846303a1d30732697b72d9107f4cf2879f3493798493e09e6e8
+CRC32C  : 801c0d60
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.539852
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Package_manifest-en-US.pdf
+MD5     : 3cf50a79d8077906a2686f7eb50a3869
+SHA1    : 64c1796fd79b4f37cadad7c3e4a99d14a15f11ca
+SHA256  : ccd7875e0a2d43e8fd867ae3dd35f85f4307c89213dd847a729a2c4e039e9789
+CRC32C  : bf969e18
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.540674
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Deploying_RHEL_9_on_Google_Cloud_Platform-en-US.pdf
+MD5     : ddf8452ed6f6f1390ee67d1fa72ae2ba
+SHA1    : 8f858930843d1f81f247f9668ed45455614655f9
+SHA256  : 30bc9f16170ff959170399a9f6bc6c6eedc583465708a3065dd2ad43cd3ec140
+CRC32C  : 48608fff
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.544121
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-9.4_Release_Notes-en-US.pdf
+MD5     : 980d762bc808801832c14b3f7e327686
+SHA1    : dbd7d555d99b1b8fe18c0b5934d560b3281441c8
+SHA256  : d8cdaf454a397c3c5a9fc6e15a344b04a5b64d81566bd4bfc5c5a39e5e139710
+CRC32C  : 32ef095a
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.548149
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Managing_storage_devices-en-US.pdf
+MD5     : 88a6445ec05d5104a685817777459308
+SHA1    : 89957b742c46c2335a00a5c6a30d32caef3ce0f3
+SHA256  : e1e18529633e62143ff2e5d37dce02311cf51253c926552aaffb63bbe3d0af57
+CRC32C  : e159c7c0
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.549877
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Configuring_and_using_network_file_services-en-US.pdf
+MD5     : 98b941cde5ac64a58c9bb585c0e7f920
+SHA1    : 28efd40431f1c6b2c5f97224d7c10dcec02778db
+SHA256  : 7835ffc6dbe257e3f7cab83b516140cc378e9fe568d9b738caf94f9a24605a47
+CRC32C  : ee1f5f45
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.553463
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Interactively_installing_RHEL_over_the_network-en-US.pdf
+MD5     : 9c88678d09ea25beeb003ad4617bf120
+SHA1    : 420fc6afe99f4f8ab3159e9d6230d4f0719fe884
+SHA256  : 3af527facfd21f08175e48f6090cf64d67af7774491967aef8602466d4ac323c
+CRC32C  : f3d95996
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.557704
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Installing_Identity_Management-en-US.pdf
+MD5     : 9282fd47797d5a850bb0118e52d44db8
+SHA1    : eb5122d36b1bf91959c561b9000e23284c5af778
+SHA256  : cfd7e4edcd32bafab61f97c1a3f4d64e30057a8adc4cad2f57b4cd0d7072ad1c
+CRC32C  : f46ee5cd
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.562327
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Managing_certificates_in_IdM-en-US.pdf
+MD5     : f7482efdeddf57cfd46a539449edda8e
+SHA1    : c32b23c07a15c0e65e867491c45b34aa735c0cb7
+SHA256  : 10eb5d74e8f49c3156c76daef07e41273223516a41f330de2f35f80058d9df0f
+CRC32C  : ab12604d
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.563118
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Using_systemd_unit_files_to_customize_and_optimize_your_system-en-US.pdf
+MD5     : ea84d1dfc1e3ad1605c5c3e86f662692
+SHA1    : aa71a90c106779f764999935226c6d9c74ddb556
+SHA256  : 76332de1b977f105da2c4912d11da7e1b5b908c4c21edf56d8c8f857928648ad
+CRC32C  : 33572375
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.564178
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Customizing_Anaconda-en-US.pdf
+MD5     : f52604b7435a1586ca262c5bfe11aa44
+SHA1    : d2dc7a93d4ad4be4a5e5261ee01a6845bf64ac8b
+SHA256  : 659ee9d6eda20287bd1800e282e1944f1f65bb338e22f3bfe2c21912c1b926d2
+CRC32C  : 5acd294c
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.565657
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Configuring_device_mapper_multipath-en-US.pdf
+MD5     : 4b99c590fd8dda75b7c2614ec519c28c
+SHA1    : 42e205b651b15e86ab7c9c70aa5bb61167d8eb9a
+SHA256  : 5a246ebcf7b126d91c1c59734e7abdb089757295a80b24a869da0c9c5f7e6011
+CRC32C  : 8ba5d151
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.573953
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Managing_IdM_users_groups_hosts_and_access_control_rules-en-US.pdf
+MD5     : afabe035362dae30f79696304c412010
+SHA1    : f37acf9e7597423073779508b16e3b1c07ef70c4
+SHA256  : b7f34814a711e89d95e46c5685efd76966a482c9250667b490b8dfe7507d483c
+CRC32C  : 650034df
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.574638
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Managing_and_monitoring_security_updates-en-US.pdf
+MD5     : 4ff91404400b55a6dc3d001bd32e1ff6
+SHA1    : 716bcf800a02d56a0c73a5bd5fd09f48c9d8704a
+SHA256  : 3fbd22987e77ab2c1c58023b8c1841c5339d9a15d741ae2b77e937e0efc60ba0
+CRC32C  : b0973f15
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.577796
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Interactively_installing_RHEL_from_installation_media-en-US.pdf
+MD5     : 3865f99f8466b989bb0a834917b632af
+SHA1    : 7f65b4ff9252800a20092cd5084650fdaf6aba40
+SHA256  : b8047560a4e37bf02171d8ac6e2638e6893ad87174fbc4f9b40cd429d57c4c7e
+CRC32C  : cd149e70
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.579860
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Composing_a_customized_RHEL_system_image-en-US.pdf
+MD5     : 9752e8be186cbd040d5ae9dc813521bd
+SHA1    : 3c560ea0ed3a3b6c0a9673a0cbeb5d947c5b51a0
+SHA256  : bc7d244382579e977ad85b1e0bcdb74c1e894feb94bb88153d0858a88f3f2479
+CRC32C  : ef563553
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.583072
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-9.2_Release_Notes-en-US.pdf
+MD5     : 5ab1c9de2f043eda3978b6337662257b
+SHA1    : e673b85bb12408e292711b02941e529121a50fc9
+SHA256  : 0e4aaff3fe6d9683317218c0f9b4d6e1543ac290a99f97a92bd693bf3e34b491
+CRC32C  : db4c61fb
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.586179
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Building_running_and_managing_containers-en-US.pdf
+MD5     : 3688305e9decd8aa374d3d442d8e8de7
+SHA1    : e9d91087e4ad3765f9dad092b9ac9648e5612829
+SHA256  : fb96f18b5abb992cce2b225a55f12e254c1000405374eac8caaa8b835d467799
+CRC32C  : 16f549fb
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.587075
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Managing_networking_infrastructure_services-en-US.pdf
+MD5     : c86aa66ee742c05ff5e8d051840335b8
+SHA1    : 09b046ebac14ab902f6a8b3579c4272a889fd83a
+SHA256  : 246e3dbcb56fd59729234cbeddb21d07b8f7ba59ce587e1ab685dbf805927c4f
+CRC32C  : 8c140657
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.587984
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Preparing_for_disaster_recovery_with_Identity_Management-en-US.pdf
+MD5     : 48e6ab21723035e6cadac9de00ba771e
+SHA1    : 8960b663869165d6cdbf0ef298eaebe627731448
+SHA256  : 20ea15eb555786ffc42be6822ab975f48c2843243dc425774cec25682a1e9531
+CRC32C  : b5e18a61
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.589255
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Configuring_GFS2_file_systems-en-US.pdf
+MD5     : b05ef217ed3e3feb0ffb9ddce0f6b729
+SHA1    : 184aa95aac629d4394d02c19bdc39f8cf5e6955d
+SHA256  : 64bb4bd46c1d193e2fd1c1e4cc9113cfe25c6c5f8023c5afa745a0c1a2305906
+CRC32C  : b43f5146
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.591225
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Managing_software_with_the_DNF_tool-en-US.pdf
+MD5     : 6667bed08997f2fe2565b8e68bced66e
+SHA1    : f63f9226257b99628f6a4a63d207489f7a14c475
+SHA256  : b336edc6a3f17bc5b82b170f40d0af75a8a84473be8525c7a7b0dd14821c6a1f
+CRC32C  : e639fbd7
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.593394
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Planning_Identity_Management-en-US.pdf
+MD5     : 2da451f497566453a84481d7c05aa988
+SHA1    : 3ca77084bdc795ad33068b7c8db9ea9a82d0744f
+SHA256  : d7498b65f4dd6d9f37c5448417142b404c5e98524dcd592c7b69254a3b532d04
+CRC32C  : ee878dbf
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.594767
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Deduplicating_and_compressing_logical_volumes_on_RHEL-en-US.pdf
+MD5     : 52c4184c2aeddfa8cfd97001399f3d66
+SHA1    : 17ea53f3460f4c43fc9259ae12048d42063d59b1
+SHA256  : 7fe6ccc9c6c8837cb58900c238c8fed3bace152f0043507fdfa0e4027989170b
+CRC32C  : bd1e8c7f
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.598253
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Configuring_and_managing_high_availability_clusters-en-US.pdf
+MD5     : c4bbac9ce0bc3a5e9fc977133e50fc19
+SHA1    : 146f2848099605e3801204c64c65d1ddb3b7b1bb
+SHA256  : 8e62691527fd3ab51500e136369fa684dd48300dadf82f39f4bba63001a6c4cb
+CRC32C  : 4ca914fa
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.601990
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-9.6_Release_Notes-en-US.pdf
+MD5     : 43d7096b08cf3c23e1b761da0598feb0
+SHA1    : 792dd00cb695aba69e029b7c3164a3dd36e5cc3e
+SHA256  : ca342b205e685dba5a181b2f21e2bcbb8c0b654bf7b8e84cc17f4601ce44d623
+CRC32C  : 5c56d29c
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.605764
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Managing_file_systems-en-US.pdf
+MD5     : a5fdb6735fb04d831634d5bff6a16cab
+SHA1    : d79e608fd15e11b18ef073b2ab78f863a92f4666
+SHA256  : 7f2addc8bd04d33d8f57589bd21711103bd9fe6311173df8444c3b16cc6013b9
+CRC32C  : f31398c6
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.608229
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Installing_trust_between_IdM_and_AD-en-US.pdf
+MD5     : 0a4ac93fc6d6b2762f656d0167c33334
+SHA1    : 5e973d63230a1c5d74fba34805d77eedfabfbaff
+SHA256  : 640a72cc7e73cb0d739e32a5541b2a5379ee04e3731ed40be1018023ab411407
+CRC32C  : 4951395c
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.612324
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-9.5_Release_Notes-en-US.pdf
+MD5     : 08345a25fab92fa10be9a99e28cddde8
+SHA1    : 38f0965b46a0aaa652c3eb544cd5b9b7aff54245
+SHA256  : 28d3c264cfbb8918744c523777a37b191e15eb4a5fee77d2fef7f0ab19784b2f
+CRC32C  : 7d1efa9c
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.613669
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Managing_smart_card_authentication-en-US.pdf
+MD5     : 78345fa12bf5dab7346bb2ecd00b0170
+SHA1    : 30115022e6cdcce7dafe1c0fc95ee6224a614e0f
+SHA256  : e31948220d7fbbe8c1ce0f747bf2502029191f5611aa4c6435156d667168b615
+CRC32C  : 02cbcb98
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.614329
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Installing_and_using_dynamic_programming_languages-en-US.pdf
+MD5     : abb2390dedd5d83397b59c299d728eac
+SHA1    : 859bf8de4e653345a99b14417519eb6f22a307bf
+SHA256  : cb9c4cede2568d65c03f910fd280a4f17b0fac94b434a80dd14e8ff284dc0c88
+CRC32C  : b1095225
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.615693
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Packaging_and_distributing_software-en-US.pdf
+MD5     : 15c2698badf5831f2a0c2c035e3ac615
+SHA1    : 2a7ce610ecbe814a0d63140095cafd29e3c6f6f2
+SHA256  : 0ec2881e3f9bc493f515fb1c10f2c80114433e42bba72af60ba6c9d8cfe68c03
+CRC32C  : caa54181
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.618255
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Managing_systems_using_the_RHEL_9_web_console-en-US.pdf
+MD5     : 90bec2ae20ab89c06b04dbf9f5933f5c
+SHA1    : 68b15052c4f9bf217f77980789ce2758ce3538d3
+SHA256  : 758f8280390364b65eeeda03e78cb0c6364bf8f40251dee40e876ac1fa897b45
+CRC32C  : 9f0d79c6
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.619192
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Configuring_and_managing_cloud-init_for_RHEL_9-en-US.pdf
+MD5     : 0d5ec184a6d5ecc12dfe18eac67bb636
+SHA1    : ba9e607a253ce075b592ae1bfb2a8ece7c12d793
+SHA256  : 7171172d211d812fcff1e54246011e02365752614009221769a773025c9f1d74
+CRC32C  : ae780c9d
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.627713
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Configuring_and_managing_networking-en-US.pdf
+MD5     : 6c8e567d41b8f1e0e878d6bb13db4b26
+SHA1    : b0d5bfdec3994f2004cf24c97444871b7ad60f97
+SHA256  : 4b178dc5c0a5979aee7cd642dfee3de5089ff0766799000e8e9bd4395c75fecd
+CRC32C  : 5ebaf8cd
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.629994
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Securing_networks-en-US.pdf
+MD5     : 37ad70de86e97b1d8fef62f090e73c17
+SHA1    : 712bff473f4b498776940d1baa2814d6a09b0a0a
+SHA256  : b403d986ca4e942df3f3e1a269fb40953109b233a74eae58cedd485e8b35f5bc
+CRC32C  : a2785d63
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.632672
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-9.1_Release_Notes-en-US.pdf
+MD5     : 932d19f931b47a8f7e275495a31fc06d
+SHA1    : c781d795bfe0155d7e5035f34f18bc8114d2272a
+SHA256  : b9adf058591ef3f8471c11723529b4d2697d6d5fa9035de1e940c5167f838a0a
+CRC32C  : 319d7f9f
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.638257
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Getting_started_with_the_GNOME_desktop_environment-en-US.pdf
+MD5     : e858d7fb59135dd44150924897930e4a
+SHA1    : 9c6c20b67405a3c4481bb6d8ff00679658faac4d
+SHA256  : aa3d452589a5823d1ca40729bffa2487170ca446e02ee179ae973343c8f03a87
+CRC32C  : 18f3d4ee
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.641436
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Configuring_authentication_and_authorization_in_RHEL-en-US.pdf
+MD5     : aaf5456abf9f0139efba9c8324e11ebc
+SHA1    : 54061bce90ab7b2ad1f70ddaa88cf95575cee03b
+SHA256  : 21fa49c90d901cb34bdd9d09692eeba962bb91d584e610e6787fb431255bff27
+CRC32C  : fc6ebfde
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.644397
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Managing_monitoring_and_updating_the_kernel-en-US.pdf
+MD5     : 3946373e2f8ee5d9441b2e0453f718c0
+SHA1    : bafb1d888f9ea4651f5e5d84dd2556c8c2ba5b47
+SHA256  : d6e503d78e5de434b88976328d84cf6f8db15329394f9640032b175929f6929e
+CRC32C  : b1f3de99
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.646461
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-9-Using_image_mode_for_RHEL_to_build_deploy_and_manage_operating_systems-en-US.pdf
+MD5     : 127ee53db0da3265a063a3efa03edb8d
+SHA1    : 1cdaf8d88ea725cdeeab3f231ff58d9269bc972f
+SHA256  : b21493667cc039d1d42d2e0cf223527b260873f61e2cc6f51bae71e01bd6d4ab
+CRC32C  : 6495b07e
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.647183
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_9/Red_Hat_Enterprise_Linux-8-Converting_from_a_Linux_distribution_to_RHEL_using_the_Convert2RHEL_utility-en-US.pdf
+MD5     : a769b5f177b216f4fea904f4cb37a123
+SHA1    : f2a3ea78ec43c4b395a286289c3d1754030f82dc
+SHA256  : 2d128fdf208e360d38c4d466c796dad6f3cef0287b8c8e81613f90673f65049a
+CRC32C  : bb44c23d
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.648537
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-8-Upgrading_from_RHEL_7_to_RHEL_8-en-US.pdf
+MD5     : d24d574e302b35c07467c9fe1fb444db
+SHA1    : 0730c7e4e0de3e7477ba1998ac1ead065970ba78
+SHA256  : 1009c7983848db1016b8709a62ca58f8c2275bbd6ef987499dcdb352d6db4bce
+CRC32C  : 7014e275
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.650011
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-SystemTap_Beginners_Guide-en-US.pdf
+MD5     : 2ea323b1ec1b5170e28ec2fd82fc3a4a
+SHA1    : eb67c176de24a4026438fc37560e8fc32f53b44d
+SHA256  : 56f6e7e10b1b7f35bd7fd0f2e530c52220a79d9ab3dc2a8bfe78ef93581abd43
+CRC32C  : 04133090
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.652232
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-7.9_Release_Notes-en-US.pdf
+MD5     : 9c6a71ddf78ab4bc5dc57162770433b8
+SHA1    : 020eb4d1764aa9ed1bc227aca4dd741c2a4f6e3d
+SHA256  : 6f79f2c4645811552e24b1eb97cb76245ef3b2024af20dde44110684ccb24302
+CRC32C  : 4acf1ddf
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.655749
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-Desktop_Migration_and_Administration_Guide-en-US.pdf
+MD5     : b5cd95f73144b44da77d9cf43e9f5539
+SHA1    : 58eae21860fa1b4eede9fb5fdbbc563b1f575f96
+SHA256  : 830c40877e1c50313c315babe4db78f9af6c2ef9d443c1b4db4a232d209881c1
+CRC32C  : d4ec4ea1
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.656465
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/rhel_5_6_7_8_cheatsheet_a4_0519.pdf
+MD5     : bea80211e7fcaf1fb1c313cfa103cef1
+SHA1    : 60c7e1bcb843d1037b99fe8c7607183880525a2f
+SHA256  : 3d97975614a821055d6269801b4a608363a6db27a23b989addb152d106ede232
+CRC32C  : e313faee
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.661640
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-Security_Guide-en-US.pdf
+MD5     : a160e9fec9863983212079829d056cc0
+SHA1    : bbce8e04913cc86973a35ae762e68c64afa59ab0
+SHA256  : ac4943a503f7ec78ef591ca72869c93afd2e2b4a843f3d6e5167eef96a2929fd
+CRC32C  : 88d989e4
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.663038
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-High_Availability_Add-On_Administration-en-US.pdf
+MD5     : d16dad86bdcf22dd50c2846707d4d86d
+SHA1    : 4272259412e60ebe4fe8204b5183721c548aedb6
+SHA256  : 426a46366b8059153fd5677c7ee8e8312ff8f323eb25670733408736cc90233a
+CRC32C  : 7876f29a
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.663725
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/rhel_5_6_7_8_cheatsheet_24x36_0519.pdf
+MD5     : 09e8a8efa40eb6812533f9a076cd645b
+SHA1    : d9c1217cfe62677aceeb9e1f2cfdb0b5777f7c79
+SHA256  : da1578890bf1b6538b2b22e78bcf170e6124ca691a690e7407214ac85bd0f3f7
+CRC32C  : 77ca95e8
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.667180
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-7.6_Release_Notes-en-US.pdf
+MD5     : 5079b6944343bc90e97aeb46fac89934
+SHA1    : 9c4f84054226b128933bdf40d32bd678f4ad3235
+SHA256  : caf7bb6bae3f65dc78165425be423b8117aeaef32001d25fe5843b58a74730df
+CRC32C  : 7db1d173
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.673286
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-Storage_Administration_Guide-en-US.pdf
+MD5     : 000c62b9d2a071bbbe416722d58d6f1a
+SHA1    : f34133ea3a2f99b578bdd9ca9e0942645ed2439e
+SHA256  : 9dff7eafe021ecaad919fb19fb86e441b5920cebe30ef5e79590c353c0846d42
+CRC32C  : 9ce20199
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.695134
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-Installation_Guide-en-US.pdf
+MD5     : 7cd8fd7a36a479fdc031ae2e7a9d85fd
+SHA1    : 8619687c17ab3de27472b7b865f59e9bad4affdf
+SHA256  : c4780a1dfcffb1f8f8c2e09569cb7ac874ff78cf0b6d4c61e47411e7a786a846
+CRC32C  : dc623ef3
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.696993
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-Image_Builder_Guide-en-US.pdf
+MD5     : 92d923478ee8a3a0887baee200e1b4db
+SHA1    : 1a3c1697a90ee2893c383a5eeb12c7a6d49df79a
+SHA256  : 5456e92042ce58bb0bc9362006669afa761b17373bfa3bbd6dba572d582072b4
+CRC32C  : e29a93fa
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.698713
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-7.2_Release_Notes-en-US.pdf
+MD5     : 3423816ff67137aa7545ec143ad7906b
+SHA1    : 1bbc743a73b6095980ec0ef98581f4590868117a
+SHA256  : eb0c4cb985bb8d47620bb4ede34f96003b02fa811c38724dda6ecfc1e6cb856f
+CRC32C  : 3d367ca3
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.699933
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-DM_Multipath-en-US.pdf
+MD5     : 7e059f2bfc3297f270268ea74898b393
+SHA1    : a9341191f8d0a45d28dffc369d902cc3e4e491fc
+SHA256  : ce2e34bb33303614b6358aef6f5a246779c3299d345b7be0f354779c26ae2f5e
+CRC32C  : 8cb6834f
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.700884
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-Virtualization_Security_Guide-en-US.pdf
+MD5     : 27a6552c1bf7d05f01d2689921a0e70e
+SHA1    : 8d2a3c7467daa432cc0eaf611fcfa9ab6db47134
+SHA256  : c371fe3c843f319265b6a41d0bdbd32f0963dda28eb9e2934815dc369dfd95e3
+CRC32C  : d64e1291
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.706849
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-Networking_Guide-en-US.pdf
+MD5     : 1845105cd1cdd0ef2e73028d8cfec0a5
+SHA1    : 6e2d07cce4762b7fae4de94c0f4030a8f65922b6
+SHA256  : 8926d04c716891855f9328ff646da87e30f2e8f0a8807e3e80314882d0764d62
+CRC32C  : 49844915
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.708698
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-7.1_Release_Notes-en-US.pdf
+MD5     : 30c060208b3eadfaeead5e064f8048e9
+SHA1    : 4eb95d13d99aa3f62893c634f7cb9cbbc41b1402
+SHA256  : b1de949e6ff2b534018ede0f54e62d7f244662c908dde4a3ddf731c52e926f08
+CRC32C  : 0b986fa4
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.709651
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-Resource_Management_Guide-en-US.pdf
+MD5     : b9be0250bc0f1dbcfce3cc24ed7e1c10
+SHA1    : 74c2a8e980452839760ff5e9ff1027d147727903
+SHA256  : 0f730379178399fff1da64d4cbb4a977ca319f5c172a02a3442c5f4870379dc8
+CRC32C  : aed35822
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.710927
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-Load_Balancer_Administration-en-US.pdf
+MD5     : 399e8fbe520b1959b681faae3b36cb1f
+SHA1    : e6caaba043d7de58a04683262f2b04e8a11ca749
+SHA256  : 37177beab19d515082d2d6dd59fedddcb1dd668964610379e6c0a06db590fa51
+CRC32C  : 39bb11da
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.712600
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-Using_Containerized_Identity_Management_Services-en-US.pdf
+MD5     : 8f7a1bdd05546eef1bcf16bcb53aab1e
+SHA1    : eb5789e8b3129fe472a22e3de67492182d0d25a1
+SHA256  : f45bc18cd29f97c9795784b0b933914f79d9d723a7df80b69708a826d3024e5b
+CRC32C  : 0f740169
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.714206
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-Developer_Guide-en-US.pdf
+MD5     : 567c1fbf5ac74f69839484caf5b7777b
+SHA1    : 16401f5adc4cde9b3d414c1c661b40d6603c151e
+SHA256  : b18bbfb6428cdfa5fea2133685df435bf43fe250dfc4e32f429a01cb652e1179
+CRC32C  : a685d237
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.717651
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-High_Availability_Add-On_Reference-en-US.pdf
+MD5     : c40341caf78afbc1b6db41e41bebb3b4
+SHA1    : 0ac379a8715616a48aee5fd8f5ac9bc4b4e7116d
+SHA256  : 64fd76d3aa5f26f481a6c717669078c26b55d6dfa1d818f5abae32b11c6a8b61
+CRC32C  : 733a129d
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.719809
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-Virtualization_Tuning_and_Optimization_Guide-en-US.pdf
+MD5     : cb8c1ca551e736f67ee4c0b976fd6f4e
+SHA1    : 4e8d4a4a7a0cc8f03f1f408b096e9d48673ef92a
+SHA256  : 9256cdd1c9faa28980d7907324a440982bf755af02c68024f6272b511279e969
+CRC32C  : 3d3218f2
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.723798
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-7.5_Release_Notes-en-US.pdf
+MD5     : be6f397225e46b123738859fa668617d
+SHA1    : e94f97f3e3f8e839d310d38e024f1fabb324ff72
+SHA256  : 4160f4b6a4a01e24fab04e4c78d9ad56640ee7c6cd7d5229c1bf77c24f9d3f6c
+CRC32C  : 2dc7361f
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.724491
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/rhel_5_6_7_8_cheatsheet_11x17_0519.pdf
+MD5     : 87b56637aac4b78ca760f7f8b3108744
+SHA1    : 0e9be4cd465d0d1c4be7f1f1bc69de188530bbed
+SHA256  : f87a0011ee0db7433b91e4b123aa0c1f1cc1d0b30ec15ee66a6002b6bb4abf41
+CRC32C  : 8063a293
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.726488
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-Performance_Tuning_Guide-en-US.pdf
+MD5     : ad1f62d8860877928890f5fe00b2a666
+SHA1    : 70991a62195db89831e59a3069c39e01b9d73308
+SHA256  : ff2223ff0189739a884b15a108719f9a34729d6e77946d14fe2ad081d6e56c48
+CRC32C  : e57262b3
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.732540
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-SystemTap_Tapset_Reference-en-US.pdf
+MD5     : 9eeec797221d52fbaa18622efa402413
+SHA1    : 321e9cae4f8de7c4d5fef6c34ed616129d1647f9
+SHA256  : 8da899ee5608807f5718dd8e488450e350eade2afb99d4f10425c80967e19415
+CRC32C  : 57f012da
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.733202
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/rhel_5_6_7_8_cheatsheet_a3_0519.pdf
+MD5     : f67b105e69fa6c331079da8c70f5f0f9
+SHA1    : 12d2b802a1620c6324bdd9f6e32837b7a14ce38a
+SHA256  : 823c3357a0b9111092be6a3c2ef381aca2b45cd19d26a7af793b3d4d014b2a1c
+CRC32C  : 962ede2c
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.737967
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-System-Level_Authentication_Guide-en-US.pdf
+MD5     : 57e183c7488909c9b6fc5447678570cb
+SHA1    : 99b9c00029da94e9e8e8f0e3766ed741762dee65
+SHA256  : ecd13fb322d3d69f015cd9235d9b763845de0b7172f25a141e9dd76ee73326b5
+CRC32C  : e428805c
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.741334
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-Logical_Volume_Manager_Administration-en-US.pdf
+MD5     : 354460c50610d3e7fb3105329ea36223
+SHA1    : 0279dfad1a5e0fe2046f043798dff5af0923cee2
+SHA256  : e0b724f9b00a0555e733846ebdcfd08c5b520bbbbfd1f7679b016e76158e7da9
+CRC32C  : 2e1e95e9
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.742295
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-Power_Management_Guide-en-US.pdf
+MD5     : 997f1cb321cf80ddeaea986a51768bf1
+SHA1    : b291ebf8d89ed57219f99066eb0c2752d213fb74
+SHA256  : 008d018a269e79a7025adf2379af3a174f75c15d5efb2b2aff058b5d32b63b08
+CRC32C  : f84cb2bf
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.746758
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-7.3_Release_Notes-en-US.pdf
+MD5     : ac87817a604d72e45bd5c758dee65958
+SHA1    : f25d87cc6d52bfbbcc72fd941251ec785004ea57
+SHA256  : 0865756bb0b246be6cfd5cd2cd4b6c91cbff2f8396e28e109ef3cd0f6e54059c
+CRC32C  : 1a9ad81c
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.749829
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-SELinux_Users_and_Administrators_Guide-en-US.pdf
+MD5     : fb29fe6f7255d7c9fad845651952ccb6
+SHA1    : 84f4a0ce55fb115288338f72e643e7bc87d8a18f
+SHA256  : 7a1dbbf53b2a5a476021e9b8c074a9ccd3e9cfdef44395446abc28601b16da88
+CRC32C  : 495dadde
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.751116
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-Deploying_Red_Hat_Enterprise_Linux_7_on_public_cloud_platforms-en-US.pdf
+MD5     : d529dda94af345a193b035bd5f958412
+SHA1    : 0ab2b7506acc4f3b1e32f3287a6395205f8bf1eb
+SHA256  : c40a738134a7a277eb2e4be3bf9645030d20a5724d80adedda8f38abf7c3cef8
+CRC32C  : 5d9f2a6f
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.765473
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-Linux_Domain_Identity_Authentication_and_Policy_Guide-en-US.pdf
+MD5     : 47a84b4db4298ddb650de2c9377b7b63
+SHA1    : 2608d9fa3790a5a9c1a0e784275ee931678b7650
+SHA256  : 0f867dfa6f1837803b49c9449350be04731a120e35da0f7aa73969afa5120154
+CRC32C  : 2965199c
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.769044
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-Windows_Integration_Guide-en-US.pdf
+MD5     : fd0ff54117e6280ffdd7201abae66613
+SHA1    : 0173d5ac384e98ecdc9ce775f7f6d8de2eeb33d7
+SHA256  : 28d3737917651e1d4a15bf231c84a985c0bbe15527ea29a86dfd1eac94041ef7
+CRC32C  : e99b823d
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.771110
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Common administrative commands in Red Hat Enterprise Linux 5, 6, 7, and 8 - Red Hat Customer Portal.pdf
+MD5     : b92f7caf1b759edb2b79d57ca9d426b7
+SHA1    : 2afc46642a8d260f0570daf1e9ce3f4ba0a78736
+SHA256  : 5767c9a8ccfd29e55bdf881dfd18fed63b92a1ec940d30da87e8ddc064cc14e5
+CRC32C  : 41ca48e9
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.773708
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-7.7_Release_Notes-en-US.pdf
+MD5     : a3a1632ea3485497ef7b466d07d0e433
+SHA1    : a22ffbddfafb2a07bfb33f75d2bd5f329aa930c6
+SHA256  : b166981136be817fd7789fb6b910e97928a7d21a0fc85e17646616262a25cdc7
+CRC32C  : 4d3f7cb5
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.775775
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/How do I migrate from RHEL5 to RHEL7_ - Red Hat Customer Portal.pdf
+MD5     : 9fbade45c49a8a42505629b9c83d6ec8
+SHA1    : 3932745ab37c8f22ad71d50b9281f61cf0aae884
+SHA256  : 3057ebcd05f56292cf659909b030d7bdbb4a2bd4c9bdfee119ff14c497c5559d
+CRC32C  : c4d07466
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.776901
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-Anaconda_Customization_Guide-en-US.pdf
+MD5     : 575612babc444d0a611670a0298dbc32
+SHA1    : 966cc13bf4871a3fc1aa94955738af15e999f8c7
+SHA256  : 40d8d08aec1f9ec1f95ee9a1cfa349686afd2e1cdf9a5e7f5a393eb9b487e3df
+CRC32C  : 7b2685cb
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.778218
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-Global_File_System_2-en-US.pdf
+MD5     : af535e8ec5c841c6d318fb6dd639cd46
+SHA1    : b546e9910c534baf7e9b87427e0409d1cfd5c99c
+SHA256  : 77c07144c4fc6cd77ca0c9a884e5be433be1fcebd6fd86e3a1cfd34cf08bbc6b
+CRC32C  : 43b97903
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.779753
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Converting virtual machines from other hypervisors to KVM with virt-v2v in RHEL 7, RHEL 8, RHEL 9, and RHEL 10 - Red Hat Customer Portal.pdf
+MD5     : c0aa091f9454d9d3e2c6b658460ce302
+SHA1    : 829869a1c2dbf527960389ff690cb1d5aca53b1d
+SHA256  : 0e30c7e95b7fb58f2b0dd48c284ae63fdb593dfacdaa4ebc13907a9cb2327261
+CRC32C  : 7190bdb4
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.781776
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-7.8_Release_Notes-en-US.pdf
+MD5     : 7524a05876136182b3443b6d96972bd3
+SHA1    : c46ab6ff09ee60c9e224a58b655bcf42239485d3
+SHA256  : 5292c3feb8407d64cd94b78cee9320ef42382d73a0733eb35a1127c8ad34ec1b
+CRC32C  : e41d9b08
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.794075
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-System_Administrators_Guide-en-US.pdf
+MD5     : d60462e89b86e17d9bf7382e8fe8e08b
+SHA1    : 1593476c172a4f86ef12bb26746ae69329819c45
+SHA256  : 38fe10b9d492208b988e76f36ff5b082346936778e9ad4e0cf8fdcd38df3985c
+CRC32C  : bc3ab0d5
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.799040
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-Package_Manifest-en-US.pdf
+MD5     : 841317239bb478c3161b399006079aa4
+SHA1    : ac0442e716efdb1c2c09a797700c24c1accbdef9
+SHA256  : fffcabe496675af954052722fc50feb559a8a78179f0653867084950d39404d4
+CRC32C  : f3d9aa03
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.800164
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-RPM_Packaging_Guide-en-US.pdf
+MD5     : eb34daa37c7ea5b9251fd2d88fe6e5ef
+SHA1    : c83530b9f33e0011357d67e6c8e71d6285a3b92a
+SHA256  : 464be074ccaade94fdab43ab4ed3bf3137f3eddf0ffca40d606eb39efce88d03
+CRC32C  : 6daaa5c8
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.803482
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-Automating_system_administration_by_using_RHEL_System_Roles_in_RHEL_7.9-en-US.pdf
+MD5     : ae0521d87fbd4b358b230c02933a22dd
+SHA1    : b6d16a8dde3b989b2e1ae3b8d39b3c429705d920
+SHA256  : c842f143a270b1e7cb0ad21970afae70a0f64fca02ca86a7eb85b8fdbab40236
+CRC32C  : 8869a0d0
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.805603
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-Kernel_Administration_Guide-en-US.pdf
+MD5     : 82faafa47ed5082f79cd3d5098c4bd9f
+SHA1    : 5529d0a04096d9d43e415730c951ccc4c1f18bcf
+SHA256  : 9b0cb449cebff69519e9918ab1068dc68052e4c760b71a7b4994b71a3b04c2f4
+CRC32C  : da7886eb
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.806843
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-Migration_Planning_Guide-en-US.pdf
+MD5     : 18c32bcd4c3b91edca59b6e335816390
+SHA1    : 36b4dcc9ccb6673acc1ca7c6de555b523514a838
+SHA256  : f41b8696b8122df99260168cdd1c70e34ef581d00bd285e9a1d7beb5910bac33
+CRC32C  : f2781538
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.810873
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-7.4_Release_Notes-en-US.pdf
+MD5     : f9968d54a01033190b662bd6dc8c8f26
+SHA1    : c98a592ed486a4f26e5c618b088a4e2cc33b15c8
+SHA256  : 88f6ae98ee85f414f89b0337af1b200dcb1ad1663c76ef96eaac94a96dcd9f8c
+CRC32C  : d4f7abee
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.827800
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-Virtualization_Deployment_and_Administration_Guide-en-US.pdf
+MD5     : 7f34719479cc6a6a6bace2c543b05bef
+SHA1    : e982dd5802766fc495c46256908c03f1aadf69e8
+SHA256  : 18627346e725da4978879afa0f545257585bf7ae2dd6212fd8b5e1bab8faada4
+CRC32C  : 2da41e7e
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.836537
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-Managing_systems_using_the_RHEL_7_web_console-en-US.pdf
+MD5     : 0e62342da38daba5852e569a0a12b7e2
+SHA1    : 49df05014eb959c9e46b569654f68cbdb2627273
+SHA256  : 2a2ecf66a5f289eb39c7744b67315e4abf530a57590530d61f05d66331c92ecc
+CRC32C  : 5268b724
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.837272
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/rhel_5_6_7_8_cheatsheet_8.5x11_0519_0.pdf
+MD5     : 2f5864f6b3a2fe731b6c9d165497b5e6
+SHA1    : e700afcba5ea7a6360e47573d40e4909e9c6a9c2
+SHA256  : d39f783ed0edec99cac35b5aa6220d7bdbbbd2977c1b9a45c4dfa95eca381b76
+CRC32C  : b565e4e4
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.837964
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-Upgrading_from_RHEL_6_to_RHEL_7-en-US.pdf
+MD5     : 214f3bdf5d6c110b45cd0cf42c3c54ea
+SHA1    : f450aa865dced788ced754209fb08ae8356b2730
+SHA256  : 6cb2938b666bff0d3ceea46e80a612a0778a7462bf0c12e3ee0f3821e05be807
+CRC32C  : b0ea6551
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.838359
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-High_Availability_Add-On_Overview-en-US.pdf
+MD5     : 65e703ceac7260a59b661d77229c26d0
+SHA1    : 1f7cc0847a92beb0e3ea1b079ce066b5f69c5502
+SHA256  : a28a3e2f6eec3bac5dd12987fc4490bbd91c239a7be7f5c18807da5de179b767
+CRC32C  : 9c4801ef
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.840583
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-7.0_Release_Notes-en-US.pdf
+MD5     : b9d9a024e7a6419306475b94d7314817
+SHA1    : 5bf027d889070704022982d74822c3db1d94347c
+SHA256  : fd85bc34ddd1387fcac9f4b1e02a885b968f68d2a80e14f8c8273a3b68ce660a
+CRC32C  : 7697dac3
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.843167
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-7-Virtualization_Getting_Started_Guide-en-US.pdf
+MD5     : 7b91f9877c9d70a52e0098dda522ca39
+SHA1    : b3efa42745efdb7dc6dace4627b2a7cff2239dfd
+SHA256  : bcd898c67a48f725809cd78e85d6377fc98bd3702318cb4cb757d117a2b51e5d
+CRC32C  : 8d9ef8e7
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.843834
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_7/Red_Hat_Enterprise_Linux-8-Converting_from_a_Linux_distribution_to_RHEL_using_the_Convert2RHEL_utility-en-US.pdf
+MD5     : a769b5f177b216f4fea904f4cb37a123
+SHA1    : f2a3ea78ec43c4b395a286289c3d1754030f82dc
+SHA256  : 2d128fdf208e360d38c4d466c796dad6f3cef0287b8c8e81613f90673f65049a
+CRC32C  : bb44c23d
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.846845
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-International_Language_Support_Guide-en-US.pdf
+MD5     : 6f8574040a5d8c181608fc6cf0ddb1d7
+SHA1    : df7aec77cbff7b6ac8f1b0896e90277f19f057f1
+SHA256  : 468a02288ece3a75dcfa621382cfc108933987eae873b891a4997bab8d70465d
+CRC32C  : f6c7eb88
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.851137
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-5.11_Technical_Notes-en-US.pdf
+MD5     : 54705d48476cc85af3fed3ed33e54fcd
+SHA1    : 603b1fad77999ca60fb448ffe01c1199d191e788
+SHA256  : 758b1c6f743589bcf8fc5000903c39011ea1b5aa08e123b5a8894d0ba531692c
+CRC32C  : 93e8f8c9
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.856467
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-5.6_Technical_Notes-en-US.pdf
+MD5     : c9de23eb82320cfce3deaed041b0bfcb
+SHA1    : 2869c32842b67845fc3b2f46ffcf81da9199f5c8
+SHA256  : a008aa02dea0d51c5a01905633a104056b2581b8feab97a9cb9ba696906b77ea
+CRC32C  : 3086af80
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.858263
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-5.0_Release_Notes-en-US.pdf
+MD5     : a548b30b774c71831ca2a6b8fc155655
+SHA1    : b8c4fd45542add8666ce6901f6a3681af46006ea
+SHA256  : 02ca27b069adf563353b12b6c83403383ab0b8e0de2e2ca6b414dd8640b1cee1
+CRC32C  : 88ace2ef
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.858606
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-5.10_Release_Notes-en-US.pdf
+MD5     : 2d8960d0f4f3f7224f62ed9e35d1b81a
+SHA1    : 9ef3f532981b6b31ef42e6e8dad50d86bc6c3898
+SHA256  : 1869526e9d1efb667ae65a7588294be1983fbd754184843c76aa643d9f38a8ec
+CRC32C  : a382dc09
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.865639
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-5.9_Technical_Notes-en-US.pdf
+MD5     : f326ad6842c26f93dc3566aa5971b4e1
+SHA1    : e80108e84111e1d0a903d4d89a3b744567c1739a
+SHA256  : d9969f8e3571ae2db61be50a6595a0cf00dbe53870d78ecd15854777abd80592
+CRC32C  : 7ad490ad
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.883121
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-SystemTap_Language_Reference-en-US.pdf
+MD5     : 6b9b1b58e98a01a3b1701078e14ac97c
+SHA1    : 3d4fdd92269836ddfa2c5bf372dd1d6f3ce1c6f4
+SHA256  : 92559a6baf0b5f8aee5adf0619d1f9e951ad1ef2fa8ba9f359f5c7d6dccd0ab3
+CRC32C  : 9c21ec33
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.883849
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-5.4_Release_Notes-en-US.pdf
+MD5     : 23a72452e2de6f2ba0cf6b1db898db3c
+SHA1    : f31a066b06d01d1554b6d448217c2a624540b344
+SHA256  : c0d2fe1a472c9a4c973078566728082b75090bbb1d5159bfb8de5f5612c1b998
+CRC32C  : 6268b5ce
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.886623
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-Configuring_Identity_Management-en-US.pdf
+MD5     : 560f52c5849162addd606ec8160aefe2
+SHA1    : 42bbe412ac30ab68efe366b5c805eb3bb0276a4f
+SHA256  : 81a6378bed533b576b8cae4d8249f7a7c4c351e944f39de9142486a494829b3e
+CRC32C  : 92344d1c
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.887838
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-Global_File_System_2-en-US.pdf
+MD5     : 92537287f5c620c2823943b74476e7a4
+SHA1    : b18d19a112adba46dd1d44ed6b6e7a06c461319b
+SHA256  : f695d3b3fa3391159a2845a791cd2d056840e46404281abcb6cc995bbb95f373
+CRC32C  : 37e22d35
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.888191
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-5.7_Release_Notes-en-US.pdf
+MD5     : f466c695a8f91a1eda8c282e47a3f6d8
+SHA1    : 6984b3bda5f89ca6442c2037d545c8a27a5a4e85
+SHA256  : 1b7eb25440b731161f796e77d9334198bfb9fd2fc40fe1242c8be2380c971323
+CRC32C  : bba24890
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.891354
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-Virtual_Server_Administration-en-US.pdf
+MD5     : 27308302d3874b2fed12214543c8c9ec
+SHA1    : e21918b45d62af9b74ab5e6534a92ca389daa3d2
+SHA256  : a98734ec272d169844d91b7252cccc7896c338d2ec5d60485c5ef3f38692c0b5
+CRC32C  : 6ab63a55
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.892265
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-Online_Storage_Reconfiguration_Guide-en-US.pdf
+MD5     : e0772be87c673ce24e452ba9f8d49d96
+SHA1    : efe426f121bba3b0a490453c6e43c712806931ef
+SHA256  : 99ea6939d3166ae4805e841b12a7446563b4893a73652dc41187dfe71677ffc7
+CRC32C  : 42d5e356
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.892835
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-Global_Network_Block_Device-en-US.pdf
+MD5     : dac844608fe3653792d6c1f3b024e271
+SHA1    : 3d2ad3ee25e6f33b97952b595be2b2c8cb6dff72
+SHA256  : b36924c37c2c5a6f546b1338470dfe06fd49bea77eff9bcca68b1f8f3cbae1b5
+CRC32C  : ed7eaa43
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.893263
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-5.8_Release_Notes-en-US.pdf
+MD5     : 1e7492ca3fdbb51f265031f66ccb8742
+SHA1    : 20143a1a1106cc35f35aa5ea4883f1b1de4b4fe9
+SHA256  : d97f3ad49a78f59dbfc344c1c7b10ad002f1fbecf66ff33642b0aba9d2408795
+CRC32C  : 04136610
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.894215
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-Configuration_Example_-_NFS_Over_GFS-en-US.pdf
+MD5     : 657f12bca29fa96d11375b53a6cc23dc
+SHA1    : 905ec7725a9d3e9fcf0cdc263a1313693cc05659
+SHA256  : f06e9d4a642585e26ca225f192fd1756a83ac81e8c83e546fecf77e80ad3cdda
+CRC32C  : 43bda99c
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.901308
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-5.4_Technical_Notes-en-US.pdf
+MD5     : af74890fdc9d695fc31f3006e20c7e21
+SHA1    : 39255757d943d19be3e98a9b8be722a6fc609f13
+SHA256  : 8c8e14bd757d34c2c1b548239f7120b072561914f46d6b6859ddec359876b30d
+CRC32C  : 5b6043cf
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.903915
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-5.3_Release_Notes-en-US.pdf
+MD5     : 62cefc0d4f5265ed93c940eacb6ec3b6
+SHA1    : 78b07c717e7b306f78bd9cf97a734a8444798e2c
+SHA256  : 53c70b39cf1620b369a79718da5fb33b346dfb0237138e7078a8f6be49929285
+CRC32C  : edad10ae
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.905493
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-Global_File_System-en-US.pdf
+MD5     : ea03472fa772fc96b9a519b7a35cf29d
+SHA1    : e52c6c11de86e1290e93340a84e119dc9d4bf4d4
+SHA256  : af928f147c9cca5fbae432e2c9c24d49571eea74893ce2cf3a4315a6a52a4f8c
+CRC32C  : 54a98e28
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.906586
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-DM_Multipath-en-US.pdf
+MD5     : 6acc8fcafbe4e4ba3c3a38aba7af5494
+SHA1    : b288c3e5cfd5c69e0bfb93801c82c2406213a0a5
+SHA256  : b6b1b9dd6b32a28de55bb2cd6436396d437b50e3fb166b4d4cdd252dd84974de
+CRC32C  : 4da02f87
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.909459
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-Tuning_and_Optimizing_Red_Hat_Enterprise_Linux_for_Oracle_9i_and_10g_Databases-en-US.pdf
+MD5     : 3b4b29fad82e7b194643a240a7ec4ee0
+SHA1    : 398b22c8bf71600121527aa1438e952a08c6dbe8
+SHA256  : 90d6685ae116c0a4ce02287493a90fa61a99e0921ca618dc3902e3f6e9498f5e
+CRC32C  : 7cff93cc
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.909954
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-5.5_Release_Notes-en-US.pdf
+MD5     : b46c9e69da04b6a7f2feb573f4b177d6
+SHA1    : b496a94b73e915c76449ff633866139483ed7041
+SHA256  : aa48eb5175d700c84d31214279c49e82b765527392ac6777159bdce7347c4f82
+CRC32C  : a2a944a6
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.926522
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-Virtualization-en-US.pdf
+MD5     : 2c10ea374d1273db31ca490b16fca65f
+SHA1    : f91e8391ac815d257a0eb71e8f925cf7a1bffed1
+SHA256  : 64f4ba73f144a14e42835e5ad56955e87558093200ba4ab12695f1d05d5cb767
+CRC32C  : 59be6afa
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.928453
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-5.2_Technical_Notes-en-US.pdf
+MD5     : 2ea1fa5df750ae0570bc293d93c12a30
+SHA1    : 883540871de297864db7e026cff5e51f64275f4d
+SHA256  : 827a01c56b9030236cb410b7759b35a8e9dde990254bafae6119e356c7da06a1
+CRC32C  : 7e02d0d2
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.929944
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-SystemTap_Tapset_Reference-en-US.pdf
+MD5     : 76ba47461e92ad20f4ab3cf2e1e3d0e9
+SHA1    : 089d2a94334e738704f7043a6a33b66f3cf4cdb4
+SHA256  : 78f9b3f55107f5b7e8904ecd66623994478ab7856bed54d91457fe40bcbbad18
+CRC32C  : c5808533
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.930296
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-5.11_Release_Notes-en-US.pdf
+MD5     : 94663e5640686276e8022ea6c0bce119
+SHA1    : 8fee011460f15866913f29ee21311a63e90b30f5
+SHA256  : 8a897a5fbd72105dea07b50077084592656a0afcd62cb92a9965eedb2fda0d5a
+CRC32C  : 38ed0aa9
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.933475
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-Configuration_Example_-_Fence_Devices-en-US.pdf
+MD5     : ea6d1f665ac7b25b260f060d899d3a37
+SHA1    : 40bccc5bf66e514fdaf5d0d8fa00795fba35b013
+SHA256  : e35b881cc285a801c84ef9f22f76c136fb488791a0fdca08bfe5881f8df55474
+CRC32C  : adeaece4
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.935273
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-SystemTap_Beginners_Guide-en-US.pdf
+MD5     : 2d548ade8ba07c718dc42b3006e6fcee
+SHA1    : 036a15a45833942c9afcb31a90bea572ecb0bac7
+SHA256  : e7de50f308321010cac50749092b192b9a6488b6483d0958b027843c0f538dda
+CRC32C  : 8a6ab53a
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.936935
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-5.1_Release_Notes-en-US.pdf
+MD5     : f874e87afd2d5683a706386d662703bd
+SHA1    : ccbbde69762f8ff6a0738d23b4d3afcf37a66659
+SHA256  : 7d8ab1c374158dd2dbdc72e818105ac02f15e28e20d9fb69460f2573365b34f8
+CRC32C  : 35a4f4a6
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.956270
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-Deployment_Guide-en-US.pdf
+MD5     : 763933b0971655747f7b634503fc3325
+SHA1    : 5bc62d44cbad398ca0a019c81d401b12e2e4ab1f
+SHA256  : 7c77a09675e20be2800aa6c2b2de3b9b63b8a74a36e879a9c2f396afdd6efda5
+CRC32C  : 4326d556
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.963282
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-5.5_Technical_Notes-en-US.pdf
+MD5     : e4f8d828d854e89bbbbbeadc3db59079
+SHA1    : eee02a4934ccaebf8bb45d2854a134003c017610
+SHA256  : d8ac7d8a199171407f8311e939e59bc54307b0094f0fb93441e4f035018234f6
+CRC32C  : e860efcb
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.964866
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-Configuration_Example_-_Oracle_HA_on_Cluster_Suite-en-US.pdf
+MD5     : 7b11afb1be0c66e8819495404fff8254
+SHA1    : c81410a098bc9732b63b1a751802e0ca59b7a7cc
+SHA256  : 070804cdb6668d46864c41f4729c6f43dc127f2c675c7b239d917a71f5c1a462
+CRC32C  : 1623f053
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.965267
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-5.0_Technical_Notes-en-US.pdf
+MD5     : 3264cb3c8da19a754f47cab421a75536
+SHA1    : 7a57605e72c0a24aff2c4fd96893b9225b8ce1c8
+SHA256  : 3742d622ad80e14c555fbbdf485a0feaab7c417c23e171fa220f74b2bd27430c
+CRC32C  : 326f58f9
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.967271
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-5.2_Release_Notes-en-US.pdf
+MD5     : 92e8e09ba24fec521ee7983e6796dafd
+SHA1    : d9601a1965721f3672bd031d1eeedc9197e1d067
+SHA256  : a61e842407c06067bed1591691f3fc35a0190af38da6d01ff89f3d511bdb620d
+CRC32C  : 7c43155c
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.970290
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-Logical_Volume_Manager_Administration-en-US.pdf
+MD5     : 1718ef9476683636beb09a5cebfce80b
+SHA1    : 76da2461e41c6190c6c366e98bc3305da3a34847
+SHA256  : 087db3bb05fc0f87e2c5d82a143ad0c07dfb8246cc40c29864be21d02e1969d7
+CRC32C  : 224154f5
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.977157
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-5.8_Technical_Notes-en-US.pdf
+MD5     : 3ab5edc8f3f38612b79c5c0562dcc31d
+SHA1    : c0fb4ad55dd0e3769946eed328a6f193e8a1bf2b
+SHA256  : 6e7c9e50e00481983b957ebd971292d939a47505069c71b376bfbe683f5f90b3
+CRC32C  : c767ee63
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.978736
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-Hypervisor_Deployment_Guide-en-US.pdf
+MD5     : 8a499c8ea72c5ae926d731795e104a67
+SHA1    : e8ccbb8668156bf57be914defd0a29de520c98c9
+SHA256  : 0cc65fd468d2b092c7211536c6f0b34d3786c3557756403818de9dd122073be8
+CRC32C  : 347a432a
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.980699
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-Para-virtualized_Windows_Drivers_Guide-en-US.pdf
+MD5     : e5e98cd07a6e76ff93029cd030a0b2d1
+SHA1    : 6c12ca17d55ec34efd5ff8a8860dcf34ba895406
+SHA256  : 7118af60626d652c26ae5c8e1b118f4df5e553f5aef2f68489957d7512216d1e
+CRC32C  : 6b21a109
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.986712
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-5.7_Technical_Notes-en-US.pdf
+MD5     : 9b81f3679cef2c89138b0bf69f974754
+SHA1    : 22cabe7c841059cad50b00a55b219ae0273f3c18
+SHA256  : 015a68f7f6cebc1018d8b2c19b9eb3edfb18daa1eadee0b0a40f2adc664cb090
+CRC32C  : 58bd58f9
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.991735
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-5.10_Technical_Notes-en-US.pdf
+MD5     : e79d28fc0f42b1c3a740b52569d6ba41
+SHA1    : eadbcae54d7c97cfaaa590c3e332ab539047c603
+SHA256  : bb49573cc1eb5dedae542f74342d75a0c10737e47bc64bc791d4affe31493b50
+CRC32C  : 693520c8
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.996626
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-Cluster_Suite_Overview-en-US.pdf
+MD5     : eaf40198e79f891d907debca431c6e65
+SHA1    : 0898acb10d6b13d463190f606a9599d9269811e0
+SHA256  : 72f8169c322aa4ce1ff7c8e1c53575a691d8b3adb8ebb1b72e4765f483c3ef71
+CRC32C  : 01ae51f5
+----------------------------------------
+Timestamp: 2025-09-03T22:58:50.997088
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-5.9_Release_Notes-en-US.pdf
+MD5     : e51606df845bbd912a277fa5785bc6b3
+SHA1    : 899f2665cf6455ac9099eeaa01e752f1d067a5a6
+SHA256  : 5764af743815169ccf6d066fc717a0c90787cad2022ea1cce9141acacbdbb1b0
+CRC32C  : eaa6a702
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.002203
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-Cluster_Administration-en-US.pdf
+MD5     : 71949a7ac8b8823416d481b4b8304a37
+SHA1    : 58e881bd76486c60f090f1758cac1cb516d38e8c
+SHA256  : 54a0ecf4b394a1d9751d38efb594c2979a00f1edf37a3e25e5843a08db58fd80
+CRC32C  : f01d9936
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.013753
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-Installation_Guide-en-US.pdf
+MD5     : e46a343a2614be4d3ea64781aaeee4d4
+SHA1    : 1f4d228a758e9d7012b93b3adb773927031e289d
+SHA256  : 9e351fbc141e4bc5f556dfc40dbdce4ef0925eea0ee98abbd6c660c539329750
+CRC32C  : afe716fd
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.014181
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_5/Red_Hat_Enterprise_Linux-5-5.6_Release_Notes-en-US.pdf
+MD5     : af7e5b87a7e8de60d962f44e6654f103
+SHA1    : 2af2f3d956e2fc9ccefd7ea7eabb7ab0b2970f64
+SHA256  : 181c1486ffd51194b2da293205126bd076e95a8301359094de0efda296fb82ee
+CRC32C  : 16eda9cf
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.015241
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_4/Red_Hat_Enterprise_Linux-4-DM_Multipath-en-US.pdf
+MD5     : 1e0cf11c205be2fa2a965ed9b6381281
+SHA1    : 4cd27344f887ec41f8f5d3ca5e99ebb62c121cd3
+SHA256  : 1b2456ba33f8327ebe09d516285296c49f0ed969c6238b5aa5ad8df7f2176497
+CRC32C  : 614ac8ab
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.018482
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_4/Red_Hat_Enterprise_Linux-4-Cluster_Administration-en-US.pdf
+MD5     : cd26ae621f06e2544d9779380a7401a6
+SHA1    : a133dafa6797229e448a6a5e63ec190599120824
+SHA256  : 28a3df1af4624d94383399a8ecf7b832529bbf7f772fdc40fdaffa50a1fd2623
+CRC32C  : 47a32623
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.018909
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_4/Red_Hat_Enterprise_Linux-4-Global_Network_Block_Device-en-US.pdf
+MD5     : e9083616a92c78788ce411929f399a49
+SHA1    : 1260b86b1b8df0e38026ee82ec679637c0b82061
+SHA256  : 01fe43145ed9e31a82f533f15e7c7815b6c48e319b44b679d6152d183695569a
+CRC32C  : f30917d6
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.021293
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_4/Red_Hat_Enterprise_Linux-4-Virtual_Server_Administration-en-US.pdf
+MD5     : 6cf6f343f617c33b1b703dae138a6a5b
+SHA1    : 98986dcdef1a2dbcca43abeafaa473d2a98bdff9
+SHA256  : ee9a1f1161bdb9afe864923974f81c2cf59bcada3f8996bf6f498d68592dde75
+CRC32C  : c5827a33
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.021804
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_4/Red_Hat_Enterprise_Linux-4-4.9_Release_Notes-en-US.pdf
+MD5     : 463179bcbfa78c17a3eacf95e1034583
+SHA1    : 294b116a9b5a9fcb71fce906acf5cae218d351cf
+SHA256  : f2337058efca3561235a345231f8cbe951e3ae5c9294a19271c1cbaf6e7cccb3
+CRC32C  : 084bae21
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.026840
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_4/Red_Hat_Enterprise_Linux-4-Cluster_Suite_Overview-en-US.pdf
+MD5     : 1253e28b0155f054575529f0eb71099e
+SHA1    : b6b2a14ccff18d92812d51cb71886c7560265401
+SHA256  : 857df338e5e8d937dc08380d15e65ad6383aa9345990cb9a84581741141f04f5
+CRC32C  : 3cca1817
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.037523
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_4/Red_Hat_Enterprise_Linux-4-System_Administration_Guide-en-US.pdf
+MD5     : ffb52ea8bf94f2149cb138c24c370537
+SHA1    : 92190ee869bf0076c5a973aaf7db3f64247e82e3
+SHA256  : 545c057c570c52461613e2a832208fe448a57eec2402b99a14c1deeb9033c379
+CRC32C  : 1988150c
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.038790
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_4/Red_Hat_Enterprise_Linux-4-Global_File_System-en-US.pdf
+MD5     : b4481ea395ad314be5022252c897991c
+SHA1    : 3f81acf64bf88589e4e28f455ca3b7e2cec1df64
+SHA256  : 1fe4c83a4196f166d7c75fe90c13a6bc264e29c6466a1aebd10af1f1c0918da5
+CRC32C  : cb7baab9
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.042951
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_4/Red_Hat_Enterprise_Linux-4-Introduction_To_System_Administration-en-US.pdf
+MD5     : 8d8a9ceddc5b37017c836616625e3623
+SHA1    : f0f400c77b54093c4da30caf23ca0754166c4bf5
+SHA256  : 421c0f2ec2b0e8df9c123ccc71ccd34d23935f051001d8b2e254032adf6f1834
+CRC32C  : 852a0875
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.045000
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_4/Red_Hat_Enterprise_Linux-4-Cluster_Logical_Volume_Manager-en-US.pdf
+MD5     : 8cf17568feafc421699c5e001cb6a1fd
+SHA1    : 3ed40ee252b1bd1cdf0adca4f518e9443866ddfc
+SHA256  : a298ac0dc2617b55a763c7ba76d800d8b9976d1bc36ee2ba5b7690f272861621
+CRC32C  : 0b6f6b16
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.047327
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_4/Red_Hat_Enterprise_Linux-4-Security_Guide-en-US.pdf
+MD5     : c79843953d8d8c8f65fbb36de9c7c8de
+SHA1    : cc131a889063e00db65e0673a61e6c636eb43bff
+SHA256  : cfc64f84cf7560bf1e76e4522a7e5b4f7a52f55fa2dd9646ab0aa732fd476a37
+CRC32C  : 9d5c4387
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.054158
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_4/Red_Hat_Enterprise_Linux-4-Reference_Guide-en-US.pdf
+MD5     : a2abcdc086fc5bb3ce91b424da39caf4
+SHA1    : 59a8107d339abb8a9d3cf39f30f77d176e68c86c
+SHA256  : 7994f74cb0453cae00a61e7967edcf28866c3b450b5363b9657584421563856e
+CRC32C  : fca3af51
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.054779
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_4/Red_Hat_Enterprise_Linux-4-4.8_Release_Notes-en-US.pdf
+MD5     : a1f6aa0df386d3e2e231607cd502d234
+SHA1    : b545e6396fe30ef1cf0b3640aabd7532fe3c680f
+SHA256  : c6877c2761ca9d28c5f6e9e9e64723e188e57f9308826019a52a58c6a8cefd4e
+CRC32C  : ff20c93d
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.055113
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_4/Red_Hat_Enterprise_Linux-4-Red_Hat_Enterprise_Linux_4_-_Archived_Documents-en-US.pdf
+MD5     : 9b4cc803afd1cf2b5c6a176ff0e1f1d6
+SHA1    : 7a22bc345021aaf8a113f8815636ca6e4c79a1c4
+SHA256  : 8777cb233cab4c820685093006ac101d0726912f51f7f6914b9b197d961f865c
+CRC32C  : 8b1a5f1c
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.062435
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Monitoring_and_managing_system_status_and_performance-en-US.pdf
+MD5     : 86843eed003047c34d92269e47c68ffe
+SHA1    : 3ab40b793c8853b26ca6a39186fbf7a6ff24a2dd
+SHA256  : fa0ddd277b70ce2b78d6c593e93727a8a08ab5b69e463dee48f4bcc2c1f49f35
+CRC32C  : 47a6ac98
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.063702
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Managing_smart_card_authentication-en-US.pdf
+MD5     : f7fb8d76dec1f0c34ef1966c66126c3b
+SHA1    : eee0f7314e215d9d6580faf441f0786d43de1e28
+SHA256  : 04937d0c4b494b07bb06c27e12fffbf045d8f19974af3dde2b0bbe32418c7887
+CRC32C  : c0887066
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.065155
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Deploying_and_managing_RHEL_on_Amazon_Web_Services-en-US.pdf
+MD5     : 513c9fdd1f1a6d5805fdbd1b6a876689
+SHA1    : 52664d9cbb5c54b27e2d1059654e3e23c5eeea40
+SHA256  : d8d42c54fca357c0e672a423bf91b6d01d47d1e13fb1fa60b2dd21693289ecbd
+CRC32C  : 0111dac3
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.065934
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Working_with_vaults_in_Identity_Management-en-US.pdf
+MD5     : dce7ad09501d14fcf4296a9c339441b0
+SHA1    : 5b73d0fd40fb6f0803c14eb50e2ad702831694fe
+SHA256  : 265f770d0ec24259fe648da32a8433ef6aa3db745752439076075426e43583af
+CRC32C  : 44045d4c
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.066532
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Performing_disaster_recovery_with_Identity_Management-en-US.pdf
+MD5     : 575efdf5b14929a6e040d7dd9be813f8
+SHA1    : 82921acd487edefe17aa7b1610e52cc4c8dddbab
+SHA256  : be516c6a526831db0f9a1f885a43873b7a47abb054d687c19343a9aa31de4545
+CRC32C  : 7f0b2bd2
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.069747
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Managing_monitoring_and_updating_the_kernel-en-US.pdf
+MD5     : f0fb7cceb699814ebe080ae08d260fbf
+SHA1    : 495e1d80c05603e87d34b21d11c6d57a014ac6b4
+SHA256  : c50f90b515fd077fef0d385dc979a35d5c2f932a65081b3beef1c37c7443aa69
+CRC32C  : 5879b185
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.075779
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Configuring_and_managing_Windows_virtual_machines-en-US.pdf
+MD5     : 462deced5b903ce0b883e55c08316b7d
+SHA1    : 309a6bb2222124b2ee7bcaa26569aa3faafbf2ae
+SHA256  : e2e02f896dd3f99c1eee54b0fff99412523820925447a0cbaf5761fd56c3cb5a
+CRC32C  : b08dc4f9
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.076737
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Tuning_performance_in_Identity_Management-en-US.pdf
+MD5     : daa1d22cabe47bcd336621c5e3e1d9f9
+SHA1    : 122a80d7eb56d9fcf23fc832daeecc30a5c73e4b
+SHA256  : 2092bf007b3b4575ef4c204d34442356953bf204feeb2577496bb6779ac094ed
+CRC32C  : 2b51c14e
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.077282
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Configuring_time_synchronization-en-US.pdf
+MD5     : adbb911d83f10abc804c22cdd28b3ddc
+SHA1    : 059b884069f352c1084bef6420efd7cf1f47fe97
+SHA256  : d3a201497b29d531674daf76b95483bbd2b5d110d8300de7516dde1fc856127d
+CRC32C  : 5d8ab9f7
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.078312
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Using_IdM_API-en-US.pdf
+MD5     : 7bb6592f96d7fd0074a2a0b70a26a56a
+SHA1    : 5206160daab53193d4dfc0cce81b9ed3ef1eff08
+SHA256  : 01ab38a8156b1554dfdc7c53ed88f2533a2c3a863ba0cb102be3badd63f6e1e2
+CRC32C  : 328adf91
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.079580
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Upgrading_from_RHEL_9_to_RHEL_10-en-US.pdf
+MD5     : c69e9000baa3d9cbd4a3653c62d3e507
+SHA1    : bf33025d6d58f27b81983b3f17a5258ab60d37cd
+SHA256  : c43e8854d9cca223d62abfca4c84027cdd475d67bca20b890076c76319a7a3db
+CRC32C  : a9a55bd7
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.081148
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Using_SELinux-en-US.pdf
+MD5     : 8d25d231b496e8fb5fedab00407320e1
+SHA1    : 142147d2a4a11d6d9a5f811270d03b942f9696a0
+SHA256  : c266d1383ca1c1c3f93204ed35a7a1ab2a6280e49d69988c1807955e3af42b27
+CRC32C  : 5956bd20
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.081469
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Insights-1-latest-Dynamically_creating_a_digital_roadmap_to_manage_RHEL_systems-en-US.pdf
+MD5     : 9450d1fbf9e0f318c3612e1bba56828c
+SHA1    : 69b8c2239b9cfdf42ca16f8f030324c445ac1096
+SHA256  : e854a77561e305efd535a275e10ec4859f9375d4463b7b5d817225e1c8c337a4
+CRC32C  : 11f408d0
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.082359
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Customizing_Anaconda-en-US.pdf
+MD5     : 8cb7451a088fffa2afa251cf1c061a8a
+SHA1    : 3dda5ff519566915e4e3912df0220c8f6f41476e
+SHA256  : 02b5ba42d4ab39ddcb6d8525256ff4115111b2118faa4d795b4c1f4e3b5248f3
+CRC32C  : 7376b874
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.085892
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Managing_file_systems-en-US.pdf
+MD5     : f7079fa8f70bcce516aeeb34cba55a7f
+SHA1    : 4cbbaf8403afc09ac2525abfe7c69af592b0e888
+SHA256  : 61e74e33dddfba51f47881e89b4a30a0ee1e3e47fc13d2043ab83ab6ebea6993
+CRC32C  : eb48e57f
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.088620
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Interactively_installing_RHEL_over_the_network-en-US.pdf
+MD5     : 4ed1fba11345a5478315c46ac64d23ee
+SHA1    : 9fa3605f927a4e817c07bb9e34a17b7297836853
+SHA256  : 4e180ee843fc1e970cd878d67d065d86c358b01a67a82fc9331922a00f2f891b
+CRC32C  : 8181b427
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.089538
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Using_systemd_unit_files_to_customize_and_optimize_your_system-en-US.pdf
+MD5     : 8322f6cc9fd906fdcd99bdfdaf27a7e2
+SHA1    : 9009c0c2a18a6bfc6a644805f01a93ec4bd199f7
+SHA256  : 721e90e32c88b2c58ff9664c62f0f7fb20ef2e1e792fb1ac3d76d837f04b5322
+CRC32C  : 660443df
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.090165
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Using_IdM_Healthcheck_to_monitor_your_IdM_environment-en-US.pdf
+MD5     : 43eddfc24e1a3d1835fb632bf283f473
+SHA1    : 710160ebc7e4ee15272bcfcdac79cf5100ea2464
+SHA256  : a31f59a6f2527661737e185abff3b2baa3e9ec2f0131eec1277665c9150beef6
+CRC32C  : 592aea41
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.091537
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Deploying_and_managing_RHEL_on_Microsoft_Azure-en-US.pdf
+MD5     : 5a6ee3d29fd33bf9dd11b4b5bae45638
+SHA1    : bebb4cd7c3c8b0b735574ea760d4fecb3053357d
+SHA256  : 7740e570bbb9549665a5246c1da4f4b4ef09e55e74578ca9c1ff04aa22f5b25f
+CRC32C  : 7068a479
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.092309
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Composing_installing_and_managing_RHEL_for_Edge_images-en-US.pdf
+MD5     : 86b57ab057a4ef6b62180198458e383d
+SHA1    : a693a90ed666e03d401749077893ec57ce76fdd9
+SHA256  : 512a1a48f9ab884db6f93894781efdf46e6917a880049d3981eb86b61da12c50
+CRC32C  : e91e750e
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.094520
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Building_running_and_managing_containers-en-US.pdf
+MD5     : 796b9e65e1ad5f8477265958dd39a35f
+SHA1    : 82affccd80216de60a51e122c6cea4e56745dcd2
+SHA256  : 71f56a50729ad8773a11631380f560aab3dd922585f389e31c792ad656e4c5d3
+CRC32C  : d31568ed
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.097539
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Configuring_and_managing_high_availability_clusters-en-US.pdf
+MD5     : cb275f0ac11f642ed46c8263f2ff2f91
+SHA1    : 81d52228db97db2c86c5bde1267ca5c388568184
+SHA256  : 3bc1ff93d72d1bf6f17537fb5ac35b545ef96c1f0e4d2866b6b651bb709b1923
+CRC32C  : be4ca75c
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.099481
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Using_image_mode_for_RHEL_to_build_deploy_and_manage_operating_systems-en-US.pdf
+MD5     : 90544b75dc5f0fa1155da30c38703a4a
+SHA1    : 6cc58b18014299d9d28a36c7a9551b7bd8bc9972
+SHA256  : 02178bb77ac11b4ebf575bb5991d7bfd77f5d273e7ab926977eb9c15712995d7
+CRC32C  : 2b53a286
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.102734
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Security_hardening-en-US.pdf
+MD5     : 7d2d88831b31e7474e0dcf09525ceb2a
+SHA1    : 8f2b2c3c47bf62037a0795481da6203160ad743e
+SHA256  : 7999ffff331fe8826d05786e8c1fc4ee5db519d1fa47049812e7aba643ed3da8
+CRC32C  : 85dbf63e
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.104264
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Composing_a_customized_RHEL_system_image-en-US.pdf
+MD5     : e41ceb1e473122a3836ec1832ce68726
+SHA1    : 1e0600a16d8581348a78df5f65c8fc3d407043d3
+SHA256  : 58aaaffd6afc3122ba517da4e2ce57abe5aa6253872faf63b18084d7d504f345
+CRC32C  : 0a8dba91
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.106602
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Risk_reduction_and_recovery_operations-en-US.pdf
+MD5     : 9e447a1300bb2c59d0de46d96cd24c71
+SHA1    : 579f8e15911225a7cf62db789c1684d8be9d9e12
+SHA256  : e97f4210822b9a368a2f23c007a4ce34ebcf6a6425d982b82ff7e15e7f14bb0d
+CRC32C  : cddbecac
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.109472
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Automatically_installing_RHEL-en-US.pdf
+MD5     : b95971e05ca0e3ed6e0cdad0208f9a78
+SHA1    : e736109fba309a4bd2a36e8c23e4c95af6958f24
+SHA256  : 436f2c0eb2e05ceeb97b009d7fdabd3eae722c63987d7e28d70b5b2f1c24d75a
+CRC32C  : 99fb7d59
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.113037
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Automating_system_administration_by_using_RHEL_system_roles-en-US.pdf
+MD5     : 2ea1dc659b689a11a16c6a5b8b4a839a
+SHA1    : 197369fa590f53e60ecaa1d5ceba2d95d80c38c7
+SHA256  : ba0ba5d10a84a33bd8279b7dc3938a8ec50569175d2c357cd66de54a6010fef0
+CRC32C  : 075f1911
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.113702
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Managing_networking_infrastructure_services-en-US.pdf
+MD5     : 793be522299ba8488c8b439dfdf68874
+SHA1    : 69030ea3886ad26f12ded3c80d6ae4058b5cfd40
+SHA256  : 917db940127a8197590fd062aa7a0d8068964def2d3b2e91711a0b9462915a28
+CRC32C  : 4655c019
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.116811
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Managing_storage_devices-en-US.pdf
+MD5     : 98ad681b3ec5c8d4bbf8dda7e925467c
+SHA1    : 40996f6c06dd0c705ecb38c6ca31941633fedafa
+SHA256  : 950b9f595aa7347ab426144e39356f8e796e76b18c44a243a54d88362e6caa74
+CRC32C  : 77651777
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.117572
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Deploying_web_servers_and_reverse_proxies-en-US.pdf
+MD5     : 8eefcba51f8e53ea6abe08463ec16cbd
+SHA1    : 4c8746ca2ba3f4a4b26db68668649c91e1eb42ac
+SHA256  : ec8fbbfeb5f0d6a9d2684a3824246ff2da149af9266a696cedd3f7a96040ad10
+CRC32C  : c40b4d24
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.118657
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Migrating_to_Identity_Management_on_RHEL_10-en-US.pdf
+MD5     : feaa6716023f68baee8f1aa26a19e841
+SHA1    : c216954d416f12ce98b598bc33ea4ae04932a8f2
+SHA256  : 18543e178a3c405ee96dea129942599c58a297c89a97c978ce0dbe24e9ff4550
+CRC32C  : 1f13c616
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.120855
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Network_troubleshooting_and_performance_tuning-en-US.pdf
+MD5     : 3a34f1a2f82f740c17988f02b793d4a7
+SHA1    : 279f59794218e1a26b4cbf3bed343c9a3ba68c63
+SHA256  : e4bcb9584f00eaee01afd6ae5aa6068b71d9260f81feeac72223583ac901eeb8
+CRC32C  : 719ae6f4
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.122588
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Configuring_and_using_network_file_services-en-US.pdf
+MD5     : a2cf3823607e934c6eb9117e6eab1eca
+SHA1    : d7600c48cfdb39cd013c8535876a42a91f3b5f7e
+SHA256  : 5c7ac5b0a9f5b0cf9b2a13cc939d8cc4b5943b50295e4727b02df10a452cf18b
+CRC32C  : 2f7e783f
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.126288
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Installing_Identity_Management-en-US.pdf
+MD5     : af288490db7653f3a5e1a49da05d523c
+SHA1    : b7eada1577bfb7de99c9f2ff5a310ecf3f81dd36
+SHA256  : e554bf9a78ffc3a73b705ab951db0919cd10d9b3f4615ce4ea16a1969ff4c029
+CRC32C  : 381628fe
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.127290
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Configuring_and_using_a_CUPS_printing_server-en-US.pdf
+MD5     : 0a3c30f3b41d3c59007d326f15404810
+SHA1    : 2dd6af64fd0d6f5e8108a8555f4a9133a8166b3c
+SHA256  : f9faa65a992d7b80b4e7ca2c7f9f130e6de86130d80342e459ee2554a0ab663e
+CRC32C  : 559ca45b
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.127948
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Managing_software_with_the_DNF_tool-en-US.pdf
+MD5     : 43633489fa2dc4de155f2e7801c25544
+SHA1    : d372ba6780ecd15f776a32b03ab38e9ddf9aeaae
+SHA256  : 5abd78563a36d0def1e3e2fda2cb426fa009c276b4e9a795b93d70a8a9d36103
+CRC32C  : b6718337
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.129014
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Deploying_and_managing_RHEL_on_Google_Cloud_Platform-en-US.pdf
+MD5     : 760c97519ab59b8ba4f065ff7c03f697
+SHA1    : 2bd32955f9553b218217dd207bad8b25457b1592
+SHA256  : c9c767284e81ec96532e6de6e3f6f086f529d4de94649f746a339ac88b8a8e58
+CRC32C  : 7e29705a
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.129680
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Getting_the_most_from_your_Support_experience-en-US.pdf
+MD5     : 2a4aa2f9ef6ba52009ab659d358dae15
+SHA1    : 4a3fd27376bb9484aae3739e64c981bf0f41a27f
+SHA256  : b91090a283de75b6de8889557c8e75067b1a3c3e9efe1e3ccb143bad783160c0
+CRC32C  : e8dbedf0
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.132849
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Working_with_DNS_in_Identity_Management-en-US.pdf
+MD5     : a96577cb7a820de4d7d0fb5fbb87a034
+SHA1    : b83db7d1e2f59d9f8540842ed163a2cf17db1186
+SHA256  : fc6f009aefcf5b24282e0daec50b94bdec657a9d1eb759bf9218d1145cf7cbee
+CRC32C  : 6a1a4735
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.133942
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Configuring_and_using_database_servers-en-US.pdf
+MD5     : a05af9f60018a3bf63c347a09e992391
+SHA1    : ddcf749b56af893b9f24bc0797908fdd02927d27
+SHA256  : acb0fc5c4b9ace33a45d706e0a14f033790913375645eacab5adf8e5fc3f9b17
+CRC32C  : 00a00a78
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.135335
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Deduplicating_and_compressing_logical_volumes_on_RHEL-en-US.pdf
+MD5     : 2f5c78c81f2080577597d4a39e0961f7
+SHA1    : d0925d2eb86e895954f5317de37496adba8df285
+SHA256  : ba64757ddb6c9c1fe171425664fd185a4cd19b810518d8b5348457f695022d02
+CRC32C  : e9ff6cd5
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.137325
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Interactively_installing_RHEL_from_installation_media-en-US.pdf
+MD5     : c7e371b51336d732a7b105751002275d
+SHA1    : 423e621ccef7857d3b8fa8f1cffcacb374b1ba12
+SHA256  : acf67fec985748d9603bd10f0190c8ecdb23315486064ffa3b6d6704a03ce55a
+CRC32C  : 1552fc9c
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.138618
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Configuring_device_mapper_multipath-en-US.pdf
+MD5     : 2709995f0e341ec94798f0077ecfcd90
+SHA1    : 90b4a3065716994de282122f853822ef29da427e
+SHA256  : 48a83ebf73be8ea52cfcb8d7496286f6b067fd187ed63dfb6747b78cd32159c5
+CRC32C  : 92791d09
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.139524
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Configuring_and_managing_cloud-init_for_RHEL-en-US.pdf
+MD5     : de0d3760d2c833ac6fd6e9972bfcdd77
+SHA1    : 706c264c0a802f521ed6f80f5daf82c20a1ec2d4
+SHA256  : 7e1909eefb36c132c7a715c263737c027cd19bce8aca03081ef6cad512d21803
+CRC32C  : 1fe2f645
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.140020
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Installing_and_using_dynamic_programming_languages-en-US.pdf
+MD5     : 7dfb60be5d47fd3966f722e1cc2f7c5a
+SHA1    : f6bd19357002aaa2e9aad17aee190e2e75413d9e
+SHA256  : 4bbed13d667eff2926a2038df486bf48ecfc4802c3e1a2129d1beb86787a2bb3
+CRC32C  : e7bb644d
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.143139
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Configuring_authentication_and_authorization_in_RHEL-en-US.pdf
+MD5     : 3516ae1b50856c93f441134ddbd67e16
+SHA1    : 3d83f7328e2fd0a73f7b2252c67fce9520f26f4c
+SHA256  : c0043e401f755455c75545110c589f4c852782ebe28fc5fa660d651f6559ec0e
+CRC32C  : 129dabe0
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.143998
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Deploying_mail_servers-en-US.pdf
+MD5     : d036bb95040088263f6c1bc20835b01f
+SHA1    : a4e47d371ec280ccbd9b105805c22467f3412ad0
+SHA256  : b82773fd06583f83aca747a4ccc57dc122ead7d4e40989eb5b3ab633d0d5f3ed
+CRC32C  : b9ea5d93
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.144797
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Integrating_RHEL_systems_directly_with_Windows_Active_Directory-en-US.pdf
+MD5     : 359945bc3f804f597155a375cb478714
+SHA1    : aa7e69e6e776a539c3f17d72aa21d83d4988d69b
+SHA256  : 2ec712008707731841b3ef61225ddacdd79bab7ff5d34520d43082d7d3cab329
+CRC32C  : a4b6172d
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.145597
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Using_external_Red_Hat_utilities_with_Identity_Management-en-US.pdf
+MD5     : 0bac1037507d08525e914e4609c7b7f3
+SHA1    : d7d0c609122b2c8b0808334f8c1aa367b6b194ce
+SHA256  : 2bfb4ef9e138216dca845dcfce6ca55a6ac754e565711a8dbc2c6b4b586d4005
+CRC32C  : bc7f9d5c
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.147730
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Securing_networks-en-US.pdf
+MD5     : 73b75a12dce9495aeb3b627e81fe7c6c
+SHA1    : 95e42438de1845abb6f37ac91bba07e26d2bfcff
+SHA256  : e7b152b79d332af0d2f180d43f897fb8a7d4a58f9aeb7c0f88777eca9cfd77e3
+CRC32C  : 74482211
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.152144
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Package_manifest-en-US.pdf
+MD5     : abf7bdadefefd51f4b2071b998e73917
+SHA1    : 409c653c06b890b6f4f926e53e9292ede1900130
+SHA256  : ac24027ff9cb23005e3e7efa3784ed80e2b2b4f323db0701fd16e33b2623b2f5
+CRC32C  : 9ddd535c
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.152680
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Interacting_with_the_command-line_assistant_powered_by_RHEL_Lightspeed-en-US.pdf
+MD5     : f38f20e70751efd79681e0eb1ae2d7d9
+SHA1    : c23101404a752da2a724f493d2aa6573124f5c70
+SHA256  : f3df2250f6a0efc7c2e7b8fec8ef4cf685736faa02ac53f99fccfc4d23bdae61
+CRC32C  : baf95517
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.153963
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Developing_C_and_CPP_applications_in_RHEL_10-en-US.pdf
+MD5     : 17a10246ad1530d9363901870e033e34
+SHA1    : f4e863c9e37c699b5021d31c9ab3ffcdb6b3084f
+SHA256  : 8518569b9cd5822b19964cc07ba206afed7bf7f619fe40ffa49c9b338eeef25f
+CRC32C  : b468a122
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.157743
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-10.0_Release_Notes-en-US.pdf
+MD5     : b4f5dc765750672fa6f6c4706bbcf1c4
+SHA1    : 9da67ce8bbb8d62d5c7118d4677835e6eeb40b19
+SHA256  : f555ae628d16fcdd2de8cc8c81d5768f8d512b598124cfc26e3d43facf19e6b0
+CRC32C  : 2758beb4
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.162137
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Using_the_GNOME_desktop_environment-en-US.pdf
+MD5     : 0f7a678250dcfd3d136c32b7ad738a85
+SHA1    : 35d290b28d50195743b9fc7268d2690c59d7da8b
+SHA256  : 1c5a4adf82bdef8988dd32001c8789f535f0c92a7678bc0b39966c34df706841
+CRC32C  : e1d6d652
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.166292
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Managing_certificates_in_IdM-en-US.pdf
+MD5     : 600c87d50e7ad2d2709a7d2a63814f16
+SHA1    : 852f1fab68e7f6b7358f690b9c326d6e2ab33cfb
+SHA256  : 904dcaf681a774971f0b851a391388c1a3ca35c7618ebf0153df91b073e71c13
+CRC32C  : da218ddb
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.173909
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Managing_IdM_users_groups_hosts_and_access_control_rules-en-US.pdf
+MD5     : d18049b3ea262e738cb814bb4070056d
+SHA1    : 06138f44e374c91a6b4e239f7b4f4975797da0d2
+SHA256  : 567389efbfaab954a487a2dab33e09fdec14b2dcbee02c1d8361118d45a3f2a1
+CRC32C  : 17a39f46
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.179813
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Configuring_and_managing_Linux_virtual_machines-en-US.pdf
+MD5     : 1aa7b785fdcf9c26e11ed04984d7ce92
+SHA1    : f1c368f58c0bcaabdd772063f94ade9f8e3b8c51
+SHA256  : 4f3dbce8970932d36e91933d8dcd684f579fc6bf58dfd6fb25f445cd8383db28
+CRC32C  : 266cd8a0
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.184154
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Administering_RHEL_by_using_the_GNOME_desktop_environment-en-US.pdf
+MD5     : 8ee6d763b2789406a68aae940d2b59ef
+SHA1    : ccf4337cf63dab68adba879add031ea61c967db8
+SHA256  : 1564c8cab308a4daef9783c94cf22d866f5cd89ffdf45b5ec3de040a0250d8d1
+CRC32C  : 256acc99
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.184477
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Preparing_for_disaster_recovery_with_Identity_Management-en-US.pdf
+MD5     : 6baedad8694fe74316e881c72b75e0a0
+SHA1    : fbc92e1bf7e0f585353cd193357d0d6f3d9eb885
+SHA256  : 4ee7036fd46cebba8a9be054730ff984d94794aa66698fb71e6e9121fc9ced1f
+CRC32C  : e960f7dd
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.186496
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Configuring_and_managing_logical_volumes-en-US.pdf
+MD5     : 8285e4c1bf13972c3bf4997d9d0f8eb4
+SHA1    : c6e06267573766869aa2cb20f54f7645e4c69632
+SHA256  : ab7119e4a1b5eaa1e111b349e4b703d42360ee5b52d734ac5110c1a5acc237cd
+CRC32C  : e825d9e7
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.188802
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Accessing_Identity_Management_services-en-US.pdf
+MD5     : f7887b8c2af71e6baf2bcdf54cd5d59c
+SHA1    : 22bbde065a56459002194af90c5d9b73454d7d72
+SHA256  : 805c6efb685e9a14968997738b053991c844b78b4935ab8914527685dd6e4abf
+CRC32C  : 1dfcac53
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.190183
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Managing_replication_in_Identity_Management-en-US.pdf
+MD5     : d44b1a30f9bf2a2dc0e35c9ca48774ac
+SHA1    : b31f6097e2092d93cdefce13384019ef06490496
+SHA256  : 5bc6a4b38ed8fac48ffd0af956f5df720474c696e49015798038f682c9929d37
+CRC32C  : a38d88d6
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.192225
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Planning_Identity_Management-en-US.pdf
+MD5     : 98cf9b0bc0af1df7630cdcbf46e48a83
+SHA1    : a1e0f1eea490c5dc025e8ec62e20d86c50484ef0
+SHA256  : 57f0048aa4c58afb698d07cc21b4c3ac9dcd41f0f83352c9797f01343efc2dd8
+CRC32C  : 01cd76fc
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.194434
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Installing_trust_between_IdM_and_AD-en-US.pdf
+MD5     : 7197ea64ecafdf5381d39406dad2ee75
+SHA1    : cbf73f3a322b5821034597bc935c6b61cb01d2af
+SHA256  : 0d00f3e07d2e23920a9e16f160c195d30e7190c368abddf5782243c1ca625f02
+CRC32C  : 3a4181f6
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.200808
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Configuring_and_managing_networking-en-US.pdf
+MD5     : f5e775a417b1e61025631a2672e86e81
+SHA1    : 6d4f4a1e409b44e9861d51be1179e8a909896756
+SHA256  : 8446bd0b9939dcf408f793766ac050a823589091b209367ae16ecd5924586fec
+CRC32C  : 867bc34f
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.203806
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Considerations_in_adopting_RHEL_10-en-US.pdf
+MD5     : b5e40f434aa554e60f3822e8bf46d451
+SHA1    : f82f003aa1e81ffaa6977239342ebfd7b79698f1
+SHA256  : 094e4ae8c2b46bc7d906a01bcde8cf620f11da5b0c6caee2cf39feb56640f1ae
+CRC32C  : 8a85d27b
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.209993
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Using_Ansible_to_install_and_manage_Identity_Management_in_RHEL-en-US.pdf
+MD5     : 79998bec97928d0e61e0ff6ebafa79ed
+SHA1    : 66aca5cf20e5532b61c8fdb001a20f9ba9bc5025
+SHA256  : 0d8e3fe3a75c6ad9a2ce515725a99fea424c2624a426f1b92ea704a96f0057be
+CRC32C  : 4c7aa214
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.212131
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Managing_systems_in_the_RHEL_web_console-en-US.pdf
+MD5     : 0758fd97ce863225555f85b6b6e64c3b
+SHA1    : 4620d26db4d941fda705bcce524da6fc2835f9fa
+SHA256  : 2eba306e7c27502d57049f9785e5a89cc4feb6bff6f5bc2486d1ee565f1202fc
+CRC32C  : bf98210e
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.214129
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Configuring_firewalls_and_packet_filters-en-US.pdf
+MD5     : 77231f36931fab9c999f7a6613867f8f
+SHA1    : eecd41abb06065483ee060470cd21b29b5015eb0
+SHA256  : 03c8d83b674ce5e8b2da52b166db4abbf804348e515e568f1539f17c302a2136
+CRC32C  : 1cc53ca1
+----------------------------------------
+Timestamp: 2025-09-03T22:58:51.215184
+Hostname: bogon
+File Path: /Users/matengda/Downloads/manual-main/Red_Hat_Enterprise_Linux/Red_Hat_Enterprise_Linux_10/Red_Hat_Enterprise_Linux-10-Packaging_and_distributing_software-en-US.pdf
+MD5     : 6c90591f7d587c100d518cf618e0a864
+SHA1    : 783cb77234ce73107db1011f6e1d9f3b87e69c69
+SHA256  : f7ee5982af605a26cb6f6d12d2f5c268c3f9076e4a496caa986d1260bc9e9d98
+CRC32C  : 5938d931
+----------------------------------------
