@@ -1,0 +1,105 @@
+Timestamp: 2025-09-03T17:59:02.034472
+Hostname: CMCC
+File Path: D:\Windows 2000.7z
+MD5     : 60c204a5ecc45b19375add4c2c30da7b
+SHA1    : b3850bad65a020bcbe734877acf234d3d0ad7a00
+SHA256  : c1d5e647bc284a28d91eb91267608aa68cfaf9f376f6b5cea922cb45168337db
+CRC32C  : 85b264b0
+----------------------------------------
+Timestamp: 2025-09-03T17:59:33.972574
+Hostname: CMCC
+File Path: D:\Windows 7.7z
+MD5     : 229970812f55964e92ea5229a6c5bf63
+SHA1    : 4995820e573e9ce29d2c10bf20a82cf05fb494f0
+SHA256  : fd7b7c386b33e6abec4cba2fde14dd501d3d5509ec8aa0c552043ffd0e669499
+CRC32C  : 5ef2b229
+----------------------------------------
+Timestamp: 2025-09-03T17:59:35.697867
+Hostname: CMCC
+File Path: D:\Windows 98.7z
+MD5     : ab5af3be2da3d7c6eecf712c922ab034
+SHA1    : 6f9b5427d0ffde0b92fca14b10de507145f39ae5
+SHA256  : 98d1eae368d10733519c458a6c940cbacf7eccce0386216868b80de342dfc53c
+CRC32C  : 222e7123
+----------------------------------------
+Timestamp: 2025-09-03T17:59:42.044647
+Hostname: CMCC
+File Path: D:\Windows Server 2003.7z
+MD5     : f456dc8c39f53c098f058e9fb4fae65c
+SHA1    : 9aa6ee7715662b43696a106d2cb1a9a37630d4a0
+SHA256  : 51a38d0337878beb149b506f2b8b7f92c45d3c7ad944d5acd84837b5fc6a5f2f
+CRC32C  : 864a9a8e
+----------------------------------------
+Timestamp: 2025-09-03T18:00:17.521801
+Hostname: CMCC
+File Path: D:\Windows Server 2008.7z
+MD5     : f3400151f221ef1fbb94229b1e71bb70
+SHA1    : 832d381d1fa17657132f3024a1c3ce4565706387
+SHA256  : b7ed21dd09c4e46b9b51efbfa171a1aaa7bb190496bef26e68a00f829f1559f6
+CRC32C  : 1d633c19
+----------------------------------------
+Timestamp: 2025-09-03T18:00:58.639286
+Hostname: CMCC
+File Path: D:\Windows Server 2012.7z
+MD5     : 55fb5f074f896c57b3f5a30e46ecae7b
+SHA1    : 871cac55cfe26329226444c68380a9074c7965ab
+SHA256  : 72243179585b7d4491be17f4ac7aebebb96a8e438987d4f982f1772eace16d7c
+CRC32C  : 50fd6c9a
+----------------------------------------
+Timestamp: 2025-09-03T18:01:34.378335
+Hostname: CMCC
+File Path: D:\Windows Server 2016.7z
+MD5     : 56bc9167339b6a4afd6a9988b1839e8a
+SHA1    : bae4a558c3baa70abeb4700cb8281d7948223794
+SHA256  : 5d88bca19ed249b3cf8d31c6835d8448a5a0ec34a3754f6bd95022b655675aae
+CRC32C  : 0e0f7ee2
+----------------------------------------
+Timestamp: 2025-09-03T18:02:04.208147
+Hostname: CMCC
+File Path: D:\Windows Server 2019.7z
+MD5     : 1b7d37efa1e642c2be212ad66d1a2eeb
+SHA1    : 9d2b341c51ab6b7dd1faadbdcb92a5ae7a916154
+SHA256  : 85eafc904875adb9275ca521065f94e5d3091f0142af3ac5bb2fc426362d2749
+CRC32C  : 1a29a233
+----------------------------------------
+Timestamp: 2025-09-03T18:04:18.209617
+Hostname: CMCC
+File Path: D:\Windows Server 2022.7z
+MD5     : 8580d991125e1e27caba5b240e7e7cfc
+SHA1    : c00fc07bac199ddd6ffea67779fab80c33ed55a9
+SHA256  : 148606b7efce8fe81272d8946c6345a64013b45de74fede9936e24a1d2af929a
+CRC32C  : e60149dd
+----------------------------------------
+Timestamp: 2025-09-03T18:04:55.351333
+Hostname: CMCC
+File Path: D:\Windows Server 2025.7z
+MD5     : 4f3561b0add6873286c627de117614ea
+SHA1    : 632d29a73e6c677491a87997864101a936177ac6
+SHA256  : 14e6ac529b0b02a8a4e365d77cd3cea0e4ab21f9acdddb90424a7e35e53b5a6a
+CRC32C  : d8a84b41
+----------------------------------------
+Timestamp: 2025-09-03T18:05:18.993283
+Hostname: CMCC
+File Path: D:\Windows Server 23H2 NOGUI.7z
+MD5     : 03a2db56cd8a0c49089d9891418bfcce
+SHA1    : 502ddb21f38000707b76a90c21b435747150384f
+SHA256  : 54d52a846a6721b7dc3b4369838faefca273c879c43dab3f7ccf8754059a473c
+CRC32C  : cc0ee227
+----------------------------------------
+Timestamp: 2025-09-03T18:05:27.664848
+Hostname: CMCC
+File Path: D:\Windows Thin PC.7z
+MD5     : c6a4f80f66f02a2eda331a73281eee76
+SHA1    : 83be4e28304e386ac2b9fde46be8c502539a2f6e
+SHA256  : 837a1884911b2215a0282b9547923169d3f31fe3a190ba26987daad971934b3f
+CRC32C  : 76fb6e17
+----------------------------------------
+Timestamp: 2025-09-03T18:05:38.571862
+Hostname: CMCC
+File Path: D:\Windows XP.7z
+MD5     : ae18a30c7873bb13568acc2d8bdf3d81
+SHA1    : 651c4a159d88feed6613f24e3b5139c3094cf7fb
+SHA256  : e81812a698c9203f7f1195ecf577f120be62ebd9ec4e66dd036b04e958e2bcba
+CRC32C  : e1490b28
+----------------------------------------
+
