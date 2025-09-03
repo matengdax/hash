@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# hash_tool_v7.py
+# hash_tool_v10.py (混合过滤)
 
 import hashlib
 import argparse
@@ -7,7 +7,7 @@ import sys
 import socket
 import datetime
 import os
-import csv # --- 新增: 导入CSV模块 ---
+import csv
 
 # --- 导入 ---
 from google_crc32c import Checksum
@@ -18,7 +18,20 @@ from rich.progress import Progress, BarColumn, TextColumn, TimeRemainingColumn
 # 创建一个用于屏幕输出的 Console 对象
 console = Console()
 
-def calculate_hashes(file_path: str, block_size: int = 65536) -> dict:
+def calculate_hashes(file_path: str, block_size: int = 1048576) -> dict: # 默认块大小提升到1MB
+
+    # 65536 64KiB
+    # 1048576 1MiB
+    # 4194304 4MiB
+    # 8388608 8MiB
+    # 从 64KB 提升到 1MB，性能的提升幅度通常非常巨大，因为I/O调用的开销被大幅减少了
+    # 从 1MB 再提升到 4MB，性能的提升幅度会小很多，甚至可能由于上述的缓存问题而变为负增长
+    # 大小要小于L2 缓存，是因为L2缓存处在一个承上启下的关键位置，但实际上，优化的真正目标是让数据块尽可能地留在 L2 或 L3 缓存中
+    # 在kvm中,I/O 开销可能更高：在虚拟机中，文件读写需要经过一层虚拟化（例如 VirtIO 驱动）才能到达物理硬盘
+    # 这个过程会引入额外的开销和延迟。因此，减少 I/O 操作次数（即增大 block_size）可能会带来比物理机上更明显的效果
+    # 在kvm中,物理 CPU 的特性：您提到宿主机是 Intel Xeon (Cascadelake) 处理器。这是服务器级别的 CPU，其 L2 和 L3 缓存通常都比较大
+    # 考虑到虚拟化带来的 I/O 开销和强大的宿主机 CPU 缓存，我们可以采取比之前更激进一点的策略,可以设置到4MiB和8MiB
+    
     """分块计算一个文件的多种哈希值，现在包含 crc32c。"""
     try:
         md5_hash = hashlib.md5()
@@ -36,14 +49,17 @@ def calculate_hashes(file_path: str, block_size: int = 65536) -> dict:
         crc32c_hex = crc32c_hash.hexdigest().decode('ascii')
         
         return {
-            'path': file_path, # --- 修改: 将路径也加入字典，方便CSV写入 ---
+            'path': file_path,
             'md5': md5_hash.hexdigest(),
             'sha1': sha1_hash.hexdigest(),
             'sha256': sha256_hash.hexdigest(),
             'crc32c': crc32c_hex,
         }
     except Exception as e:
-        console.print(f"[bold red]警告:[/bold red] 无法读取或计算文件 '{file_path}': {e}")
+        if isinstance(e, PermissionError):
+            console.print(f"[bold yellow]跳过 (权限不足):[/bold yellow] '{file_path}'")
+        else:
+            console.print(f"[bold red]警告:[/bold red] 无法读取或计算文件 '{file_path}': {e}")
         return None
 
 def save_result(target_path: str, hashes: dict, output_file: str):
@@ -62,14 +78,14 @@ def save_result(target_path: str, hashes: dict, output_file: str):
     )
     
     try:
-        with open(output_file, 'a') as f:
+        with open(output_file, 'a', encoding='utf-8') as f:
             f.write(content)
     except Exception as e:
         console.print(f"[bold red]错误:[/bold red] 写入报告文件 '{output_file}' 时出错: {e}")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
-        description="[bold green]一个强大且美观的文件哈希计算工具 by Gemini[/bold green]",
+        description="[bold green]一个强大且美观的文件哈希计算工具 by Gemini (v10 - 混合过滤)[/bold green]",
         formatter_class=argparse.RawTextHelpFormatter
     )
     parser.add_argument("path", help="要计算哈希值的文件或目录路径")
@@ -87,20 +103,16 @@ if __name__ == "__main__":
     today_str = datetime.datetime.now().strftime('%Y-%m-%d')
     hostname = socket.gethostname()
     
-    # --- 修改: 提取目标文件夹名并格式化，用于默认文件名 ---
-    # 使用abspath确保即使输入是"."也能获得正确的目录名
     target_folder_name = os.path.basename(os.path.abspath(input_path)).replace(' ', '_').replace('/', '_')
 
     if args.output:
         output_file_path = args.output
     else:
-        # 在默认文件名中加入文件夹名
         output_file_path = f"./{today_str}-{hostname}-{target_folder_name}-hashes-report.txt"
 
     if args.summary:
         summary_file_path = args.summary
     else:
-        # 在默认文件名中加入文件夹名，并改后缀为.csv
         summary_file_path = f"./{today_str}-{hostname}-{target_folder_name}-summary.csv"
 
     console.print(f"日志报告将保存到: [cyan]{os.path.abspath(output_file_path)}[/cyan]")
@@ -113,15 +125,50 @@ if __name__ == "__main__":
         results = calculate_hashes(input_path)
         if results:
             save_result(input_path, results, output_file_path)
-            all_results.append(results) # 直接附加字典
+            all_results.append(results)
         console.print("[bold green]处理完成。[/bold green]")
 
     elif os.path.isdir(input_path):
+        # --- ======== 代码修改从这里开始 ======== ---
+        
+        # 定义要按名称排除的 Windows 系统文件夹集合
+        EXCLUDED_FOLDERS = {
+            '$RECYCLE.BIN', 
+            'System Volume Information',
+            'Config.Msi',
+            'MSOCache',
+            'Recovery',
+            '$WinREAgent',
+            'Documents and Settings'
+        }
+
         console.print(f"正在递归处理目录: [yellow]{input_path}[/yellow]")
-        file_list = [os.path.join(r, f) for r, d, files in os.walk(input_path) for f in files if os.path.isfile(os.path.join(r, f))]
+        console.print(f"将按规则忽略以 [dim].[/dim] 或 [dim]__[/dim] 开头的目录/文件。")
+        console.print(f"还将按名称忽略以下目录: [dim]{EXCLUDED_FOLDERS}[/dim]")
+        
+        file_list = []
+        # 使用os.walk遍历目录
+        for root, dirs, files in os.walk(input_path):
+            # 核心修改1: 混合过滤不想访问的目录
+            # `dirs[:]`是关键，它会就地修改列表，os.walk会采纳这个修改
+            dirs[:] = [
+                d for d in dirs if
+                not d.startswith('.') and         # 规则1: 不以.开头
+                not d.startswith('__') and        # 规则2: 不以__开头
+                d not in EXCLUDED_FOLDERS       # 规则3: 不在排除列表中
+            ]
+
+            # 核心修改2: 过滤不想处理的文件
+            for filename in files:
+                if not filename.startswith('.') and not filename.startswith('__'):
+                    full_path = os.path.join(root, filename)
+                    if os.path.isfile(full_path):
+                        file_list.append(full_path)
+
+        # --- ======== 代码修改在这里结束 ======== ---
 
         if not file_list:
-            console.print("[yellow]该目录下没有找到文件，无需处理。[/yellow]")
+            console.print("[yellow]该目录下没有找到符合条件的文件，无需处理。[/yellow]")
         else:
             with Progress(
                 TextColumn("[progress.description]{task.description}"), BarColumn(),
@@ -133,7 +180,7 @@ if __name__ == "__main__":
                     results = calculate_hashes(full_path)
                     if results:
                         save_result(full_path, results, output_file_path)
-                        all_results.append(results) # 直接附加字典
+                        all_results.append(results)
                     progress.update(task, advance=1)
             console.print("[bold green]所有文件处理完成。[/bold green]")
         
@@ -142,7 +189,6 @@ if __name__ == "__main__":
         sys.exit(1)
 
     if all_results:
-        # (屏幕表格输出部分保持不变)
         console.print("\n[bold blue]--- 计算结果摘要 (屏幕预览) ---[/bold blue]")
         table = Table(show_header=True, header_style="bold magenta")
         table.add_column("File Path", style="dim", width=50)
@@ -157,14 +203,12 @@ if __name__ == "__main__":
             )
         console.print(table)
 
-        # --- 修改: 将摘要表格以CSV格式保存到文件 ---
         try:
-            # 定义CSV文件的表头顺序
             fieldnames = ['path', 'md5', 'sha1', 'sha256', 'crc32c']
             with open(summary_file_path, "w", encoding="utf-8", newline='') as f:
                 writer = csv.DictWriter(f, fieldnames=fieldnames)
-                writer.writeheader() # 写入表头
-                writer.writerows(all_results) # 批量写入数据
+                writer.writeheader()
+                writer.writerows(all_results)
             console.print(f"\n[bold green]CSV摘要已成功保存到: {os.path.abspath(summary_file_path)}[/bold green]")
         except Exception as e:
             console.print(f"[bold red]错误:[/bold red] 保存CSV摘要到 '{summary_file_path}' 时出错: {e}")
