@@ -8,7 +8,7 @@ import socket
 import datetime
 import os
 
-def calculate_hashes(file_path: str, block_size: int = 65536) -> dict:
+def calculate_hashes(file_path: str, block_size: int = 1048576) -> dict:
     """分块计算一个文件的多种哈希值。"""
     try:
         md5_hash = hashlib.md5()
