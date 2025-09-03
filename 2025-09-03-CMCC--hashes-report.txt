@@ -1,105 +1,176 @@
-Timestamp: 2025-09-03T17:59:02.034472
+Timestamp: 2025-09-03T18:56:43.162494
 Hostname: CMCC
-File Path: D:\Windows 2000.7z
-MD5     : 60c204a5ecc45b19375add4c2c30da7b
-SHA1    : b3850bad65a020bcbe734877acf234d3d0ad7a00
-SHA256  : c1d5e647bc284a28d91eb91267608aa68cfaf9f376f6b5cea922cb45168337db
-CRC32C  : 85b264b0
+File Path: D:\Windows 2000.7z\ZRMPSEL_CN.iso
+MD5     : c23ef568b3eb2e06896ad842b02961bc
+SHA1    : 82eb2eb7f145ebd0a23bc7e2767788ba88b91e69
+SHA256  : ff905d8cc8c366e5a4b18bbba13513e64d7b62755abc3fd54a75d707e270b6b9
+CRC32C  : 053d251d
 ----------------------------------------
-Timestamp: 2025-09-03T17:59:33.972574
+Timestamp: 2025-09-03T18:57:21.136558
 Hostname: CMCC
-File Path: D:\Windows 7.7z
-MD5     : 229970812f55964e92ea5229a6c5bf63
-SHA1    : 4995820e573e9ce29d2c10bf20a82cf05fb494f0
-SHA256  : fd7b7c386b33e6abec4cba2fde14dd501d3d5509ec8aa0c552043ffd0e669499
-CRC32C  : 5ef2b229
+File Path: D:\Windows 7.7z\7601.24214.180801-1700.win7sp1_ldr_escrow_CLIENT_ULTIMATE_x64FRE_en-us.iso
+MD5     : 8ce237e3d43ccfb41bfe32ccd4420e10
+SHA1    : 7cc76b0015220de956328fb934d61b710a94293d
+SHA256  : dec04cbd352b453e437b2fe9614b67f28f7c0b550d8351827bc1e9ef3f601389
+CRC32C  : 1ea57dd8
 ----------------------------------------
-Timestamp: 2025-09-03T17:59:35.697867
+Timestamp: 2025-09-03T18:57:22.833315
 Hostname: CMCC
-File Path: D:\Windows 98.7z
-MD5     : ab5af3be2da3d7c6eecf712c922ab034
-SHA1    : 6f9b5427d0ffde0b92fca14b10de507145f39ae5
-SHA256  : 98d1eae368d10733519c458a6c940cbacf7eccce0386216868b80de342dfc53c
-CRC32C  : 222e7123
+File Path: D:\Windows 98.7z\SC_WIN98SE.exe
+MD5     : 4049bef7b62f3a7c08f5e779353c6407
+SHA1    : 9014ac7b67fc7697dea597846f980db9b3c43cd4
+SHA256  : 4158c9386b18ccc9f031cf8fc058b167811172fb89f0d2c41fe2614c78ecdbaf
+CRC32C  : c343f062
 ----------------------------------------
-Timestamp: 2025-09-03T17:59:42.044647
+Timestamp: 2025-09-03T18:57:25.255017
 Hostname: CMCC
-File Path: D:\Windows Server 2003.7z
-MD5     : f456dc8c39f53c098f058e9fb4fae65c
-SHA1    : 9aa6ee7715662b43696a106d2cb1a9a37630d4a0
-SHA256  : 51a38d0337878beb149b506f2b8b7f92c45d3c7ad944d5acd84837b5fc6a5f2f
-CRC32C  : 864a9a8e
+File Path: D:\Windows Server 2003.7z\cn_windows_server_2003_sp2_x86_cd.iso
+MD5     : 3a17724b2dd233540341222a770e4963
+SHA1    : 64572b06732aab408fbc561c685450ef34390c9e
+SHA256  : d8b24fcce36db7c307301e1a1a2ab55c450a21660284b39171e8266bb2243210
+CRC32C  : eddd827e
 ----------------------------------------
-Timestamp: 2025-09-03T18:00:17.521801
+Timestamp: 2025-09-03T18:57:29.132367
 Hostname: CMCC
-File Path: D:\Windows Server 2008.7z
-MD5     : f3400151f221ef1fbb94229b1e71bb70
-SHA1    : 832d381d1fa17657132f3024a1c3ce4565706387
-SHA256  : b7ed21dd09c4e46b9b51efbfa171a1aaa7bb190496bef26e68a00f829f1559f6
-CRC32C  : 1d633c19
+File Path: D:\Windows Server 2003.7z\Windows Server 2003 R2\cn_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_X13-46432.iso
+MD5     : 1017479075166ba7dd762392f8274fe3
+SHA1    : d0dd2782e9387328ebfa45d8804b6850acabf520
+SHA256  : 37c6deac64146c128fe3f6bbd505d3b6c4166f56fcb819beb3aa9909e084bb75
+CRC32C  : a7285c16
 ----------------------------------------
-Timestamp: 2025-09-03T18:00:58.639286
+Timestamp: 2025-09-03T18:57:29.917510
 Hostname: CMCC
-File Path: D:\Windows Server 2012.7z
-MD5     : 55fb5f074f896c57b3f5a30e46ecae7b
-SHA1    : 871cac55cfe26329226444c68380a9074c7965ab
-SHA256  : 72243179585b7d4491be17f4ac7aebebb96a8e438987d4f982f1772eace16d7c
-CRC32C  : 50fd6c9a
+File Path: D:\Windows Server 2003.7z\Windows Server 2003 R2\cn_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_X13-13895.iso
+MD5     : 9160be18a627692c996bd3ad22fb7dbd
+SHA1    : 4b364e848fcc59762dddced1493248e2896ee033
+SHA256  : 5b957de8d2788b10ad53ec690c0d5cc774ed6c8f00378f3d2e1b1f8e06164cb1
+CRC32C  : bdd98406
 ----------------------------------------
-Timestamp: 2025-09-03T18:01:34.378335
+Timestamp: 2025-09-03T18:57:48.304321
 Hostname: CMCC
-File Path: D:\Windows Server 2016.7z
-MD5     : 56bc9167339b6a4afd6a9988b1839e8a
-SHA1    : bae4a558c3baa70abeb4700cb8281d7948223794
-SHA256  : 5d88bca19ed249b3cf8d31c6835d8448a5a0ec34a3754f6bd95022b655675aae
-CRC32C  : 0e0f7ee2
+File Path: D:\Windows Server 2008.7z\Windows Server 2008 R2\cn_windows_server_2008_with_sp2_x64_dvd_x15-41319.iso
+MD5     : 95708e829f4ba386824742b070cadb79
+SHA1    : e722e8f91722efe988fa274a5062ee978e53c22a
+SHA256  : 28512fbdc1a485c1fec79dbb1d376aa17d7931313fc1a0703e85bfaeedd95136
+CRC32C  : 1751136c
 ----------------------------------------
-Timestamp: 2025-09-03T18:02:04.208147
+Timestamp: 2025-09-03T18:58:09.926031
 Hostname: CMCC
-File Path: D:\Windows Server 2019.7z
-MD5     : 1b7d37efa1e642c2be212ad66d1a2eeb
-SHA1    : 9d2b341c51ab6b7dd1faadbdcb92a5ae7a916154
-SHA256  : 85eafc904875adb9275ca521065f94e5d3091f0142af3ac5bb2fc426362d2749
-CRC32C  : 1a29a233
+File Path: D:\Windows Server 2008.7z\Windows Server 2008 R2 SP1\cn_windows_server_2008_r2_with_sp1_x64_dvd_617598.iso
+MD5     : bcbbce8d75d836777e864759c5b8cde0
+SHA1    : 38bff8da3beaa742eca54a6f584403bd253444b5
+SHA256  : c3ebcb5e6b709e3e19c91be3b6a364ee44ff97202c5f57193bed23a749ab926c
+CRC32C  : eda4aa3c
 ----------------------------------------
-Timestamp: 2025-09-03T18:04:18.209617
+Timestamp: 2025-09-03T18:58:22.274135
 Hostname: CMCC
-File Path: D:\Windows Server 2022.7z
-MD5     : 8580d991125e1e27caba5b240e7e7cfc
-SHA1    : c00fc07bac199ddd6ffea67779fab80c33ed55a9
-SHA256  : 148606b7efce8fe81272d8946c6345a64013b45de74fede9936e24a1d2af929a
-CRC32C  : e60149dd
+File Path: D:\Windows Server 2012.7z\cn_microsoft_hyper-v_server_2012_x64_dvd_915786.iso
+MD5     : 49d244d4c643412e0529c4f2c98191b3
+SHA1    : 43d42d1c1d9c782d64815d9814c3653c66e733f7
+SHA256  : c25a9ce1a29940821bf16db8cdba462ca70308cce2a52688a35d9e92f44bea19
+CRC32C  : d1c0e01a
 ----------------------------------------
-Timestamp: 2025-09-03T18:04:55.351333
+Timestamp: 2025-09-03T18:58:58.243693
 Hostname: CMCC
-File Path: D:\Windows Server 2025.7z
-MD5     : 4f3561b0add6873286c627de117614ea
-SHA1    : 632d29a73e6c677491a87997864101a936177ac6
-SHA256  : 14e6ac529b0b02a8a4e365d77cd3cea0e4ab21f9acdddb90424a7e35e53b5a6a
-CRC32C  : d8a84b41
+File Path: D:\Windows Server 2012.7z\Windows Server 2012 R2\cn_windows_server_2012_r2_with_update_x64_dvd_6052725.iso
+MD5     : 02932ea7f9d81a452290dff5c8b2c8c5
+SHA1    : 82292fa197e6c9dd9af8f7e68e7a79a5da1dda2b
+SHA256  : dbe8c14bfc1a621ce527c0ad5d66b52f75d12ec2a09f5ca9a92d1e2a0bcadee9
+CRC32C  : d6573387
 ----------------------------------------
-Timestamp: 2025-09-03T18:05:18.993283
+Timestamp: 2025-09-03T18:59:35.887671
 Hostname: CMCC
-File Path: D:\Windows Server 23H2 NOGUI.7z
-MD5     : 03a2db56cd8a0c49089d9891418bfcce
-SHA1    : 502ddb21f38000707b76a90c21b435747150384f
-SHA256  : 54d52a846a6721b7dc3b4369838faefca273c879c43dab3f7ccf8754059a473c
-CRC32C  : cc0ee227
+File Path: D:\Windows Server 2016.7z\cn_windows_server_2016_x64_dvd_9327743.iso
+MD5     : 8a7835aed52fc1b92b857e60c59f1280
+SHA1    : 0f501d89dfce75c63d24a3820dc19d5ac0040f80
+SHA256  : ec4827439a2d223ffa79d1262d3476524009704325fcbf2f00e8c4f8aab9cd72
+CRC32C  : fdba677d
 ----------------------------------------
-Timestamp: 2025-09-03T18:05:27.664848
+Timestamp: 2025-09-03T19:00:07.493389
 Hostname: CMCC
-File Path: D:\Windows Thin PC.7z
-MD5     : c6a4f80f66f02a2eda331a73281eee76
-SHA1    : 83be4e28304e386ac2b9fde46be8c502539a2f6e
-SHA256  : 837a1884911b2215a0282b9547923169d3f31fe3a190ba26987daad971934b3f
-CRC32C  : 76fb6e17
+File Path: D:\Windows Server 2019.7z\cn_windows_server_2019_x64_dvd_4de40f33.iso
+MD5     : 661c36cf388b21583b8d5a56c92c8f45
+SHA1    : cfa339cdbb4a1a4162bed38218b88ee376867b4f
+SHA256  : 7582db01d51bb3231e01b0b21da1cb6fbcb644be8b478682b95428d604f92c8c
+CRC32C  : be36f02d
 ----------------------------------------
-Timestamp: 2025-09-03T18:05:38.571862
+Timestamp: 2025-09-03T19:00:39.506014
 Hostname: CMCC
-File Path: D:\Windows XP.7z
-MD5     : ae18a30c7873bb13568acc2d8bdf3d81
-SHA1    : 651c4a159d88feed6613f24e3b5139c3094cf7fb
-SHA256  : e81812a698c9203f7f1195ecf577f120be62ebd9ec4e66dd036b04e958e2bcba
-CRC32C  : e1490b28
+File Path: D:\Windows Server 2022.7z\SERVER_EVAL_x64FRE_en-us.iso
+MD5     : e7908933449613edc97e1b11180429d1
+SHA1    : 70ab5af6264c2f967dccafc16fd9a46b6f0b07a7
+SHA256  : 3e4fa6d8507b554856fc9ca6079cc402df11a8b79344871669f0251535255325
+CRC32C  : 8e535336
 ----------------------------------------
-
+Timestamp: 2025-09-03T19:01:15.943696
+Hostname: CMCC
+File Path: D:\Windows Server 2022.7z\SW_DVD9_Win_Server_STD_CORE_2022__64Bit_ChnSimp_DC_STD_MLF_X22-74289.ISO
+MD5     : 3e6d9f50fbda6dde64debfbff982b48f
+SHA1    : 1af35465a23d6c3c32db05bf50d40ffe22054e9d
+SHA256  : fc50fc31ddd4462afc191e04a9523b577e02e6246a84dad3584e5a655c155e43
+CRC32C  : 5d5964c2
+----------------------------------------
+Timestamp: 2025-09-03T19:01:52.393454
+Hostname: CMCC
+File Path: D:\Windows Server 2022.7z\zh-cn_windows_server_2022_updated_march_2024_x64_dvd_f6700d18.iso
+MD5     : 19c1fa9fa452a1e0586c74e8427e10e9
+SHA1    : 6f7019232cb94e42236f3fa3786d7431e950e593
+SHA256  : b9b0c3197b4a8eace0862d968c232fa8bba1f176cca7b57e4ef22f360f88b76a
+CRC32C  : 27b7c08d
+----------------------------------------
+Timestamp: 2025-09-03T19:02:31.626163
+Hostname: CMCC
+File Path: D:\Windows Server 2022.7z\zh-cn_windows_server_2022_updated_sep_2024_x64_dvd_cab4e960.iso
+MD5     : 70579b52386b25d034306c11ee940814
+SHA1    : 7ca3c339df39c5874742d3b231b1eb963f63bda4
+SHA256  : 13a4a87cea23fddb222f0a5ac041b051c355f0a5e830fa7f560f0e3cbddb9903
+CRC32C  : 7acd6d48
+----------------------------------------
+Timestamp: 2025-09-03T19:03:10.927148
+Hostname: CMCC
+File Path: D:\Windows Server 2025.7z\X23-81954_26100.1742.240906-0331.ge_release_svc_refresh_SERVER_OEMRET_x64FRE_zh-cn.iso
+MD5     : c2f223b785563436080762c895c4e1cb
+SHA1    : 18318853f18176fd131c6e1dfdcc67b519093f07
+SHA256  : d73268825763b96f74a627226710a4667849f00f5d8f2a35695165092af4fc0f
+CRC32C  : 4672ddf6
+----------------------------------------
+Timestamp: 2025-09-03T19:03:36.353412
+Hostname: CMCC
+File Path: D:\Windows Server 23H2 NOGUI.7z\en-us_windows_server_version_23h2_updated_march_2024_x64_dvd_b34e71a0.iso
+MD5     : 55cf8edf39613811115ab1ba32a76b9e
+SHA1    : 10c44b4118b7da9edf886f7e4ce0c78ae42239ea
+SHA256  : e3410b982922b1e2917e7a583119624c9ec619576460a6ccf3c86c4323be563c
+CRC32C  : 4eba7f73
+----------------------------------------
+Timestamp: 2025-09-03T19:03:46.885465
+Hostname: CMCC
+File Path: D:\Windows Thin PC.7z\en_windows_thin_pc_x86_697681.iso
+MD5     : 434dc27b6ecd4932d300a5e756397ff5
+SHA1    : cc181653c1baaf85337cda069e35d0d94f99cca9
+SHA256  : 8e5a28d915a851a53a30b06dff4b3945de47f5dad6d6c7f24a388189642a9e3b
+CRC32C  : 53edc31a
+----------------------------------------
+Timestamp: 2025-09-03T19:03:50.689110
+Hostname: CMCC
+File Path: D:\Windows XP.7z\en_win_xp_pro_x64_with_sp2_vl_x13-41611.iso
+MD5     : 33a35e7544201ea47fee6cac6a52153b
+SHA1    : cd9479e1dbad7f26b8bdcf97e4aa71cbb8de932b
+SHA256  : ace108a116ed33ddbfd6b7e2c5f21bcef9b3ba777ca9a8052730138341a3d67d
+CRC32C  : b30e83e5
+----------------------------------------
+Timestamp: 2025-09-03T19:03:54.722964
+Hostname: CMCC
+File Path: D:\Windows XP.7z\zh-hans_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74070.iso
+MD5     : e74d72f3d90456003e9e02ba0fb7da61
+SHA1    : d142469d0c3953d8e4a6a490a58052ef52837f0f
+SHA256  : 39430c2b8dd5c21bbd5af9116573f8c574ae896ce31d47280914ef268f01e33f
+CRC32C  : 72f25271
+----------------------------------------
+Timestamp: 2025-09-03T19:03:58.582899
+Hostname: CMCC
+File Path: D:\Windows XP.7z\zh-hans_windows_xp_professional_with_service_pack_3_x86_cd_x14-80404.iso
+MD5     : 534314ec312e8407cfdc6ef1ff21b804
+SHA1    : 69dbf131116760932dcf132ade111d6b45778098
+SHA256  : c54d6c504a0267617a567c994cecc91c80496c5241503efd67a11909b6e0a98b
+CRC32C  : 96fc9095
+----------------------------------------
