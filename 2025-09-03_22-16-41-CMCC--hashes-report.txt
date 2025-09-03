@@ -1,0 +1,8 @@
+Timestamp: 2025-09-03T22:23:46.857974
+Hostname: CMCC
+File Path: D:\Windows 10.7z
+MD5     : d7163c31e1d07b2a67ec501ff418c8db
+SHA1    : 94669a4b2e01559e5b3ce930e21b83b313bfa3bc
+SHA256  : 543521921841e2d2c96ed5ae8e4b26160a69a02087c909fa302e46371f89c8b5
+CRC32C  : 3c7c75ce
+----------------------------------------

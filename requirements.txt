@@ -1,2 +1,0 @@
-google-crc32c
-rich
