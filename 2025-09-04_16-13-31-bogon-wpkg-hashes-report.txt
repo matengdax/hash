@@ -1,0 +1,80 @@
+Timestamp: 2025-09-04T16:13:31.332828
+Hostname: bogon
+File Path: /Users/matengda/Downloads/wpkg/N_m3u8DL-CLI_v3.0.2.exe
+MD5     : 426443628a70ea47ac05b67f665666c1
+SHA1    : ce9d03363c6f01678876ca52bdf118a031af5102
+SHA256  : b9e50e69e722b427d8bcafd1ecaa355d3ae79d9dae6b5fd87095fdb01bef8195
+CRC32C  : cc6c4d5a
+----------------------------------------
+Timestamp: 2025-09-04T16:13:31.333264
+Hostname: bogon
+File Path: /Users/matengda/Downloads/wpkg/N_m3u8DL-CLI-SimpleG.exe
+MD5     : 00bd6c1dc59c8a1ae4e429dc130fa5b3
+SHA1    : edf422f6ee3cf4c1fcec7e04a41fa6470a779f36
+SHA256  : 3acd87a4c80b5e860b1666588339cf6ccc9a7850798b8ce6a0bdc9a7792759d1
+CRC32C  : 429c9ef5
+----------------------------------------
+Timestamp: 2025-09-04T16:13:31.487920
+Hostname: bogon
+File Path: /Users/matengda/Downloads/wpkg/Xftp-8.0.0084p.exe
+MD5     : 25e9d22de7f1da6f316a94d3df1fa64f
+SHA1    : a949d2926f5ef252bfa24c51fd2c4dc53caf6551
+SHA256  : c2a991edc3b59557c17da0ac1e20542e635430bb4dc33464abeed68881f766c1
+CRC32C  : 4a1dfeb3
+----------------------------------------
+Timestamp: 2025-09-04T16:13:31.494489
+Hostname: bogon
+File Path: /Users/matengda/Downloads/wpkg/MobaXterm_Portable_v25.2.zip
+MD5     : ad8fe0a12e1d0344a43e75cb19238fb9
+SHA1    : c38c4c237c19dc694654f2ea98682c00d1e2810f
+SHA256  : b279fe9ec9b22200288778cc4a4a14aca66e64824cd73ac1bb94a71e38d64ef3
+CRC32C  : 458f2a45
+----------------------------------------
+Timestamp: 2025-09-04T16:13:31.511414
+Hostname: bogon
+File Path: /Users/matengda/Downloads/wpkg/Xshell-8.0.0084p.exe
+MD5     : e7999b597e20d12b7640294be3e5f8bd
+SHA1    : 8df931d0b17d2f5dbb58e8e31f628614d6f911d5
+SHA256  : 96bea0582f200b34872b269aae52bafe4946ceaf3b366e7ff3d323ef4986e799
+CRC32C  : d5b0fbc3
+----------------------------------------
+Timestamp: 2025-09-04T16:13:31.541992
+Hostname: bogon
+File Path: /Users/matengda/Downloads/wpkg/JetBrains.dotCover.2025.1.4.web.exe
+MD5     : 1dc6ffb30f0118ef80ba290d8e845647
+SHA1    : 2a2e46f3fbb363c12793c3dfc1b011e4b02a5296
+SHA256  : b7ac0f5cb7c806aeb93468b402be15b1c19dd0ad8e50fde4108ff0b9fd8843ef
+CRC32C  : 9ea3d510
+----------------------------------------
+Timestamp: 2025-09-04T16:13:31.550727
+Hostname: bogon
+File Path: /Users/matengda/Downloads/wpkg/JetBrains.ReSharper.2025.1.4.web.exe
+MD5     : b74d3dda02c0c568821ed6356684262c
+SHA1    : 805b601fc77600ea3eb168b3ca7884bf816ea86e
+SHA256  : cbf4727712e5cd5959e3ddd0450ff1b566b2576823279371153da49e9acc4bc8
+CRC32C  : 04c71cf4
+----------------------------------------
+Timestamp: 2025-09-04T16:13:31.566073
+Hostname: bogon
+File Path: /Users/matengda/Downloads/wpkg/JetBrains.ReSharperCpp.2025.1.4.web.exe
+MD5     : d91ee49140066a287de10fab42af5155
+SHA1    : 66bc8945f5cf19ddfbcf1d7038837345d1d955a7
+SHA256  : 9232e24fa333bb0e5f0390d030bd2c525f503888a08d8e21d9d161b0ec877a66
+CRC32C  : dd245eae
+----------------------------------------
+Timestamp: 2025-09-04T16:13:31.883003
+Hostname: bogon
+File Path: /Users/matengda/Downloads/wpkg/Install Termius.exe
+MD5     : f958c59bd6d64de1a3c2e182f895d5e7
+SHA1    : d3e66b4cf42295fd3ebf44674419cb3f0ff8a702
+SHA256  : 6a1219d90edd6a2ed8880295107f5612b3ef9a6484e1c0c1a95754ca56d92279
+CRC32C  : d36f5251
+----------------------------------------
+Timestamp: 2025-09-04T16:13:34.142010
+Hostname: bogon
+File Path: /Users/matengda/Downloads/wpkg/android-studio-2025.1.2.12-windows.exe
+MD5     : 79796be173940a96283ba4d4854890aa
+SHA1    : 486b44afd875f0628ad6965d617bf6016c8fb97a
+SHA256  : b62977a08079d438f5ffecc8b61c0c00d8e90af556a523794c51e17ad3e12a36
+CRC32C  : 33e697d9
+----------------------------------------
