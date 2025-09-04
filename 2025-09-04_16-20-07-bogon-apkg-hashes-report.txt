@@ -1,0 +1,104 @@
+Timestamp: 2025-09-04T16:20:08.235975
+Hostname: bogon
+File Path: /Users/matengda/Downloads/apkg/JetBrains.dotTrace.macos-arm64.2025.1.4.dmg
+MD5     : a09c13ba47611cd8c8029afe4719ecbd
+SHA1    : ab51fb9a4fa695a80b89a81a8e63aa1676bc51dd
+SHA256  : 8c92909cb90e71f820fb63ce2e8b9382aeaa4a00adefda9589e9dee643e37b25
+CRC32C  : 10e9b113
+----------------------------------------
+Timestamp: 2025-09-04T16:20:08.606713
+Hostname: bogon
+File Path: /Users/matengda/Downloads/apkg/mInstaller.dmg
+MD5     : 999e40b0271f4486546ef58f6274e289
+SHA1    : f6ce1b6680a8c18f8dacb854eb37921370850b45
+SHA256  : fe12adb1930df61dbe7f713eade56da6222c8b48ff687e09c12c9c4a4d347755
+CRC32C  : edf83ed3
+----------------------------------------
+Timestamp: 2025-09-04T16:20:09.264961
+Hostname: bogon
+File Path: /Users/matengda/Downloads/apkg/JetBrains.dotMemory.macos-arm64.2025.1.4.dmg
+MD5     : dabdf55cc1e90fb127ac77752824450a
+SHA1    : dfcc9e1715c0f801fd9f9b1e2fd6cb7fdcdfda48
+SHA256  : f95db7cefddd1fb14c8147864c11a3ccc1db06281bd4626ef664bdd478cd7705
+CRC32C  : 71c19548
+----------------------------------------
+Timestamp: 2025-09-04T16:20:09.316683
+Hostname: bogon
+File Path: /Users/matengda/Downloads/apkg/Termius.dmg
+MD5     : 2760bc150b07884b813f646c51e49195
+SHA1    : 2cfcad5c3df870887608137be6d7c51911bea19b
+SHA256  : e09c8b1cfee6db290e02c407d9402e65cf53e3b17c45fb078676604508d8cff5
+CRC32C  : cbe58cdc
+----------------------------------------
+Timestamp: 2025-09-04T16:20:11.575796
+Hostname: bogon
+File Path: /Users/matengda/Downloads/apkg/datagrip-2025.1.3-aarch64.dmg
+MD5     : 8e1db47a68965c82c5bf4c4c447138ca
+SHA1    : 368a5ffb06e25938e879ffdf2cfaf368b00cabb3
+SHA256  : 83da07ddd46fe95aed36d98cbb61c7f81097dc38abe5515933653746859b396c
+CRC32C  : 0da0eb2a
+----------------------------------------
+Timestamp: 2025-09-04T16:20:11.714580
+Hostname: bogon
+File Path: /Users/matengda/Downloads/apkg/PhpStorm-2025.1.3-aarch64.dmg
+MD5     : 05f4f0ec904bea068177d4e3b455b7f7
+SHA1    : fd9febb9c338af8ecca53e7b3c4a5b2453790cef
+SHA256  : 34cb7ddf548f2a2883560e8b7a861d587a299b864e30cb8311cd37ec4ad54517
+CRC32C  : 25dedf8a
+----------------------------------------
+Timestamp: 2025-09-04T16:20:11.837197
+Hostname: bogon
+File Path: /Users/matengda/Downloads/apkg/WebStorm-2025.1.3-aarch64.dmg
+MD5     : da093434196fc4bbe8dee3d39c41a403
+SHA1    : 82acb7fc7d82c0f3799727eb8fb29e453bfe2007
+SHA256  : 2d65e2f9737fa436ad099b1d7a0034fe1143521df45ea785e7162d504175b4e9
+CRC32C  : e825c20a
+----------------------------------------
+Timestamp: 2025-09-04T16:20:11.894148
+Hostname: bogon
+File Path: /Users/matengda/Downloads/apkg/RustRover-2025.1.5-aarch64.dmg
+MD5     : 5e59e82c74cf555ccf3db08b6b1deec4
+SHA1    : f6c3ab45ded1409586314c1b3989c7b3632c9977
+SHA256  : 9386f41063a209d4634098bc14e8e63d3cf030b3f8b83524b61d99bf992905d1
+CRC32C  : 64d46ace
+----------------------------------------
+Timestamp: 2025-09-04T16:20:11.990307
+Hostname: bogon
+File Path: /Users/matengda/Downloads/apkg/ideaIC-2025.1.3-aarch64.dmg
+MD5     : 44fa1c8074e40e7088aff34dea50484a
+SHA1    : caff3eb3944a6b9689d77eab02da84317d91d91f
+SHA256  : d912ba961141b315881c16805dd6684d1f0bae321c5baf84d851bdd80d7e9e87
+CRC32C  : e9867a11
+----------------------------------------
+Timestamp: 2025-09-04T16:20:12.293420
+Hostname: bogon
+File Path: /Users/matengda/Downloads/apkg/dataspell-2025.1.2-aarch64.dmg
+MD5     : 1f93c70dec46e801d1795908346d88ec
+SHA1    : bc38512e6ba4d00b377a10932bf1610e6ab06a98
+SHA256  : 972e6281794201bb693450ca0941e13840848851799cfba965e02757764d105d
+CRC32C  : 1eaef2e1
+----------------------------------------
+Timestamp: 2025-09-04T16:20:12.770549
+Hostname: bogon
+File Path: /Users/matengda/Downloads/apkg/RubyMine-2025.1.3-aarch64.dmg
+MD5     : 478302026027396cb49d06eb7e273ea9
+SHA1    : 4e4f320cd692df871f707b344d5aedbe00003e99
+SHA256  : 06e9d70dd8f885526ff778df9c611e1e3b334a7cf313f769c7544936462056d1
+CRC32C  : 2da8e2b5
+----------------------------------------
+Timestamp: 2025-09-04T16:20:13.106615
+Hostname: bogon
+File Path: /Users/matengda/Downloads/apkg/CLion-2025.1.3-aarch64.dmg
+MD5     : db587ec95eca5dcb1809bf4006c1cc6c
+SHA1    : 02d9ab0cd43ad83115cf01492b7702ed4c81d122
+SHA256  : b415b03f8099cb4bcfd443562f9a88aecbe641ba387586d437031b5d2dc2726d
+CRC32C  : c2c5f07a
+----------------------------------------
+Timestamp: 2025-09-04T16:20:13.616267
+Hostname: bogon
+File Path: /Users/matengda/Downloads/apkg/JetBrains.Rider-2025.1.4-aarch64.dmg
+MD5     : a07a880fb874f15d77bd8849c248c189
+SHA1    : 9d2f0896889b242419f16572c12ef6c48702590c
+SHA256  : b42644a5fcf1c107d8582eb0f74a8a54e03fb88f029b5d5eb53902721c305ec0
+CRC32C  : e3cd77d2
+----------------------------------------
