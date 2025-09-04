@@ -1,0 +1,16 @@
+Timestamp: 2025-09-04T14:52:27.760153
+Hostname: CMCC
+File Path: D:\Red_Hat_Enterprise_Linux_AI_1.5_aarch64\rhel-ai-nvidia-1.5-1747387311-aarch64-kvm.qcow2
+MD5     : 0b882d4dab3049791065fb6a7bb489ce
+SHA1    : 0e9626d8ee8d85410cb2fd1790128623d7c7bd43
+SHA256  : 84a457fa51fe6e417f33b727aa54569d98a74f64b6c5ee47d3e61f8ba4e6885b
+CRC32C  : 0c06d6c9
+----------------------------------------
+Timestamp: 2025-09-04T14:52:34.315157
+Hostname: CMCC
+File Path: D:\Red_Hat_Enterprise_Linux_AI_1.5_aarch64\rhel-ai-nvidia-1.5-1747387258-aarch64-boot.iso.gz
+MD5     : 72e8789208ac1ee8a2cb7b65c59ce3ef
+SHA1    : da2dbf5e3cce74b180bea4629d04e70f4d9d253e
+SHA256  : e9b99a5b99180ac12990298333908f62e51628556086b7da380455e8d86651e0
+CRC32C  : 68b28419
+----------------------------------------
