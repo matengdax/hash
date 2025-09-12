@@ -1,0 +1,432 @@
+Timestamp: 2025-09-12T13:10:13.173567
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\123pan_2.5.3.exe
+MD5     : 6e0d2ddf7d7e4f8ef28708afc3c67e69
+SHA1    : 5f5f29b42bb494d6280d23a13186130ac9f209cf
+SHA256  : 5388271c19f96dbe094ab5d883c9126453626735a151f0c08c50b4b5f96d1dd2
+CRC32C  : b36a4426
+----------------------------------------
+Timestamp: 2025-09-12T13:10:55.137007
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_zh-cn.iso
+MD5     : 277c776ad35f9815a7d6211e84cdb070
+SHA1    : 90d329697fcd4aa3a4e8ab2c46e94de1633c9cb9
+SHA256  : d1b06f302c6f1bebdf4809ad370cf1add312e9174118c2f9e86b2c9d79746c45
+CRC32C  : 79cae866
+----------------------------------------
+Timestamp: 2025-09-12T13:11:47.324539
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_zh-cn.iso
+MD5     : fbc5494ae8614a0faac340288f56a58a
+SHA1    : cf0c32c32bf418787e942f793f4efbd2a080dcc1
+SHA256  : d93f21b7ff42c7e1feaf9d269a1aa32f73692d102cbc9139cc4ce6a3d95394b6
+CRC32C  : 915a67ff
+----------------------------------------
+Timestamp: 2025-09-12T13:11:47.342857
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\7z2501-arm64.exe
+MD5     : 08300e6f2a0bb9461c26c99d51a32b3a
+SHA1    : 17fe72d57ef65d49a8734e11e084150bb75bf152
+SHA256  : 6365c7c44e217b9c1009e065daf9f9aa37454e64315b4aaa263f7f8f060755dc
+CRC32C  : a30432be
+----------------------------------------
+Timestamp: 2025-09-12T13:11:47.360638
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\7z2501-x64.exe
+MD5     : 5d22e5d47698da4b1225c3231f28a838
+SHA1    : eaedd181996b4fe1ae15b6ae40c37adb6729489e
+SHA256  : 78afa2a1c773caf3cf7edf62f857d2a8a5da55fb0fff5da416074c0d28b2b55f
+CRC32C  : 0a525e8f
+----------------------------------------
+Timestamp: 2025-09-12T13:11:47.601707
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\anydesk.dmg
+MD5     : e0742bce0958c4a2543f35782c3d16d1
+SHA1    : 282b78175b726f2f7f5bce08a5d3792ee54b0030
+SHA256  : cc8d63013ea5cb46eb4a337f9113089b0c17c9bc37aeb436491649a22069efc0
+CRC32C  : 3c139cb3
+----------------------------------------
+Timestamp: 2025-09-12T13:11:52.274080
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\BaiduNetdisk_7.60.0.103.exe
+MD5     : 60207586e21aeb7e7103853300ca4d20
+SHA1    : e12105ca3b26a3bcb9262529119be68281282a86
+SHA256  : 5b5c27eeeac8ea9e6a55c58a48ff90e227999f1d3be761fd1cc1f4d8bdf8ad64
+CRC32C  : 4222cbe7
+----------------------------------------
+Timestamp: 2025-09-12T13:12:00.119699
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\BookwormPup64_10.0.11.iso
+MD5     : 4256554ff7b7126cc55358c067fb762d
+SHA1    : 6879b02b5656010bb74955dc950b1fbf8328668d
+SHA256  : 3c30936bf1090cb8b006838ac91f6c57d32ff4743abf24d01e138ff815efc147
+CRC32C  : cc899c71
+----------------------------------------
+Timestamp: 2025-09-12T13:12:00.453677
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\cloudreve_4.5.1_windows_amd64.zip
+MD5     : b74912a19bafe8d50e68e4ffa3bdda25
+SHA1    : d64d75d717876668dfdf192feb21c213eb114e21
+SHA256  : 22f4e6631097ab201c20f7c074650f0b5bb38083ee339aac7bc8a3f29a3c3d51
+CRC32C  : 85908ec7
+----------------------------------------
+Timestamp: 2025-09-12T13:12:03.254140
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\CMCC-JTYDN-windows-2.6.2.0.exe
+MD5     : e6a9166e78445054b073373936199360
+SHA1    : 8915fe450d2fabe26292b1b8e88e6476e67aa3e9
+SHA256  : 3415dca7d1949013f2f0178a1ffab9c8d3d1b5df7677a7a9cc9ab6f9ec2c7ab1
+CRC32C  : 6cca1449
+----------------------------------------
+Timestamp: 2025-09-12T13:12:03.327416
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\ConEmuSetup.230724.exe
+MD5     : e25225375674b58afbe17827fa6e0352
+SHA1    : 2497c6c8363225f9492041e82ba87604212d0044
+SHA256  : 2a56edd5515ddd916410de3d84e00069ce07566b2f81c612a4241a8b109d7f4c
+CRC32C  : d70c3782
+----------------------------------------
+Timestamp: 2025-09-12T13:12:03.507931
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\Core-16.1.iso
+MD5     : 64645c5dfe254486a3991499857919b9
+SHA1    : 3d9e768bbb05b071babb67a500a431d1d7bbd8dd
+SHA256  : a2c6d73114c0fc93f575482deb0deb4f1956f9dfcb23efa552f627ca57575db1
+CRC32C  : 7025d73c
+----------------------------------------
+Timestamp: 2025-09-12T13:12:06.234423
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\CorePlus-16.1.iso
+MD5     : cf63da8c451e78af9455f4b574a9a2c9
+SHA1    : 307ec8b3518559167058bb1c61f803f6855e65da
+SHA256  : 4a50812eb3f6c57a6ef45a73d7d62ec12e80d74c1f61baede37268f2a43db890
+CRC32C  : 61108fc4
+----------------------------------------
+Timestamp: 2025-09-12T13:12:06.437470
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\DB.Browser.for.SQLite-v3.13.1-win64.msi
+MD5     : 70314a8d67758606169b1315df72a2d0
+SHA1    : 772c3f050ef1dbcfdedbaa87c6bd2eb8df273b6d
+SHA256  : d023d54b3a5db10c7e896089bb3dbe6e7f4bc4eaa9bbecb34ca414be5970f688
+CRC32C  : 559aa65f
+----------------------------------------
+Timestamp: 2025-09-12T13:12:06.438497
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\desktop.ini
+MD5     : 3a37312509712d4e12d27240137ff377
+SHA1    : 30ced927e23b584725cf16351394175a6d2a9577
+SHA256  : b029393ea7b7cf644fb1c9f984f57c1980077562ee2e15d0ffd049c4c48098d3
+CRC32C  : c7b91acf
+----------------------------------------
+Timestamp: 2025-09-12T13:12:06.952378
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\DesktopAppInstaller_Dependencies.zip
+MD5     : e84f4046d19c5dca5d98a70f19927563
+SHA1    : e47516c1c9692f863eff8ffc8d9dbf11aad1608b
+SHA256  : 23ad2245edee7d100df3a07d8aa840a96d8aa3995771d41c62c5ddc47a26f580
+CRC32C  : 8a822b3f
+----------------------------------------
+Timestamp: 2025-09-12T13:12:06.985579
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\Exercise.zip
+MD5     : a11ab7e1f8b9abea3407808b34c97152
+SHA1    : 2d71d472512ec89c819e616d210571ded6e8749d
+SHA256  : 01e8b8674ca3d4c1fd0f3c241572b9e8264b1a52ab6dc2fb0bc2c36b53a43950
+CRC32C  : 0eb4e149
+----------------------------------------
+Timestamp: 2025-09-12T13:12:07.120034
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\FileZilla_3.69.3_win64_sponsored2-setup.exe
+MD5     : b50441b16022e354dde581f26fb16d86
+SHA1    : dd86f9d881a4247c5f8beaf49199fbedb50bfc49
+SHA256  : 9d4427f0840b8c3a0426aaec545f2efb3c8e8f2d5d7db9a0cdc48e34b4097898
+CRC32C  : f6c5c54d
+----------------------------------------
+Timestamp: 2025-09-12T13:12:07.258790
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\frp_0.64.0_windows_amd64.zip
+MD5     : 6a6efb3765749b017ae540507af00189
+SHA1    : d6526aaa5fc4fe0ebff88e952c3b4faf572d2e40
+SHA256  : f91170693c584d2b3d2c113cae8044e51f69ba016bd4da3673647ac05c688a17
+CRC32C  : a11bef1b
+----------------------------------------
+Timestamp: 2025-09-12T13:12:07.419975
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\GooglePinyinInstaller.exe
+MD5     : 8cb727cea58a127ae955460ccc165a15
+SHA1    : 6447a9277445befde4e70217b830285194883f67
+SHA256  : 13ddccc8ffc3392d5912c933851803e7ee7eeb126076dcabc4a77c0d99fc3b2c
+CRC32C  : 0b0856ee
+----------------------------------------
+Timestamp: 2025-09-12T13:12:07.426109
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\HHKB800_FW_A047.hfb
+MD5     : 2091862f546f7bdf1295ba60c07234f8
+SHA1    : cf1a32ebc31dd07778a8ba0b5229d44f721587bb
+SHA256  : 84c5278e5f9ee957d8fa3e6c5b6089dc53b12adc0e5e146262d2c6b1249ba123
+CRC32C  : 80418617
+----------------------------------------
+Timestamp: 2025-09-12T13:12:07.520737
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\HHKBkeymapTool_130ma.dmg
+MD5     : 9a831600afd288bc1c6a59c4cf37774f
+SHA1    : e4b1a79e3ad26f05dabf602a7e6feae1038c00bd
+SHA256  : ad9bad341ebf6a189b907b0dd5ee68627d508664335ea75e0109964a25d268f9
+CRC32C  : 0c9bff25
+----------------------------------------
+Timestamp: 2025-09-12T13:12:07.601467
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\HHKBStudiokeymapTool_111ma.dmg
+MD5     : 9d257da3941fb2aaf66d56f14d6b7920
+SHA1    : c165c296e71d02f63371de62e15868654b0e7a87
+SHA256  : 2938653604517bf664e51a5ae071e14d37dc46c7f368c8427b1f76d01b5e0413
+CRC32C  : 1232a1d6
+----------------------------------------
+Timestamp: 2025-09-12T13:12:07.737427
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\LKY_OfficeTools_v1.3.0.223.zip
+MD5     : 0e5f42f75f54e4e51a3447c520d0bb28
+SHA1    : d4f34dc1c622e22739232be7a548431a00c0df5c
+SHA256  : 821fd472dd201c8846b88832b60862e2bb367acc38f115231ce4588047b0b4cb
+CRC32C  : 219ded3d
+----------------------------------------
+Timestamp: 2025-09-12T13:12:09.796317
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle
+MD5     : 8a7311fd21483974ca27228e668e5df9
+SHA1    : ecafbfbee334d62e9921664b82573d68beda55af
+SHA256  : db76671a4e8f5fac9c96c2861907b04fd041b28235267c2e5626a2cef7468e19
+CRC32C  : 369299d2
+----------------------------------------
+Timestamp: 2025-09-12T13:12:10.205434
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\MobaXterm_Portable_v25.2.zip
+MD5     : ad8fe0a12e1d0344a43e75cb19238fb9
+SHA1    : c38c4c237c19dc694654f2ea98682c00d1e2810f
+SHA256  : b279fe9ec9b22200288778cc4a4a14aca66e64824cd73ac1bb94a71e38d64ef3
+CRC32C  : 458f2a45
+----------------------------------------
+Timestamp: 2025-09-12T13:12:11.486724
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\mysql-8.4.6-winx64.msi
+MD5     : ba097115eb639547d1817ca4a9fbe3a7
+SHA1    : 0f73e5ce32a8aea04046dd08c3f497d541d839d6
+SHA256  : 868885b2e221409f0170729bb30b2b2ce83440a1a4c735d19b3c225b51045762
+CRC32C  : e87be1c4
+----------------------------------------
+Timestamp: 2025-09-12T13:12:13.255988
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\mysql-9.4.0-winx64.msi
+MD5     : 94e72749e5dff50137571f614440f1a2
+SHA1    : 2edd65a051c71fc0ee03514fb3273bac157e1f90
+SHA256  : abf5647ef1e7de58ca1af007306cdd31f7dda5ca7ac92bb001b090923f8ca359
+CRC32C  : e8f1e47b
+----------------------------------------
+Timestamp: 2025-09-12T13:12:14.445450
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\mysql-shell-8.4.6-windows-x86-64bit.msi
+MD5     : 5e816face779c4823d9c74edc6c5c2c9
+SHA1    : db84e7bbb97596362b7b0805c7e4df79d6dcf89d
+SHA256  : 2218112a7fad186e81aeecbb566404b5e1f1b5fe1c796d55ddc3bad4943c0d5d
+CRC32C  : 5b2e7b01
+----------------------------------------
+Timestamp: 2025-09-12T13:12:14.891934
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\mysql-workbench-community-8.0.43-winx64.msi
+MD5     : f88b4bbd507c88b99795c8f4ba90e167
+SHA1    : fba412c1ff91ae7db330770a8503a30fa67058ed
+SHA256  : e0df3413dc8a1f23e429276e76baf0ac2bf9e42096a3bb0b025eeeb727e3e075
+CRC32C  : 68b70e7a
+----------------------------------------
+Timestamp: 2025-09-12T13:12:14.898702
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\nssm-2.24.zip
+MD5     : b2edd0e4a7a7be9d157c0da0ef65b1bc
+SHA1    : be7b3577c6e3a280e5106a9e9db5b3775931cefc
+SHA256  : 727d1e42275c605e0f04aba98095c38a8e1e46def453cdffce42869428aa6743
+CRC32C  : 4a1034bf
+----------------------------------------
+Timestamp: 2025-09-12T13:12:15.039344
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\openwrt-24.10.2-x86-64-generic-ext4-combined-efi.img.gz
+MD5     : 9e10211fbd2946c0faa03f17d74e3a5d
+SHA1    : 8acd95c41e0889c2866a563c1b222af757ae21a3
+SHA256  : c7b99354b8f4225592a5b4c1224e972945ac4d90d8e9143eef297d24454d27fa
+CRC32C  : 3e40fada
+----------------------------------------
+Timestamp: 2025-09-12T13:12:15.172056
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\openwrt-24.10.2-x86-64-generic-ext4-combined.img.gz
+MD5     : 914f8ee8fd6d1537468af31879b88a6b
+SHA1    : 599991ab6488f6d17b54f16bac2d88033f671e45
+SHA256  : e6c906efee992a2c7a2029a1c8ba688933066da92251696734fe70dbad17696d
+CRC32C  : 066e2b79
+----------------------------------------
+Timestamp: 2025-09-12T13:12:22.491129
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\pfSense-CE-2.6.0-RELEASE-amd64.iso
+MD5     : 5ca6d4cb89977022d2e76c9158eeeb67
+SHA1    : eedf5e04f08978afaba174576b04e62d5fd7f7a4
+SHA256  : f6520bb14a5e690c6533e4e8fbf4a48d2967f3bc35a713e716b9c64317a13f23
+CRC32C  : ac191af8
+----------------------------------------
+Timestamp: 2025-09-12T13:12:30.926200
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\pfSense-CE-2.7.2-RELEASE-amd64.iso
+MD5     : 50c3e723d68ec74d038041a34fa846f8
+SHA1    : 0b01a0e3c23360947d6c11c3dede8051bf8cad3d
+SHA256  : 441005f79ea0c155bc4b830a2b4207f8c0804cf7b075d2a6489c0a136cbc5d51
+CRC32C  : b7a62c53
+----------------------------------------
+Timestamp: 2025-09-12T13:12:31.250600
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\php-8.4.11-nts-Win32-vs17-x64.zip
+MD5     : 11584c85b950821faa43cab67bb4662e
+SHA1    : 0488d0e4f30f4bdcbb128b9a21ace913f9b1ed77
+SHA256  : 8e5fc5a247087d01a415799001c45e2690ddae1310cee2e60fa63a5d78244356
+CRC32C  : de9fb4a6
+----------------------------------------
+Timestamp: 2025-09-12T13:12:32.306998
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\PowerShell-7.4.7-win-x64.msi
+MD5     : f14b06b211b7a67d3fc8ad26e051b736
+SHA1    : 99df2ca4de326e48f9b01a15b5473617e51e4121
+SHA256  : 217b5575398d5e4a0ac67aff7b468c696a66c3e209685cf338032fc0a5f032ec
+CRC32C  : a53063ff
+----------------------------------------
+Timestamp: 2025-09-12T13:12:32.586488
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\python-3.10.11-amd64.exe
+MD5     : a55e9c1e6421c84a4bd8b4be41492f51
+SHA1    : bd8b24ec02138327f70f6a3179f6991cfc007a6f
+SHA256  : d8dede5005564b408ba50317108b765ed9c3c510342a598f9fd42681cbe0648b
+CRC32C  : cbf086ab
+----------------------------------------
+Timestamp: 2025-09-12T13:12:34.292461
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\qemu-w64-setup-20250826.exe
+MD5     : 9220cfc686c4022cdf672995033c240e
+SHA1    : 529a4dc660dd3e7cdf6c38d31f94abe74dcc5c15
+SHA256  : c7592db7716029e814d71c9a7dfc9b76dc72019753ee9afc2fa70b14c9d28b4f
+CRC32C  : 50351146
+----------------------------------------
+Timestamp: 2025-09-12T13:12:37.135092
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\QuarkPC_V4.3.5.479_pc_pf30002_(zh-cn)_release_(Build2370570-250815175717-x64).exe
+MD5     : d7d117f44a2bdc60526c82c2c4ad75a2
+SHA1    : a1b238c87ffc3ea2bf9059c53b609202e5af4f76
+SHA256  : fc198760181af44abc5e1fac443480d2ffcc332e2dd3d6492347c2e8decb3bfa
+CRC32C  : 90bf2c3f
+----------------------------------------
+Timestamp: 2025-09-12T13:12:37.184742
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\Sc557.exe
+MD5     : a2dd8e26b6c70ba380a380cf8444767e
+SHA1    : d00d1d830af95494a221b37365cc8d96b5aa51ed
+SHA256  : 6418c100085cd0b44b2453ea3c0755c6dd5f495bc5b9f55f8d93f359229caf8d
+CRC32C  : 6d28df6f
+----------------------------------------
+Timestamp: 2025-09-12T13:12:38.707325
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\SogouExplorer_Setup_x64_2100110000.exe
+MD5     : 22f045f83caf12bcc66fd16a1dfc7b9c
+SHA1    : d2cb3d080d6e69415185920f4ef28ae0217fb489
+SHA256  : 660224c21e1f60eef6086ee07668afb87095013d06423ac025f26ceb1d1614ab
+CRC32C  : fa4bbe60
+----------------------------------------
+Timestamp: 2025-09-12T13:12:38.862584
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\sublime_text_build_4200_x64_setup.exe
+MD5     : ef560fd427fcd7a81fe00084b99af5c1
+SHA1    : da22d4d6087aecc03e5618dca9da2137bc8ac1e4
+SHA256  : 3d3c70e51aef08f85d7160bcc70793bed9acec250973090ab67d98987bce7c7e
+CRC32C  : 37ee8c94
+----------------------------------------
+Timestamp: 2025-09-12T13:12:40.275491
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\supp-supplementary-8.10-rhel-8-x86_64-dvd.iso
+MD5     : e78a4705e2ae10c8a243da4b1599b167
+SHA1    : 07b47057f232f89038283f509b6279c432a59e97
+SHA256  : 91c7e844993783e785d66156916dc180ef87ee51a3e0f466c22aa4c567168584
+CRC32C  : 730a7aeb
+----------------------------------------
+Timestamp: 2025-09-12T13:12:40.604463
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\valkey-8.1.3-jammy-x86_64.tar.gz
+MD5     : 85cd854cc4e24bf7ad17114ddd4c8f85
+SHA1    : deb093cf215ddd8494585a5aeb456ec4e81c993a
+SHA256  : afbbf9e71f171472679280f9e06a8039cf3f1ac7ab6dff76ef3094852c7a342f
+CRC32C  : 465c8248
+----------------------------------------
+Timestamp: 2025-09-12T13:12:40.850431
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\VC_redist.x64.exe
+MD5     : 810499fc266b73d33d71a8d1e3291ad3
+SHA1    : 91a09963703189274e995ded25b94e165545f126
+SHA256  : 5d9999036f2b3a930f83b7fe3e2186b12e79ae7c007d538f52e3582e986a37c3
+CRC32C  : db6eabf5
+----------------------------------------
+Timestamp: 2025-09-12T13:12:46.126710
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\virtio-win-1.9.45.iso
+MD5     : cac4ad32ef043113142552ac7862a364
+SHA1    : 1e55710e03a715dffcb6b44b4952ba0a164c8cbd
+SHA256  : fc0c1d87cfab11b74be97cffe2537df843fc63f46f0ffed6fc57da0351a5653e
+CRC32C  : 47faeec6
+----------------------------------------
+Timestamp: 2025-09-12T13:12:51.292147
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\virtio-win-1.9.47.iso
+MD5     : 273c3fa44f4cb75eff88fba57db5300a
+SHA1    : 24e7dd5ea965a6edf61878cb4c9ac4e809cc6662
+SHA256  : b14ebb0a6484593de86907f8ff0567559c3c8e2a9af50948831c3e931cc41b23
+CRC32C  : 8a356b77
+----------------------------------------
+Timestamp: 2025-09-12T13:12:51.416470
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\VNC-Viewer-7.15.0-Windows.exe
+MD5     : 244766b119e19dcb675139f205bb0043
+SHA1    : b51ce7c4de83b72d770351bee19309baf47bb3e6
+SHA256  : dc81da6b3417c33d6fd28826544245e0d4f3fffab93614ead1b0b75d81a5b946
+CRC32C  : a7559f63
+----------------------------------------
+Timestamp: 2025-09-12T13:12:52.479820
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\VSCodeUserSetup-x64-1.103.1.exe
+MD5     : ba4745d0768dca317a842aa62bfe397e
+SHA1    : 315262193a923e0eb1fd43eeb6e3ad1cc68d9034
+SHA256  : cd365bcec1ae4723dcf88f722226d52d4ef6d87898afaef1edf406f966688e6e
+CRC32C  : 576343af
+----------------------------------------
+Timestamp: 2025-09-12T13:12:53.526426
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\VSCodeUserSetup-x64-1.103.2.exe
+MD5     : e696412424cb5d96ed26496d0edb154c
+SHA1    : 3102af76902637bbfa1191ac6f2e0fc20e235a6b
+SHA256  : 043bbdfd95a39065861b8e0e77765bfd260f1700b798626977c57865920e63dc
+CRC32C  : e1caba4a
+----------------------------------------
+Timestamp: 2025-09-12T13:12:55.513516
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\WeChatWin.exe
+MD5     : 94c1da5fcbec95812bcd098fcd373013
+SHA1    : d280f7be1a38d7e77d441bd3b9184d211d4ae6c6
+SHA256  : c9484df8f106dd74295582f29870237ac4d6d1515b5eab1d3e04557c0368705d
+CRC32C  : 8d29df6c
+----------------------------------------
+Timestamp: 2025-09-12T13:12:55.611291
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\windows-amd64-filebrowser.zip
+MD5     : 1d57b5dd80481bb6ebc3ab116b518b15
+SHA1    : 7ea9dc34f820d001db8bfdfba0220abbf91e7128
+SHA256  : 9557d086e093fd8d31240965c03989f2a78d47a1dafdf0e063635d8ab6e2693b
+CRC32C  : 6fd6d299
+----------------------------------------
+Timestamp: 2025-09-12T13:12:55.641513
+Hostname: nt
+File Path: C:\Users\Administrator\Downloads\wscite557.zip
+MD5     : cee1efbd42dd7ae16f163d58d11b3e8d
+SHA1    : ed907b97e60d6b6bc9122f488101e13e79daef6e
+SHA256  : 149ae81f0bd8e13470921c7ea77c2209a71a31ff8a46e3e306ebf725b5d14ce3
+CRC32C  : 1af1d085
+----------------------------------------
